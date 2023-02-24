@@ -1,0 +1,53 @@
+---
+title: Inscrições
+permalink: /inscricoes
+---
+{% assign now = "now" | date: "%Y-%m-%d" %}
+
+<div id="main" class="wrapper">
+  <div class="inner registration">
+    <header class="heading major">
+      <h1>Inscrições</h1>
+      <p>Garanta seu ingresso</p>
+    </header>
+
+    <h1>Ingressos e faixas de preço</h1>
+
+
+    <section id="registrations-closed">
+      <h2>Ingressos esgotados!</h2>
+      <p>As inscrições para a edição de 2022 já estão esgotadas, esperamos ver você no ano que vem.</p>
+      <p></p>
+    </section>
+
+    <div class="row gtr-50 gtr-uniform">
+    {% for ticket in site.data.register %}
+      {% if ticket.current %}
+        {% if ticket.token %}
+          <a class="rate current" href="{{ site.sistemas.inscricoes }}/events/80/attendances/new?registration_token={{ticket.token}}">
+        {% else %}
+          <a class="rate current" href="{{ site.sistemas.inscricoes }}" target="_blank">
+        {% endif %}
+      {% else %}
+        <div class="rate">
+      {% endif %}
+          <h3>{{ticket.name}}</h3>
+          <p>Até {{ticket.end | date: "%d/%m/%Y"}} ou {{ticket.amount}} unidades.</p>
+          <p class="price">R${{ticket.price}}</p>
+      {% if ticket.current %}
+        </a>
+      {% else %}
+        </div>
+      {% endif %}
+    {% endfor %}
+    </div>
+
+    <h2 id="faq">Perguntas frequentes</h2>
+    <dl>
+      {% for faq in site.data.faq %}
+      <dt>{{faq.question}}</dt>
+      <dd>{{faq.answer}}</dd>
+      {% endfor %}
+    </dl>
+  </div>
+</div>

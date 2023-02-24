@@ -1,0 +1,34 @@
+    <div class="profiles">
+
+      {% for keynote in site.data.keynotes %}
+      <div class="profile">
+        <div class="image">
+          <img src="{{ keynote.photo }}" alt="foto de {{keynote.name}}" />
+        </div>
+        <header class="heading">
+          <h3>{{ keynote.name }}</h3>
+          <p>{{ keynote.title }}</p>
+        </header>
+        <p>{{ keynote.minibio }}</p>
+        <ul class="icons">
+          <li><a href="{{ keynote.linkedin }}" class="icon brands fa-linkedin-in" target="_blank"><span class="label">LinkedIn</span></a></li>
+          <li><a href="{{ keynote.twitter }}" class="icon brands fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+          <li><a href="{{ keynote.site }}" class="icon solid fas fa-link" target="_blank"><span class="label">Website</span></a></li>
+        </ul>
+      </div>
+      {% endfor %}
+
+      <div class="profile">
+        <div class="image">
+          <img src="assets/images/community.svg" alt="Comunidade" />
+        </div>
+        <header class="heading">
+          <h3>E muito mais!</h3>
+          <p>Conheça o restante da programação</p>
+        </header>
+        <p>Além de keynotes, a programação da Agile Brazil conta com muitas outras sessões, palestras e mãos na massa, de pessoas veteranas e estreantes da comunidade ágil! Você já pode ver as sessões na página de Programa.</p>
+
+        <a href="./programa" class="button primary icon solid far fa-list-alt">Veja a programação</a>
+      </div>
+
+    </div>

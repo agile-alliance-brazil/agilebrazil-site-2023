@@ -1,0 +1,31 @@
+- name: Sobre
+  url: /sobre
+  production: true
+
+- name: Inscrições
+  url: /inscricoes
+  production: true
+
+- name: Programa
+  url: /programa
+  production: true
+
+- name: Patrocínio
+  url: /patrocinio
+  production: true
+
+- name: WBMA
+  url: /wbma
+  production: true
+
+- name: Local e parcerias
+  url: /local
+  production: true
+
+- name: Código de Conduta
+  url: /codigo-de-conduta
+  production: true
+
+- name: Diversidade & Inclusão
+  url: /diversidade-e-inclusao
+  production: true
