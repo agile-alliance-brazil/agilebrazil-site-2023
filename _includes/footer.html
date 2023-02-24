@@ -1,7 +1,10 @@
 <!-- Footer -->
 <footer id="footer">
-  {% include sponsors.html %}
+  {% if site.data.toggle.sponsors %}
+    {% include sponsors.html %}
+  {% endif %}
 
+  {% if site.data.toggle.about %}
   <section class="sobre">
     <div class="localizacao">
       <h3>Local</h3>
@@ -16,6 +19,7 @@
         </p>
       </address>
     </div>
+  {% endif %}
 
     <div class="apoio">
       <h3>Apoio</h3>
