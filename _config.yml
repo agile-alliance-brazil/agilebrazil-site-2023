@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Agile Brazil 2022
+title: Agile Brazil 2023
 author: Agile Brazil
 generator: Agile Brazil
 lang: pt-BR
-city: Porto Alegre
-venue: PUCRS
-dates: 5 a 7/outubro, 2022
+city: São Paulo
+venue: Centro de Convenções Rebouças
+dates: 9 a 11/outubro, 2023
 description: >-
   Agile Brazil é mais que uma conferência, é uma comunidade de pessoas unidas pelo voluntariado. 
   Estamos juntos para compartilhar conhecimento com todos aqueles que querem aprender e ensinar, independente da sua experiência com agilidade.
@@ -39,7 +39,7 @@ sistemas:
   inscricoes: "https://inscricoes.agilebrazil.com/"
 
 url: "https://www.agilebrazil.com"
-baseurl: "/2022" # the subpath of your site, e.g. /blog
+baseurl: "/2023" # the subpath of your site, e.g. /blog
 
 cotas:
   - título
