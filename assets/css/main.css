@@ -3,8 +3,8 @@
 
 html {
 	--ab-logo-azul-escuro: #182C35;
-	--ab-logo-verde-escuro: #147332;
-	--ab-logo-verde-medio: #43AC4B;
+	--ab-logo-verde-escuro: #063676;
+	--ab-logo-verde-medio: #063676;
 	--ab-logo-laranja: #FFA506;
 	--ab-logo-branco: #FFFFFF;
   --ab-divisores: rgba(255, 255, 255, 0.15);
@@ -3407,7 +3407,7 @@ input, select, textarea {
 	}
 
 		#header > .logo {
-			color: #ffffff;
+			color: #FFA505;
 			font-family: "Fjalla One", sans-serif;
 			font-weight: 400;
 			letter-spacing: 0.1rem;
@@ -3422,7 +3422,7 @@ input, select, textarea {
 			}
 
 		#header > nav > a {
-			color: #ffffff;
+			color: #FFA505;
 			display: inline-block;
 			font-family: "Fjalla One", sans-serif;
 			font-weight: 400;
@@ -3434,11 +3434,11 @@ input, select, textarea {
 		}
 
 			#header > nav > a:hover {
-				color: rgba(255, 255, 255, 0.5);
+				color: rgba(255, 165, 5, 0.5);
 			}
 
 			#header > nav > a:active {
-				color: #ffffff;
+				color: #ffa505;
 			}
 
 			#header > nav > a[href="#menu"] {
@@ -3531,15 +3531,15 @@ input, select, textarea {
 	}
 
 		#menu input, #menu select, #menu textarea {
-			color: #ffffff;
+			color: #ffa505;
 		}
 
 		#menu strong, #menu b {
-			color: #ffffff;
+			color: #ffa505;
 		}
 
 		#menu h1, #menu h2, #menu h3, #menu h4, #menu h5, #menu h6 {
-			color: #ffffff;
+			color: #ffa505;
 		}
 
 		#menu blockquote {
@@ -3625,8 +3625,8 @@ input, select, textarea {
 
 					#menu > ul.links > li > a {
 						border: 0;
-						border-top: solid 1px rgba(255, 255, 255, 0.15);
-						color: #ffffff;
+						border-top: solid 1px rgba(255, 165, 5, 0.15);
+						color: #ffa505;
 						display: block;
 						font-weight: 400;
 						line-height: 3.5rem;
@@ -3634,7 +3634,7 @@ input, select, textarea {
 					}
 
 						#menu > ul.links > li > a:hover {
-							color: rgba(255, 255, 255, 0.75);
+							color: rgba(255, 165, 5, 0.75);
 						}
 
 					#menu > ul.links > li:first-child > a {
@@ -3649,7 +3649,7 @@ input, select, textarea {
 			transition: color 0.2s ease-in-out;
 			-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 			border: 0;
-			color: #ffffff;
+			color: #FFA505;
 			cursor: pointer;
 			display: block;
 			height: 3.25rem;
@@ -3682,7 +3682,7 @@ input, select, textarea {
 			}
 
 			#menu .close:hover {
-				color: rgba(255, 255, 255, 0.75);
+				color: rgba(255, 165, 5, 0.75);
 			}
 
 			@media screen and (max-width: 736px) {
@@ -3728,8 +3728,9 @@ input, select, textarea {
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-attachment: fixed;
-		background-image: url("../images/agile-brazil-2016-volunteers.png");
+		background-attachment: fixed;		
+		/* background-image: url("../images/agile-brazil-2016-volunteers.png"); */
+		background-image: url("../images/banner-2023.png");
 		background-position: bottom left 40%;
 		background-size: cover;
 		cursor: default;
