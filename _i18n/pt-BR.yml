@@ -1,5 +1,5 @@
 titles:
-  about: About Agile Brazil
+  about: Sobre a Agile Brazil
 
 conference:
   city: São Paulo
@@ -26,6 +26,7 @@ actions:
   read_the_code_of_conduct: Leia o código de conduta
   know_health_actions: Conheça medidas de saúde
   privacy_policy: Política de privacidade
+  see_what_happened_in_past_editions: Veja o que rolou nas edições anteriores
 
 labels:
   menu: Menu
@@ -45,9 +46,9 @@ labels:
   face_to_face_event: '100% presencial'
 
 texts:
-  registrations_are_open: As inscrições para a Agile Brazil 2022 já estão abertas e nos veremos em São Paulo, de 9 a 11 de outubro, para palestras, papos de corredor e happy hours!
+  registrations_are_open: As inscrições para a Agile Brazil 2023 já estão abertas e nos veremos em São Paulo, de 9 a 11 de outubro, para palestras, papos de corredor e happy hours!
   registrations_are_open_2: Mal podemos esperar!
-  what_will_happen_at_the_ab: Você já pode ver uma prévia da programação da Agile Brazil 2022! Entre na página de Programa e veja a lista das sessões aprovadas e já confirmadas por palestrantes!
+  while_we_are_working_to_build_the_ab_program: Enquanto estamos trabalhando no que vai rolar na edição desten ano, convidamos você a dar uma olhada no que já rolou nas edições anteriores. Confira nosso canal no YouTube!
   your_brand_on_agilebrazil: Profissionais, potenciais clientes e parceiros de negócio olham para nossos patrocinadores como referências em agilidade. Crie o pacote de patrocínio personalizado para seus objetivos.
   tips_to_make_our_event_excellent: Informações para nosso encontro ser excelente
   code_of_conduct: Levamos a segurança e experiência de todas as pessoas com a devida seriedade. Participantes, palestrantes e organizadores da Agile Brazil devem seguir nosso Código de Conduta.
