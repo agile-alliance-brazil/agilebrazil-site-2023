@@ -6,15 +6,62 @@ permalink: /
 <!-- Banner -->
 <div id="banner">
   <div class="inner">
-    <!-- <span class="icon"></span>
-    <h1>{{ site.title }}</h1>
-    <h2>{% t labels.face_to_face_event %}</h2>
-    <p>{% t conference.city %}, {% t conference.venue %} <br>{% t conference.dates %}</p>
-    <ul class="actions stacked">
-      <li><a href="{% tl registrations %}" class="button large primary">{% t actions.register %}</a></li>
-    </ul> -->
+    <div>
+      <img src="assets/images/logo.png" style="max-height: 411px;"></img>
+    </div>
+    <div>
+      <h1>{{ site.title }}</h1>
+      <h2>{% t labels.face_to_face_event %}</h2>
+      <p>{% t conference.city %}, {% t conference.venue %} <br>{% t conference.dates %}</p>
+      <ul class="actions stacked">
+        <li><a href="{% tl registrations %}" class="button large primary">{% t actions.register %}</a></li>
+      </ul>
+    </div>
   </div>
 </div>
+
+<!-- Callouts -->
+<section id="callouts" class="wrapper">
+  <div class="inner">
+    <div class="features">
+      <div class="feature">
+        <header class="heading">
+          <h2>{% t labels.participate %}</h2>
+          <p>{% t labels.registrations_are_open %}</p>
+        </header>
+        <p>{% t texts.registrations_are_open %}<br />{% t texts.registrations_are_open_2 %}</p>
+        <ul class="actions special">
+          <li><a href="{% tl registrations %}" class="button primary">{% t actions.register %}</a></li>
+        </ul>
+      </div>
+      <div class="feature">
+        <header class="heading">
+          <h2>AGILE BRAZIL, O MAIOR EVENTO DA COMUNIDADE</h2>
+          <p>Considerado o maior evento da comunidade de Agilidade, Produtos e Inovação da América Latina, 
+            o Agile Brazil está de volta à capital paulista para explorar o que a capital paulista tem de melhor:
+            diversidade e possibilidades em todas as áreas.
+          </p>
+        </header>
+        <h2>Veja tudo que rolou no Agile Brazil de 2022</h2>
+        <ul class="actions special">
+          <li><a href="{% tl program %}" class="button primary">Confira as fotos</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Callouts -->
+<hr/>
+<section id="callouts" class="wrapper">
+  <div class="inner">
+    <h2>Aproveite o lote inicial para se inscrever e garantir sua vaga!</h2>
+    <ul class="actions special">
+      <li><a href="{% tl program %}" class="button primary">Quero meu ingresso</a></li>
+    </ul>
+  </div>
+</section>
+<hr/>
 
 <!-- Callouts -->
 <section id="callouts" class="wrapper">
