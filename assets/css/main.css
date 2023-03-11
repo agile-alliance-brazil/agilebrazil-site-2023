@@ -4317,3 +4317,72 @@ input, select, textarea {
 
 	@media screen and (max-width: 480px) {
 	}
+
+
+
+	.double-division {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-flex-wrap: wrap;
+		-webkit-flex-wrap: wrap;
+		-ms-flex-wrap: wrap;
+		flex-wrap: wrap;
+		-moz-align-items: -moz-stretch;
+		-webkit-align-items: -webkit-stretch;
+		-ms-align-items: -ms-stretch;
+		align-items: stretch;
+		width: 100%;
+		margin-bottom: 2rem;
+	}
+
+	.double-division > * {
+		-moz-flex-shrink: 1;
+		-webkit-flex-shrink: 1;
+		-ms-flex-shrink: 1;
+		flex-shrink: 1;
+		-moz-flex-grow: 0;
+		-webkit-flex-grow: 0;
+		-ms-flex-grow: 0;
+		flex-grow: 0;
+	}
+
+	.double-division .feature {
+		text-align: center;
+	}
+
+	.double-division .feature > :last-child {
+		margin-bottom: 0;
+	}
+
+	@media screen and (min-width: 1281px) {
+
+		.double-division > * {
+			padding: 2rem;
+			width: 50%;
+		}
+
+	}
+
+	@media screen and (min-width: 981px) and (max-width: 1280px) {
+
+		.double-division {
+			margin-bottom: 4rem 0;
+		}
+
+		.double-division > * {
+			padding: 1rem;
+			width: 50%;
+		}
+
+	}
+
+	@media screen and (max-width: 980px) {
+
+		.double-division > * {
+			padding: 2.5rem;
+			width: 100%;
+		}
+
+	}
