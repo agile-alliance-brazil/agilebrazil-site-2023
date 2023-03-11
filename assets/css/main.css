@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Fjalla+One|Source+Sans+Pro:300,400");
 
 html {
-	--ab-logo-azul-escuro: #182C35;
+	--ab-logo-azul-escuro: #063676;
 	--ab-logo-verde-escuro: #063676;
 	--ab-logo-verde-medio: #063676;
 	--ab-logo-laranja: #FFA506;
@@ -3713,33 +3713,68 @@ input, select, textarea {
 
 /* Banner */
 
-	#banner {
-		background-color: var(--ab-logo-azul-escuro);
-		color: rgba(255, 255, 255, 0.5);
-		display: -moz-flex;
-		display: -webkit-flex;
-		display: -ms-flex;
-		display: flex;
-		-moz-align-items: center;
-		-webkit-align-items: center;
-		-ms-align-items: center;
-		align-items: center;
-		-moz-justify-content: center;
-		-webkit-justify-content: center;
-		-ms-justify-content: center;
-		justify-content: center;
-		background-attachment: fixed;		
-		/* background-image: url("../images/agile-brazil-2016-volunteers.png"); */
-		background-image: url("../images/banner-2023.png");
-		background-position: bottom left 40%;
-		background-size: cover;
-		cursor: default;
-		height: 90vh;
-		min-height: 40rem;
-		position: relative;
-		text-align: center;
-		width: 100%;
-	}
+#banner {
+	background-color: var(--ab-logo-azul-escuro);
+	color: rgba(255, 255, 255, 0.5);
+	align-items
+	background-attachment: fixed;		
+	background-image: url("../images/banner-2023.png");
+	background-position: bottom center;
+	background-size: contain;
+	background-repeat: no-repeat;
+	cursor: default;
+	text-align: center;
+	min-height: 50vh;
+	width: 100%;
+}
+
+#banner > .inner {
+	-moz-transition: -moz-transform 0.75s ease-in-out, opacity 0.75s ease-in-out;
+	-webkit-transition: -webkit-transform 0.75s ease-in-out, opacity 0.75s ease-in-out;
+	-ms-transition: -ms-transform 0.75s ease-in-out, opacity 0.75s ease-in-out;
+	transition: transform 0.75s ease-in-out, opacity 0.75s ease-in-out;
+	display: flex;
+	-mox-flex-direction: row;
+	-webkit-flex-direction: row;
+	-ms-flex-direction: row;
+	flex-direction: row;
+	-moz-align-items: center;
+	-webkit-align-items: center;
+	-ms-align-items: center;
+	align-items: center;
+}
+
+#banner header {
+	max-width: 50%;
+}
+
+#banner header img {
+	width: 100%;
+}
+
+
+#banner .inner p {
+	color: #fff;
+	margin-bottom: 0.5em;
+	text-align: justify;
+}
+
+#banner .inner p.conference-dates, #banner .inner p.conference-city {
+	font-size: 2em;
+	font-weight: bold;
+}
+
+#banner .inner .conference-dates {
+	color: #ffa505;
+}
+
+#banner .inner .conference-city {
+	text-transform: uppercase;
+}
+
+#banner .inner .purchase-early {
+	font-size: 1.2em;
+}
 
 		#banner input, #banner select, #banner textarea {
 			color: #ffffff;
@@ -3938,33 +3973,6 @@ input, select, textarea {
 			border-color: rgba(255, 255, 255, 0.15);
 		}
 
-		#banner > .inner {
-			-moz-transition: -moz-transform 0.75s ease-in-out, opacity 0.75s ease-in-out;
-			-webkit-transition: -webkit-transform 0.75s ease-in-out, opacity 0.75s ease-in-out;
-			-ms-transition: -ms-transform 0.75s ease-in-out, opacity 0.75s ease-in-out;
-			transition: transform 0.75s ease-in-out, opacity 0.75s ease-in-out;
-			position: relative;
-			width: 100%;
-		}
-
-			#banner > .inner > :last-child {
-				margin-bottom: 0;
-			}
-
-			#banner > .inner h1, #banner > .inner p, #banner > .inner ul {
-				position: relative;
-			}
-
-			#banner > .inner h1 {
-				font-size: 3.5rem;
-			}
-
-			#banner > .inner p {
-				color: #ffffff;
-				font-size: 2.5rem;
-				line-height: 1.25;
-				margin: 0 0 3rem 0;
-			}
 
 			#banner > .inner .icon {
 				background-size: 100%;

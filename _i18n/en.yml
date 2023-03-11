@@ -3,8 +3,9 @@ titles:
 
 conference:
   city: São Paulo
+  state: SP
   venue: Centro de Convenções Rebouças
-  dates: october/9 to 11, 2023
+  dates: october/9, 10 and 11
   year: '2023'
 
 nav:
@@ -46,6 +47,7 @@ labels:
   face_to_face_event: '100% face to face'
 
 texts:
+  purchase_your_registration_early: Purchase your regsitration early for the biggest experience that joins the best content about Agile, Products, Leadership, Innovation and Technology at the biggest city from Brazil.
   registrations_are_open: Registrations to Agile Brazil 2023 are open and we'll see you at São Paulo, at october 9 to 11, to session talks, hall talks and happy hours!
   registrations_are_open_2: We can not wait!
   initial_batch_call: Take advantage of the initial batch to sign up and secure your spot!

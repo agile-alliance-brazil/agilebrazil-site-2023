@@ -3,8 +3,9 @@ titles:
 
 conference:
   city: São Paulo
+  state: SP
   venue: Centro de Convenções Rebouças
-  dates: 9 a 11 de outubro, 2023
+  dates: '9, 10 e 11 de outubro'
   year: '2023'
 
 nav:
@@ -46,6 +47,7 @@ labels:
   face_to_face_event: '100% presencial'
 
 texts:
+  purchase_your_registration_early: Garanta a sua vaga nos primeiros lotes, para a maior experiência que une o melhor conteúdo em Agilidade, Produtos, Liderança Inovação e Tecnologia, na maior cidade do Brasil.
   registrations_are_open: As inscrições para a Agile Brazil 2023 já estão abertas e nos veremos em São Paulo, de 9 a 11 de outubro, para palestras, papos de corredor e happy hours!
   registrations_are_open_2: Mal podemos esperar!
   initial_batch_call: Aproveite o lote inicial para se inscrever e garantir sua vaga!
