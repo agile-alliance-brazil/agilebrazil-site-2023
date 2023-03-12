@@ -14,13 +14,13 @@
   namespace: sponsorship
   production: true
 
-- name: nav.wbma
-  namespace: wbma
-  production: true
+#- name: nav.wbma
+#  namespace: wbma
+#  production: true
 
-- name: nav.location
-  namespace: location
-  production: true
+#- name: nav.location
+#  namespace: location
+#  production: true
 
 - name: nav.code_of_conduct
   namespace: code_of_conduct
