@@ -34,11 +34,11 @@ jobs:
       - name: 🔐 Install SSH Key
         uses: shimataro/ssh-key-action@v2
         with:
-          key: ${{ secrets.SSH_PRIVATE_KEY }} 
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
           known_hosts: 'just-a-placeholder-so-we-dont-get-errors'
       
       - name: 🎯 Adding Known Hosts
         run: ssh-keyscan -H staging.agilebrazil.com >> ~/.ssh/known_hosts
       
       - name: 🚀 deploy on staging
-        run: rsync -zav --progress --delete -e 'ssh -o StrictHostKeyChecking=no' _site/ agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2022
+        run: rsync -zav --progress --delete -e 'ssh -o StrictHostKeyChecking=no' _site/ agilebrazil@staging.agilebrazil.com:staging.agilebrazil.com/2023
