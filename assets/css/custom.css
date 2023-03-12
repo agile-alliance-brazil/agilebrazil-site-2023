@@ -183,6 +183,10 @@
   margin-top: 2em;
 }
 
+.connections .spotlight img {
+  background-color: var(--ab-logo-verde-medio);
+}
+
 .program .session {
   border: solid 1px #ddd;
   flex-grow: 1;

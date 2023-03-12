@@ -56,7 +56,8 @@ permalink: /
 <!-- Callouts -->
 <section id="callouts" class="wrapper">
   <div class="inner">
-    <div class="features">
+    <div class="conections-division">
+      {% if site.data.toggles.keynotes %}
       <div class="feature">
         <header class="heading">
           <h2>{% t labels.participate %}</h2>
@@ -77,6 +78,10 @@ permalink: /
           <li><a href="https://www.youtube.com/channel/UCq45wLjEs9BRRreV02Fe8rw" target="_blank" class="button primary">{% t actions.see_what_happened_in_past_editions  %}</a></li>
         </ul>
       </div>
+      {% endif %}
+
+      {% include interactive-program.html %}
+
       <div class="feature">
         <header class="heading">
           <h2>{% t labels.patronize %}</h2>
