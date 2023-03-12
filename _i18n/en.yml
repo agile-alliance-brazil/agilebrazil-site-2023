@@ -22,6 +22,8 @@ nav:
 
 actions:
   register: Register!
+  want_my_ticket: Want my ticket
+  see_picture: See the pictures
   know_the_program: Know the program
   build_your_sponsorship: Build your sponsorship
   read_the_code_of_conduct: Read the code of conduct
@@ -31,6 +33,7 @@ actions:
 
 labels:
   menu: Menu
+  biggest_community_event: AGILE BRAZIL, O MAIOR EVENTO DA COMUNIDADE
   previous_editions: Previous editions
   participate: Participate!
   registrations_are_open: Registrations are open!
@@ -50,8 +53,9 @@ texts:
   purchase_your_registration_early: Purchase your regsitration early for the biggest experience that joins the best content about Agile, Products, Leadership, Innovation and Technology at the biggest city from Brazil.
   registrations_are_open: Registrations to Agile Brazil 2023 are open and we'll see you at São Paulo, at october 9 to 11, to session talks, hall talks and happy hours!
   registrations_are_open_2: We can not wait!
+  biggest_community_event_text: 'Considered the biggest event of the agility, products and innovation community in Latin America, Agile Brazil is back in São Paulo to explore what is best in São Paulo: diversity and possibilities in all areas.'
+  see_agile_brazil_2022: See everything that happened in Agile Brazil 2022
   initial_batch_call: Take advantage of the initial batch to sign up and secure your spot!
-  want_my_ticket: Want my ticket
   while_we_are_working_to_build_the_ab_program: While we're working at current edition, we suggest you to take a look on what already happened on past editions. Visit our YouTube channel.
   your_brand_on_agilebrazil: Professionals, prospects and business partners look our sponsors as agile reference. Build your custom sponsorship set for your targets.
   tips_to_make_our_event_excellent: Informations to make our event excellent

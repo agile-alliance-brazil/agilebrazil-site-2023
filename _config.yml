@@ -37,7 +37,7 @@ sistemas:
   inscricoes: "https://inscricoes.agilebrazil.com/"
 
 url: "https://www.agilebrazil.com"
-baseurl: "/2023" # the subpath of your site, e.g. /blog
+baseurl: "/2023/" # the subpath of your site, e.g. /blog
 
 cotas:
   - título

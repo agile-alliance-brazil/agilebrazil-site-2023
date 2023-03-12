@@ -19,30 +19,22 @@ permalink: /
 </section>
 
 <!-- Callouts -->
-<section id="callouts" class="wrapper">
+<section class="wrapper">
   <div class="inner">
     <div class="double-division">
       <session class="feature">
-        <header class="heading">
-          <h2>{% t labels.participate %}</h2>
-          <p>{% t labels.registrations_are_open %}</p>
-        </header>
-        <p>{% t texts.registrations_are_open %}<br />{% t texts.registrations_are_open_2 %}</p>
-        <ul class="actions special">
-          <li><a href="{% tl registrations %}" class="button primary">{% t actions.register %}</a></li>
-        </ul>
+        <div class="heading">
+          <img src="assets/images/carousel/img_1.jpg" alt="{{ site.title  }}" />
+        </div>
       </session>
       <div class="feature">
-        <header class="heading">
-          <h2>AGILE BRAZIL, O MAIOR EVENTO DA COMUNIDADE</h2>
-          <p>Considerado o maior evento da comunidade de Agilidade, Produtos e Inovação da América Latina, 
-            a Agile Brazil está de volta à capital paulista para explorar o que a capital paulista tem de melhor:
-            diversidade e possibilidades em todas as áreas.
-          </p>
-        </header>
-        <h2>Veja tudo que rolou no Agile Brazil de 2022</h2>
+        <div class="heading">
+          <h2>{% t labels.biggest_community_event %}</h2>
+          <p>{% t texts.biggest_community_event_text %}</p>
+        </div>
+        <h3>{% t texts.see_agile_brazil_2022 %}</h3>
         <ul class="actions special">
-          <li><a href="{% tl program %}" class="button primary">Confira as fotos</a></li>
+          <li><a href="{% tl program %}" class="button primary">{% t actions.see_picture %}</a></li>
         </ul>
       </div>
     </div>
@@ -51,11 +43,11 @@ permalink: /
 
 <!-- Callouts -->
 <hr/>
-<section id="callouts" class="wrapper">
+<section class="wrapper">
   <div class="inner">
     <h2>{% t texts.initial_batch_call %}</h2>
     <ul class="actions special">
-      <li><a href="{% tl program %}" class="button primary">{% t texts.want_my_ticket %}</a></li>
+      <li><a href="{% tl program %}" class="button primary">{% t actions.want_my_ticket %}</a></li>
     </ul>
   </div>
 </section>
