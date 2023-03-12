@@ -10,7 +10,9 @@
 
   <ul class="links">
     {% for item in nav %}
-      <li><a href="{% tl item.namespace %}">{% t item.name %}</a></li>
+      {% if item.visible %}
+        <li><a href="{% tl item.namespace %}">{% t item.name %}</a></li>
+      {% endif %}
     {% endfor %}
   </ul>
 
