@@ -1,10 +1,10 @@
-- name: PUCRS
-  logo: /assets/images/sponsors/supporter-logo-pucrs.png
-  url: https://www.pucrs.br/
+#- name: PUCRS
+#  logo: /assets/images/sponsors/supporter-logo-pucrs.png
+#  url: https://www.pucrs.br/
 
-- name: Convention Bureau Porto Alegre
-  logo: /assets/images/sponsors/supporter-logo-conventionBureauPoA.png
-  url: http://visiteportoalegre.com/
+#- name: Convention Bureau Porto Alegre
+#  logo: /assets/images/sponsors/supporter-logo-conventionBureauPoA.png
+#  url: http://visiteportoalegre.com/
 
 - name: Criativa Soluções em Eventos
   logo: /assets/images/sponsors/sponsor-logo-criativa.png

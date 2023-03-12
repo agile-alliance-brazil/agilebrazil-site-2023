@@ -4465,3 +4465,9 @@ input, select, textarea {
 	.conections-division .feature {
 		margin: auto;
 	}
+
+	.regular-call-text {
+		text-transform: inherit !important;
+		color: var(--ab-logo-azul-escuro);
+		text-align: center;
+	}
