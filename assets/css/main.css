@@ -3099,7 +3099,7 @@ input, select, textarea {
 /* wrapper */
 
 	.wrapper {
-		padding: 6rem 0 4rem 0 ;
+		padding: 1rem 0;
 	}
 
 		.wrapper.style1 {
@@ -4336,7 +4336,7 @@ input, select, textarea {
 
 
 
-	.double-division, .conections-division {
+	.double-division, .connections-division {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -4353,7 +4353,7 @@ input, select, textarea {
 		margin-bottom: 2rem;
 	}
 
-	.double-division > *, .conections-division > * {
+	.double-division > *, .connections-division > * {
 		-moz-flex-shrink: 1;
 		-webkit-flex-shrink: 1;
 		-ms-flex-shrink: 1;
@@ -4423,12 +4423,12 @@ input, select, textarea {
 
 	@media screen and (min-width: 1281px) {
 
-		.conections-division .conections {
+		.connections-division .connections {
 			padding: 2rem;
 			width: 75% !important;
 		}
 
-		.conections-division .feature {
+		.connections-division .feature {
 			padding: 2rem;
 			width: 25% !important;
 		}
@@ -4437,16 +4437,16 @@ input, select, textarea {
 
 	@media screen and (min-width: 981px) and (max-width: 1280px) {
 
-		.conections-division {
+		.connections-division {
 			margin-bottom: 4rem 0;
 		}
 
-		.conections-division .conections {
+		.connections-division .connections {
 			padding: 2rem;
 			width: 75% !important;
 		}
 
-		.conections-division .feature {
+		.connections-division .feature {
 			padding: 2rem;
 			width: 25% !important;
 		}
@@ -4455,14 +4455,14 @@ input, select, textarea {
 
 	@media screen and (max-width: 980px) {
 
-		.conections-division > * {
+		.connections-division > * {
 			padding: 2.5rem;
 			width: 100%;
 		}
 
 	}
 
-	.conections-division .feature {
+	.connections-division .feature {
 		margin: auto;
 	}
 

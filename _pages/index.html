@@ -7,7 +7,8 @@ permalink: /
 <section id="banner">
   <div class="inner">
     <header>
-      <img src="assets/images/logo.png" alt="{{ site.title  }}" />
+      <img src="{{ "/assets/images/logo.png" | prepend: site.baseurl_root }}" alt="{{ site.title }}" />
+
     </header>
     <div>
       <p class="conference-dates">{% t conference.dates %}</p>
@@ -22,19 +23,22 @@ permalink: /
 <section class="wrapper">
   <div class="inner">
     <div class="double-division">
-      <session class="feature">
+      <div class="feature">
         <div class="heading">
-          <img src="assets/images/carousel/img_1.jpg" alt="{{ site.title  }}" />
+          <img src={{ "/assets/images/carousel/img_1.jpg" | prepend: site.baseurl_root }} alt="{{ site.title }}" />
         </div>
-      </session>
+      </div>
       <div class="feature">
         <div class="heading">
           <h2>{% t labels.biggest_community_event %}</h2>
           <p>{% t texts.biggest_community_event_text %}</p>
         </div>
-        <h3 class="regular-call-text">{% t texts.see_agile_brazil_2022 %}</h3>
+        <h3 class="regular-call-text">{% t texts.check_agile_brazil_2022 %}</h3>
         <ul class="actions special">
-          <li><a href="{% tl program %}" class="button primary">{% t actions.see_picture %}</a></li>
+          {% if site.data.toggles.photos %}
+            <li><a href="https://drive.google.com/drive/folders/1TSVqO1Uoeh88KX6s83IIr7waX_tYXkCl" target="_blank" class="button primary">{% t actions.see_photos %}</a></li>
+          {% endif %}
+            <li><a href="https://www.youtube.com/channel/UCq45wLjEs9BRRreV02Fe8rw" class="button primary">{% t actions.see_videos %}</a></li>
         </ul>
       </div>
     </div>
@@ -45,7 +49,7 @@ permalink: /
 <hr/>
 <section class="wrapper">
   <div class="inner">
-    <h2  class="regular-call-text">{% t texts.initial_batch_call %}</h2>
+    <h2 class="regular-call-text">{% t texts.initial_batch_call %}</h2>
     <ul class="actions special">
       <li><a href="{% tl program %}" class="button primary">{% t actions.want_my_ticket %}</a></li>
     </ul>
@@ -56,35 +60,13 @@ permalink: /
 <!-- Callouts -->
 <section id="callouts" class="wrapper">
   <div class="inner">
-    <div class="conections-division">
-      {% if site.data.toggles.keynotes %}
-      <div class="feature">
-        <header class="heading">
-          <h2>{% t labels.participate %}</h2>
-          <p>{% t labels.registrations_are_open %}</p>
-        </header>
-        <p>{% t texts.registrations_are_open %}<br />{% t texts.registrations_are_open_2 %}</p>
-        <ul class="actions special">
-          <li><a href="{% tl registrations %}" class="button primary">{% t actions.register %}</a></li>
-        </ul>
-      </div>
-      <div class="feature">
-        <header class="heading">
-          <h2>{% t nav.program %}</h2>
-          <p>{% t labels.what_will_happen_at_the_ab %}</p>
-        </header>
-        <p>{% t texts.while_we_are_working_to_build_the_ab_program %}</p>
-        <ul class="actions special">
-          <li><a href="https://www.youtube.com/channel/UCq45wLjEs9BRRreV02Fe8rw" target="_blank" class="button primary">{% t actions.see_what_happened_in_past_editions  %}</a></li>
-        </ul>
-      </div>
-      {% endif %}
+    <div class="connections-division">
 
       {% include interactive-program.html %}
 
       <div class="feature">
         <header class="heading">
-          <h2>{% t labels.patronize %}</h2>
+          <h2>{% t labels.be_a_sponsor %}</h2>
           <p>{% t labels.your_brand_on_agilebrazil %}</p>
         </header>
         <p>{% t texts.your_brand_on_agilebrazil %}</p>
