@@ -3848,7 +3848,7 @@ input, select, textarea {
 				background-color: var(--ab-logo-amarelo-medio);
 				box-shadow: none;
 				border-radius: 42px !important;
-				color: #ffffff !important;
+				color: var(--ab-logo-azul-escuro) !important;
 			}
 
 				#banner input[type="submit"].primary:hover,
