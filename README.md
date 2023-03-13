@@ -1,4 +1,4 @@
-# Site para a Agile Brazil 2022
+# Site para a Agile Brazil 2023
 
 Esse é um site feito em Jekyll , que usa o template Venue da Pixelarity (https://pixelarity.com/venue)
 
@@ -33,6 +33,6 @@ Pra isso funcionar, também foi preciso configurar alguns _Secrets_, aqui no nas
 ------
 ## Organização & Backlog
 
-Ainda tem um bocado a ser feito e vamos nos organizando usando o [Trello geral da organização da AB 2022](https://trello.com/b/SxMSdKX0/organiza%C3%A7%C3%A3o-agile-brazil-2022), para nos organizarmos e para dar visibilidade do nosso backlog para outros comitês.
+Ainda tem um bocado a ser feito e vamos nos organizando usando o [Trello geral da organização da AB 2023](https://trello.com/b/SxMSdKX0/organiza%C3%A7%C3%A3o-agile-brazil-2022), para nos organizarmos e para dar visibilidade do nosso backlog para outros comitês.
 
 As comunicações são feitas no Slack da Agile Brazil, no [canal #site](https://agilebrazil.slack.com/archives/C0DS3V343). Contribuições são super bem-vindas, convites para pareamentos e mob sessions, também!

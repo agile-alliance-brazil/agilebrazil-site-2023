@@ -3,8 +3,9 @@ titles:
 
 conference:
   city: São Paulo
+  state: SP
   venue: Centro de Convenções Rebouças
-  dates: october/9 to 11, 2023
+  dates: october/9, 10 and 11
   year: '2023'
 
 nav:
@@ -18,22 +19,28 @@ nav:
   code_of_conduct: Code of Conduct
   diversity_and_inclusion: Diversity & Inclusion
   privacy_policy: Privacy policy
+  faq: Frequently Asked Questions
 
 actions:
   register: Register!
+  want_my_ticket: Want my ticket
+  see_photos: See the photos 
+  see_videos: Watch the videos
   know_the_program: Know the program
   build_your_sponsorship: Build your sponsorship
   read_the_code_of_conduct: Read the code of conduct
   know_health_actions: Know health actions
   privacy_policy: Privacy Policy
+  see_what_happened_in_past_editions: See what happened in past editions
 
 labels:
   menu: Menu
+  biggest_community_event: AGILE BRAZIL, O MAIOR EVENTO DA COMUNIDADE
   previous_editions: Previous editions
   participate: Participate!
   registrations_are_open: Registrations are open!
   what_will_happen_at_the_ab: What will happen at the AB
-  patronize: Patronize!
+  be_a_sponsor: Be a sponsor!
   your_brand_on_agilebrazil: Your brand on Agile Brazil
   keynotes: Keynotes
   health_protocols: Health protocols
@@ -45,9 +52,13 @@ labels:
   face_to_face_event: '100% face to face'
 
 texts:
+  purchase_your_registration_early: Purchase your regsitration early for the biggest experience that joins the best content about Agile, Products, Leadership, Innovation and Technology at the biggest city from Brazil.
   registrations_are_open: Registrations to Agile Brazil 2023 are open and we'll see you at São Paulo, at october 9 to 11, to session talks, hall talks and happy hours!
   registrations_are_open_2: We can not wait!
-  what_will_happen_at_the_ab: You can nw see a preview of the Agile Brazil 2023 program! Open the program page and look the approved sessions list and also confirmmed by speakers.
+  biggest_community_event_text: 'Considered the biggest event of the agility, products and innovation community in Latin America, Agile Brazil is back in São Paulo to explore what is best in São Paulo: diversity and possibilities in all areas.'
+  check_agile_brazil_2022: See everything that happened in Agile Brazil 2022
+  initial_batch_call: Take advantage of the initial batch to sign up and secure your spot!
+  while_we_are_working_to_build_the_ab_program: While we're working at current edition, we suggest you to take a look on what already happened on past editions. Visit our YouTube channel.
   your_brand_on_agilebrazil: Professionals, prospects and business partners look our sponsors as agile reference. Build your custom sponsorship set for your targets.
   tips_to_make_our_event_excellent: Informations to make our event excellent
   code_of_conduct: We take everyone's safety and experience seriously. Agile Brazil participants, speakers and organizers must follow our Code of Conduct.

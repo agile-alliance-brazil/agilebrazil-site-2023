@@ -183,6 +183,10 @@
   margin-top: 2em;
 }
 
+.connections-item img {
+   background-color: var(--ab-logo-azul-escuro);
+}
+
 .program .session {
   border: solid 1px #ddd;
   flex-grow: 1;
