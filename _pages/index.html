@@ -38,7 +38,7 @@ permalink: /
           {% if site.data.toggles.photos %}
             <li><a href="https://drive.google.com/drive/folders/1TSVqO1Uoeh88KX6s83IIr7waX_tYXkCl" target="_blank" class="button primary">{% t actions.see_photos %}</a></li>
           {% endif %}
-            <li><a href="https://www.youtube.com/channel/UCq45wLjEs9BRRreV02Fe8rw" class="button primary">{% t actions.see_videos %}</a></li>
+            <li><a href="https://www.youtube.com/channel/UCq45wLjEs9BRRreV02Fe8rw" target="_blank" class="button primary">{% t actions.see_videos %}</a></li>
         </ul>
       </div>
     </div>
@@ -60,23 +60,27 @@ permalink: /
 <!-- Callouts -->
 <section id="callouts" class="wrapper">
   <div class="inner">
-    <div class="connections-division">
+    {% include interactive-program.html %}
+  </div>
+</section>
 
-      {% include interactive-program.html %}
-
-      <div class="feature">
-        <header class="heading">
-          <h2>{% t labels.be_a_sponsor %}</h2>
-          <p>{% t labels.your_brand_on_agilebrazil %}</p>
-        </header>
-        <p>{% t texts.your_brand_on_agilebrazil %}</p>
-        <ul class="actions special">
-          <li><a href="{% tl sponsorship %}" class="button primary">{% t actions.build_your_sponsorship %}</a></li>
-        </ul>
-      </div>
+<section id="callouts" class="wrapper">
+  <div class="inner">
+    <div class="be-a-sponsor feature">
+      <header class="heading">
+        <h2>{% t labels.be_a_sponsor %}</h2>
+        <p>{% t labels.your_brand_on_agilebrazil %}</p>
+      </header>
+      <p>{% t texts.your_brand_on_agilebrazil %}</p>
+      <ul class="actions special">
+        <li><a href="{% tl sponsorship %}" class="button primary">{% t actions.build_your_sponsorship %}</a></li>
+      </ul>
+    </div>
     </div>
   </div>
 </section>
+
+
 
 {% if site.data.toggles.keynotes %}
 <section id="keynotes" class="wrapper style1">

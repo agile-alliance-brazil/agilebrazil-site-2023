@@ -4336,7 +4336,7 @@ input, select, textarea {
 
 
 
-	.double-division, .connections-division {
+	.double-division {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -4352,8 +4352,8 @@ input, select, textarea {
 		width: 100%;
 		margin-bottom: 2rem;
 	}
-
-	.double-division > *, .connections-division > * {
+	
+	.double-division > * {
 		-moz-flex-shrink: 1;
 		-webkit-flex-shrink: 1;
 		-ms-flex-shrink: 1;
@@ -4418,54 +4418,7 @@ input, select, textarea {
 	.heading img {
 		max-width: 100%;
 	}
-
 	
-
-	@media screen and (min-width: 1281px) {
-
-		.connections-division .connections {
-			padding: 2rem;
-			width: 75% !important;
-		}
-
-		.connections-division .feature {
-			padding: 2rem;
-			width: 25% !important;
-		}
-
-	}
-
-	@media screen and (min-width: 981px) and (max-width: 1280px) {
-
-		.connections-division {
-			margin-bottom: 4rem 0;
-		}
-
-		.connections-division .connections {
-			padding: 2rem;
-			width: 75% !important;
-		}
-
-		.connections-division .feature {
-			padding: 2rem;
-			width: 25% !important;
-		}
-
-	}
-
-	@media screen and (max-width: 980px) {
-
-		.connections-division > * {
-			padding: 2.5rem;
-			width: 100%;
-		}
-
-	}
-
-	.connections-division .feature {
-		margin: auto;
-	}
-
 	.regular-call-text {
 		text-transform: inherit !important;
 		color: var(--ab-logo-azul-escuro);

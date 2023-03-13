@@ -183,8 +183,8 @@
   margin-top: 2em;
 }
 
-.connections .spotlight img {
-  background-color: var(--ab-logo-verde-medio);
+.connections-item img {
+   background-color: var(--ab-logo-azul-escuro);
 }
 
 .program .session {
