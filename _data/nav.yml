@@ -37,3 +37,8 @@
   namespace: diversity_and_inclusion
   production: true
   visible: true
+
+- name: nav.faq
+  namespace: faq
+  production: true
+  visible: true
