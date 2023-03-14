@@ -14,7 +14,7 @@ permalink: /
       <p class="conference-dates">{% t conference.dates %}</p>
       <p class="conference-city">{% t conference.city %} - {% t conference.state %}</p>
       <p class="purchase-early">{% t texts.purchase_your_registration_early %}</p>
-      <a href="{% tl registrations %}" class="button large primary">{% t actions.register %}</a>
+      <a href="{{ site.sistemas.inscricoes  }}" target="_blank" class="button large primary">{% t actions.register %}</a>
     </div>
   </div>
 </section>
@@ -46,16 +46,14 @@ permalink: /
 </section>
 
 <!-- Callouts -->
-<hr/>
 <section class="wrapper style1">
   <div class="inner">
     <h2 class="regular-call-text">{% t texts.initial_batch_call %}</h2>
     <ul class="actions special">
-      <li><a href="{% tl program %}" class="button primary">{% t actions.want_my_ticket %}</a></li>
+      <li><a href="{{ site.sistemas.inscricoes }}" blank="_blank" class="button primary">{% t actions.want_my_ticket %}</a></li>
     </ul>
   </div>
 </section>
-<hr/>
 
 <!-- Callouts -->
 <section id="callouts" class="wrapper">
