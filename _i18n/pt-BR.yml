@@ -10,7 +10,7 @@ conference:
 
 nav:
   about: Sobre
-  about_covid_protocol_anchor: protocoloCovid
+  about_covid_protocol_anchor: '#protocoloCovid'
   registrations: Inscrições
   program: Programação
   sponsorship: Patrocínio
