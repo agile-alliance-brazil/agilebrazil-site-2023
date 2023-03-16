@@ -3,11 +3,6 @@
   production: true
   visible: true
 
-- name: nav.registrations
-  namespace: registrations
-  production: true
-  visible: true
-
 - name: nav.program
   namespace: program
   production: true
