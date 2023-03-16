@@ -10,7 +10,7 @@ conference:
 
 nav:
   about: About
-  about_covid_protocol_anchor: covidProtocol
+  about_covid_protocol_anchor: '#covidProtocol'
   registrations: Registrations
   program: Program
   sponsorship: Sonsorship
