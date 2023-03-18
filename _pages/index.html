@@ -107,15 +107,17 @@ permalink: /
           </ul>
         </article>
       </div>
-      <div class="spotlight">
-        <article class="content">
-          <h3>{% t labels.health_protocols %}</h3>
-          <p>{% t texts.health_protocols %}</p>
-          <ul class="actions special">
-            <li><a href="{% tl about %}{% t nav.about_covid_protocol_anchor %}" class="button primary">{% t actions.know_health_actions %}</a></li>
-          </ul>
-        </article>
-      </div>
+      {% if site.data.toggles.covid %}
+        <div class="spotlight">
+          <article class="content">
+            <h3>{% t labels.health_protocols %}</h3>
+            <p>{% t texts.health_protocols %}</p>
+            <ul class="actions special">
+              <li><a href="{% tl about %}{% t nav.about_covid_protocol_anchor %}" class="button primary">{% t actions.know_health_actions %}</a></li>
+            </ul>
+          </article>
+        </div>
+      {% endif %}
       <div class="spotlight">
         <article class="content">
           <h3>{% t labels.privacy_policy %}</h3>
