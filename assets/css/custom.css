@@ -178,3 +178,7 @@ table.sessions thead {
 #registrations-closed h2 {
   color: rgb(255, 72, 16);
 }
+
+#protocolos .spotlights {
+  justify-content: center;
+}
