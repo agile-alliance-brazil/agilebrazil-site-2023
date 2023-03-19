@@ -1,27 +1,27 @@
 /* Footer default sizes, desktop */
 #footer .sponsorsInLevel img.título {
-  width: 32vw;
+  width: 26vw;
 }
 
 #footer .sponsorsInLevel img.diamante {
-  width: 24vw;
-}
-
-#footer .sponsorsInLevel img.ouro {
   width: 20vw;
 }
 
+#footer .sponsorsInLevel img.ouro {
+  width: 17vw;
+}
+
 #footer .sponsorsInLevel img.prata {
-  width: 16vw;
+  width: 14vw;
 }
 
 #footer .sponsorsInLevel img.bronze {
-  width: 12vw;
+  width: 11vw;
 }
 
 #footer .sponsorsInLevel img.comunidade,
 #footer .sponsorsInLevel img.diversidade {
-  width: 10vw;
+  width: 9vw;
 }
 
 @media screen and (max-width: 736px) {
