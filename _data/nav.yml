@@ -1,3 +1,8 @@
+- name: nav.home
+  namespace: home
+  production: true
+  visible: true
+
 - name: nav.about
   namespace: about
   production: true

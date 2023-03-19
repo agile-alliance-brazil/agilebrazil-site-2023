@@ -9,6 +9,7 @@ conference:
   year: '2023'
 
 nav:
+  home: Início
   about: Sobre
   about_covid_protocol_anchor: '#protocoloCovid'
   registrations: Inscrições
