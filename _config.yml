@@ -32,6 +32,12 @@ emails:
   - contato@agilebrazil.com
   - patrocinios@agilebrazil.com
 
+seo:
+  author_1: Agile Alliance Brazil
+  author_2: Agile Brazil volunteers
+  description: Site da conferência Agile Brazil 2023
+  keywords: agile, agilidade, conferência, evento, product, coding, práticas, cultura, pessoas, gestão, aprendizado
+
 sistemas:
   submissoes: "https://www.even3.com.br/agilebrazil/"
   inscricoes: "https://www.even3.com.br/agilebrazil/"
