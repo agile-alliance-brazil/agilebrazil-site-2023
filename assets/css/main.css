@@ -2502,11 +2502,12 @@ input, select, textarea {
 		dl dt {
 			display: block;
 			font-weight: 400;
-			margin: 0 0 1rem 0;
+			margin: 0 0 .5rem 0;
 		}
 
 		dl dd {
 			margin-left: 1.5rem;
+			margin-bottom: 1.5rem;
 		}
 
 	ul.alt li {
