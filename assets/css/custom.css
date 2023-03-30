@@ -195,3 +195,8 @@ table.sessions thead {
   justify-content: center;
 }
 
+
+section.home-submissions p,
+div.be-a-sponsor p {
+  text-align: center;
+}

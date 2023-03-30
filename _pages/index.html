@@ -1,4 +1,4 @@
----
+
 title: Home
 namespace: home
 permalink: /
@@ -21,35 +21,51 @@ permalink: /
 </section>
 
 <!-- Callouts -->
-<section class="wrapper">
-  <div class="inner">
-    <div class="double-division">
-      <div class="feature teaser-agilebrazil-2022">
-        <div class="actions special">
-          <iframe src="https://www.youtube.com/embed/6Mzp5y_pEoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% if site.data.toggles.home_submissions %}
+  <section class="wrapper home-submissions">
+    <div class="inner">
+      <header class="heading">
+        <h2 class="regular-call-text">{% t texts.submissions_are_open %}</h2>
+        <p>Da comunidade para a comunidade</p>
+      </header>
+      <p>Este evento é feito por vocês! Submeta sua palestra ou workshop e contribua com o maior evento de Agilidade, Produtos e Inovação da América Latina.</p>
+      <ul class="actions special">
+        <li><a href="{{ site.sistemas.submissoes }}" blank="_blank" class="button primary">{% t actions.want_be_a_speaker %}</a></li>
+      </ul>
+    </div>
+  </section>
+{% else %}
+  <section class="wrapper ">
+    <div class="inner">
+      <div class="double-division">
+        <div class="feature teaser-agilebrazil-2022">
+          <div class="actions special">
+            <iframe src="https://www.youtube.com/embed/6Mzp5y_pEoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
         </div>
-      </div>
-      <div class="feature">
-        <div class="heading">
-          <h2>{% t labels.biggest_community_event %}</h2>
-          <p>{% t texts.biggest_community_event_text %}</p>
-        </div>
-        <h3 class="regular-call-text">{% t texts.check_agile_brazil_2022 %}</h3>
-        <ul class="actions special">
-          {% if site.data.toggles.photos %}
+        <div class="feature">
+          <div class="heading">
+            <h2>{% t labels.biggest_community_event %}</h2>
+            <p>{% t texts.biggest_community_event_text %}</p>
+          </div>
+          <h3 class="regular-call-text">{% t texts.check_agile_brazil_2022 %}</h3>
+          <ul class="actions special">
             <li><a href="https://drive.google.com/drive/folders/1TSVqO1Uoeh88KX6s83IIr7waX_tYXkCl" target="_blank" class="button primary">{% t actions.see_photos %}</a></li>
-          {% endif %}
             <li><a href="https://www.youtube.com/channel/UCq45wLjEs9BRRreV02Fe8rw" target="_blank" class="button primary">{% t actions.see_videos %}</a></li>
-        </ul>
+          </ul>
+        </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
+{% endif %}
 
 <!-- Callouts -->
 <section class="wrapper style1">
   <div class="inner">
-    <h2 class="regular-call-text">{% t texts.initial_batch_call %}</h2>
+    <header class="heading">
+      <h2 class="regular-call-text">{% t texts.initial_batch_call %}</h2>
+      <p>{% t texts.secure_your_spot %}</p>
+    </header>
     <ul class="actions special">
       <li><a href="{{ site.sistemas.inscricoes }}" blank="_blank" class="button primary">{% t actions.want_my_ticket %}</a></li>
     </ul>
@@ -57,13 +73,13 @@ permalink: /
 </section>
 
 <!-- Callouts -->
-<section id="callouts" class="wrapper">
+<section class="wrapper">
   <div class="inner">
     {% include interactive-program.html %}
   </div>
 </section>
 
-<section id="callouts" class="wrapper style1">
+<section class="wrapper style1">
   <div class="inner">
     <div class="be-a-sponsor feature">
       <header class="heading">

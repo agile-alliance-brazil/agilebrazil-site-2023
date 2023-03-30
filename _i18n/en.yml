@@ -33,6 +33,7 @@ actions:
   know_health_actions: Know health actions
   privacy_policy: Privacy Policy
   see_what_happened_in_past_editions: See what happened in past editions
+  want_be_a_speaker: I want to be a speaker
 
 labels:
   menu: Menu
@@ -58,7 +59,7 @@ texts:
   registrations_are_open_2: We can not wait!
   biggest_community_event_text: 'Considered the biggest event of the agility, products and innovation community in Latin America, Agile Brazil is back in São Paulo to explore what is best in São Paulo: diversity and possibilities in all areas.'
   check_agile_brazil_2022: See everything that happened in Agile Brazil 2022
-  initial_batch_call: Take advantage of the initial batch to sign up and secure your spot!
+  initial_batch_call: Take advantage of the initial batch to sign up!
   while_we_are_working_to_build_the_ab_program: While we're working at current edition, we suggest you to take a look on what already happened on past editions. Visit our YouTube channel.
   your_brand_on_agilebrazil: Professionals, prospects and business partners look our sponsors as agile reference. Build your custom sponsorship set for your targets.
   tips_to_make_our_event_excellent: Informations to make our event excellent
@@ -67,3 +68,5 @@ texts:
   privacy_policy: You can learn more about why we ask for certain information and how we use the data collected when registering, submitting and browsing this site in our Privacy Policy.
   know_the_rest_of_the_program: Know the rest of the program
   call_to_program: In addition to keynotes, Agile Brazil's program includes many others talks, sessions and hands-on, from veterans and newcomers of agile community! You can already look the sessions at Program page.
+  submissions_are_open: Submissions are open
+  secure_your_spot: Secure your spot!

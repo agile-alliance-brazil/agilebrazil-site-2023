@@ -33,6 +33,7 @@ actions:
   know_health_actions: Conheça medidas de saúde
   privacy_policy: Política de privacidade
   see_what_happened_in_past_editions: Veja o que rolou nas edições anteriores
+  want_be_a_speaker: Quero ser palestrante
 
 labels:
   menu: Menu
@@ -58,7 +59,7 @@ texts:
   registrations_are_open_2: Mal podemos esperar!
   biggest_community_event_text: 'Considerado o maior evento da comunidade de Agilidade, Produtos e Inovação da América Latina, a Agile Brazil está de volta à capital paulista para explorar o que a capital paulista tem de melhor: diversidade e possibilidades em todas as áreas.'
   check_agile_brazil_2022: Veja tudo que rolou no Agile Brazil de 2022
-  initial_batch_call: Aproveite o lote inicial para se inscrever e garantir sua vaga!
+  initial_batch_call: Aproveite o lote inicial para se inscrever!
   while_we_are_working_to_build_the_ab_program: Enquanto estamos trabalhando no que vai rolar na edição desten ano, convidamos você a dar uma olhada no que já rolou nas edições anteriores. Confira nosso canal no YouTube!
   your_brand_on_agilebrazil: Profissionais, potenciais clientes e parceiros de negócio olham para nossos patrocinadores como referências em agilidade. Crie o pacote de patrocínio personalizado para seus objetivos.
   tips_to_make_our_event_excellent: Informações para nosso encontro ser excelente
@@ -67,3 +68,5 @@ texts:
   privacy_policy: Você pode conhecer mais sobre porque perguntamos algumas informações e como usamos os dados coletados na inscrição, na submissão e na navegação desse site, na nossa Política de Privacidade.
   know_the_rest_of_the_program: Conheça o restante da programação
   call_to_program: Além de keynotes, a programação da Agile Brazil conta com muitas outras sessões, palestras e mãos na massa, de pessoas veteranas e estreantes da comunidade ágil! Você já pode ver as sessões na página de Programa.
+  submissions_are_open: Submissões abertas
+  secure_your_spot: Garanta sua vaga!
