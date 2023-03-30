@@ -13,8 +13,8 @@
 }
 
 /* Footer default sizes, desktop */
-#footer .sponsorsInLevel img.título {
-  width: 26vw;
+#footer .sponsorsInLevel img.title {
+  width: 22vw;
 }
 
 #footer .sponsorsInLevel img.diamante {
@@ -40,7 +40,7 @@
 
 @media screen and (max-width: 736px) {
   /* Footer default sizes, mobile */
-  #footer .sponsorsInLevel img.título {
+  #footer .sponsorsInLevel img.title {
     width: 70vw;
   }
 

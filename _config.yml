@@ -50,7 +50,7 @@ url: "https://www.agilebrazil.com"
 baseurl: "/2023" # the subpath of your site, e.g. /blog
 
 cotas:
-  - título
+  - title
   # - diamante
   # - ouro
   # - prata
