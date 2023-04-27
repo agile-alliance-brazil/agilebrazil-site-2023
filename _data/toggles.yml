@@ -4,5 +4,5 @@ program: false
 faq: true
 covid: false
 diversity_and_inclusion_coupon: false
-home_submissions: true
+home_submissions: false
 community_forms: false
