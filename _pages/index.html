@@ -124,7 +124,19 @@ permalink: /
 </section>
 {% endif %}
 
-<section id="protocolos" class="wrapper">
+{% if site.data.toggles.keynotes_shortly %}
+<section id="keynotes" class="wrapper">
+  <div class="inner">
+    <header class="heading major">
+      <h2>{% t labels.keynotes %}</h2>
+    </header>
+
+    <h3 class="regular-call-text">{% t texts.keynotes_shortly %}</h3>
+  </div>
+</section>
+{% endif %}
+
+<section id="protocolos" class="wrapper style1">
   <div class="inner">
     <header class="heading">
       <h2>{% t titles.about %}</h2>
