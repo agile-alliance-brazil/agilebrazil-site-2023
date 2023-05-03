@@ -4197,7 +4197,7 @@ input, select, textarea {
 
 	#footer .patrocinadoras .empresas {
 		flex: 1 0 auto;
-		max-width: calc(100% - 320px - 2em);
+		/* max-width: calc(100% - 320px - 2em); */
 		display: flex;
 		flex-wrap: wrap;
 		align-items: center;
