@@ -4228,6 +4228,10 @@ input, select, textarea {
 	/* sponsor level sizing at custom.css */
 
 	@media screen and (max-width: 736px) {
+		#footer h3 {
+			font-size: 1.5rem !important;
+		}
+
 		#footer .patrocinadoras {
 			padding: 2em;
 		}
