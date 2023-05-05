@@ -4279,7 +4279,7 @@ input, select, textarea {
 		margin-bottom: 0.5em;
 	}
 	
-	#footer .apoio,
+	#footer .apoio:not(.comunidade),
 	#footer .social {
 		border-left: var(--ab-divisores) solid 1px;
 		padding-left: 2em;
@@ -4287,12 +4287,12 @@ input, select, textarea {
 		max-width: 320px;
 	}
 
-	#footer .apoio img {
+	#footer .apoio:not(.comunidade) img {
 		width: 132px;
 		padding-bottom: 1em;
 	}
 
-	#footer .apoio .supporters {
+	#footer .apoio:not(.comunidade) .supporters {
 		align-items: center;
 		display: flex;
 		flex-wrap: wrap;
@@ -4330,7 +4330,7 @@ input, select, textarea {
 			padding: 2em;
 		}
 
-		#footer .apoio,
+		#footer .apoio:not(.comunidade),
 		#footer .social {
 			border-left: none;
 			padding-left: unset;
