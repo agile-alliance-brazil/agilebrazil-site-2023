@@ -4153,6 +4153,22 @@ input, select, textarea {
 	}
 
 	/* Footer > sponsors */
+	#footer .patrocinadoras.white {
+		background-color: #fff;
+	}
+
+	#footer .patrocinadoras.white h2{
+		color: var(--ab-logo-azul-escuro) !important;
+	}
+
+	#footer .patrocinadoras.white h3{
+		color: var(--ab-logo-azul-escuro) !important;
+	}
+
+	#footer .patrocinadoras.white p{
+		color: #282828 !important;
+	}
+	
 	#footer .patrocinadoras,
 	#footer .sobre {
 		padding: 2em 4em;

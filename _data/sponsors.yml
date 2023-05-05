@@ -1,24 +1,29 @@
 - name: B3
   logo: /assets/images/sponsors/sponsor-logo-b3.png
+  logo-white: /assets/images/sponsors/sponsor-logo-b3-white.png
   url: https://www.b3.com.br/
   level: title
 
 - name: Suzano
   logo: /assets/images/sponsors/sponsor-logo-suzano.png
+  logo-white: /assets/images/sponsors/sponsor-logo-suzano-white.png
   url: https://www.suzano.com.br
   level: bronze
 
 - name: Wildtech
   logo: /assets/images/sponsors/sponsor-wildtech.png
+  logo-white: /assets/images/sponsors/sponsor-wildtech-white.png
   url: https://www.wildtech.com.br/
   level: comunidade
 
 - name: Synergyc
   logo: /assets/images/sponsors/sponsor-synergyc.png
+  logo-white: /assets/images/sponsors/sponsor-synergyc-white.png
   url: https://www.synergyc.co/
   level: comunidade
 
 - name: Agile Joinville
-  logo: /assets/images/sponsors/agile-joinville.png
+  logo: /assets/images/sponsors/sponsor-agile-joinville.png
+  logo-white: /assets/images/sponsors/sponsor-agile-joinville-white.png
   url: https://www.instagram.com/agilejoinville/
-  level: comunidade
+  level: comunidade apoio
