@@ -54,13 +54,13 @@ baseurl: "/2023" # the subpath of your site, e.g. /blog
 
 cotas:
   - title
-  # - diamante
-  # - ouro
-  # - prata
+  - diamante
+  - ouro
+  - prata
   - bronze
   - comunidade
+  - diversidade
   - comunidade apoio
-  # - diversidade
 
 permalink: :slug
 theme: jekyll-theme-minimal

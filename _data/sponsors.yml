@@ -8,7 +8,37 @@
   logo: /assets/images/sponsors/sponsor-logo-suzano.png
   logo-white: /assets/images/sponsors/sponsor-logo-suzano-white.png
   url: https://www.suzano.com.br
+  level: title
+
+- name: Suzano
+  logo: /assets/images/sponsors/sponsor-logo-suzano.png
+  logo-white: /assets/images/sponsors/sponsor-logo-suzano-white.png
+  url: https://www.suzano.com.br
+  level: diamante
+
+- name: Suzano
+  logo: /assets/images/sponsors/sponsor-logo-suzano.png
+  logo-white: /assets/images/sponsors/sponsor-logo-suzano-white.png
+  url: https://www.suzano.com.br
+  level: ouro
+
+- name: Suzano
+  logo: /assets/images/sponsors/sponsor-logo-suzano.png
+  logo-white: /assets/images/sponsors/sponsor-logo-suzano-white.png
+  url: https://www.suzano.com.br
+  level: prata
+
+- name: Suzano
+  logo: /assets/images/sponsors/sponsor-logo-suzano.png
+  logo-white: /assets/images/sponsors/sponsor-logo-suzano-white.png
+  url: https://www.suzano.com.br
   level: bronze
+
+- name: Suzano
+  logo: /assets/images/sponsors/sponsor-logo-suzano.png
+  logo-white: /assets/images/sponsors/sponsor-logo-suzano-white.png
+  url: https://www.suzano.com.br
+  level: diversidade
 
 - name: Wildtech
   logo: /assets/images/sponsors/sponsor-wildtech.png

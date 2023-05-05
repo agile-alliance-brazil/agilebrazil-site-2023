@@ -21,23 +21,44 @@
 
 #footer .sponsorsInLevel img.diamante {
   width: 20vw;
+  max-width: 305px;
+  max-height: 305px;
 }
 
 #footer .sponsorsInLevel img.ouro {
-  width: 17vw;
+  width: 18vw;
+  max-width: 275px;
+  max-height: 275px;
 }
 
 #footer .sponsorsInLevel img.prata {
-  width: 14vw;
+  width: 16vw;
+  max-width: 245px;
+  max-height: 245px;
 }
 
 #footer .sponsorsInLevel img.bronze {
-  width: 11vw;
+  width: 14vw;
+  max-width: 215px;
+  max-height: 215px;
 }
 
-#footer .sponsorsInLevel img.comunidade,
+#footer .sponsorsInLevel img.comunidade:not(.apoio) {
+  width: 12vw;
+  max-width: 185px;
+  max-height: 185px;
+}
+
 #footer .sponsorsInLevel img.diversidade {
-  width: 9vw;
+  width: 11vw;
+  max-width: 170px;
+  max-height: 170px;
+}
+
+#footer .sponsorsInLevel img.comunidade.apoio {
+  width: 11vw;
+  max-width: 155px;
+  max-height: 155px;
 }
 
 @media screen and (max-width: 736px) {
