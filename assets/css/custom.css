@@ -50,15 +50,15 @@
 }
 
 #footer .sponsorsInLevel img.diversidade {
-  width: 11vw;
-  max-width: 170px;
-  max-height: 170px;
+  width: 10vw;
+  max-width: 155px;
+  max-height: 155px;
 }
 
 #footer .sponsorsInLevel img.comunidade.apoio {
-  width: 11vw;
-  max-width: 155px;
-  max-height: 155px;
+  width: 9vw;
+  max-width: 125px;
+  max-height: 125px;
 }
 
 @media screen and (max-width: 736px) {
