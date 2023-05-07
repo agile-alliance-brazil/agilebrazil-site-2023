@@ -4153,19 +4153,19 @@ input, select, textarea {
 	}
 
 	/* Footer > sponsors */
-	#footer .patrocinadoras.white {
-		background-color: #fff;
+	#footer .patrocinadoras {
+		background-color: #fff !important;
 	}
 
-	#footer .patrocinadoras.white h2{
+	#footer .patrocinadoras h2{
 		color: var(--ab-logo-azul-escuro) !important;
 	}
 
-	#footer .patrocinadoras.white h3{
+	#footer .patrocinadoras h3{
 		color: var(--ab-logo-azul-escuro) !important;
 	}
 
-	#footer .patrocinadoras.white p{
+	#footer .patrocinadoras p{
 		color: #282828 !important;
 	}
 	

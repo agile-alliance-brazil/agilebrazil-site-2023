@@ -1,59 +1,65 @@
 - name: B3
   logo: /assets/images/sponsors/sponsor-logo-b3.png
-  logo-white: /assets/images/sponsors/sponsor-logo-b3-white.png
   url: https://www.b3.com.br/
   level: title
 
 - name: Suzano
   logo: /assets/images/sponsors/sponsor-logo-suzano.png
-  logo-white: /assets/images/sponsors/sponsor-logo-suzano-white.png
-  url: https://www.suzano.com.br
-  level: title
-
-- name: Suzano
-  logo: /assets/images/sponsors/sponsor-logo-suzano.png
-  logo-white: /assets/images/sponsors/sponsor-logo-suzano-white.png
-  url: https://www.suzano.com.br
-  level: diamante
-
-- name: Suzano
-  logo: /assets/images/sponsors/sponsor-logo-suzano.png
-  logo-white: /assets/images/sponsors/sponsor-logo-suzano-white.png
-  url: https://www.suzano.com.br
-  level: ouro
-
-- name: Suzano
-  logo: /assets/images/sponsors/sponsor-logo-suzano.png
-  logo-white: /assets/images/sponsors/sponsor-logo-suzano-white.png
-  url: https://www.suzano.com.br
-  level: prata
-
-- name: Suzano
-  logo: /assets/images/sponsors/sponsor-logo-suzano.png
-  logo-white: /assets/images/sponsors/sponsor-logo-suzano-white.png
   url: https://www.suzano.com.br
   level: bronze
 
-- name: Suzano
-  logo: /assets/images/sponsors/sponsor-logo-suzano.png
-  logo-white: /assets/images/sponsors/sponsor-logo-suzano-white.png
-  url: https://www.suzano.com.br
-  level: diversidade
-
 - name: Wildtech
   logo: /assets/images/sponsors/sponsor-wildtech.png
-  logo-white: /assets/images/sponsors/sponsor-wildtech-white.png
   url: https://www.wildtech.com.br/
   level: comunidade
 
 - name: Synergyc
   logo: /assets/images/sponsors/sponsor-synergyc.png
-  logo-white: /assets/images/sponsors/sponsor-synergyc-white.png
   url: https://www.synergyc.co/
   level: comunidade
 
 - name: Agile Joinville
   logo: /assets/images/sponsors/sponsor-agile-joinville.png
-  logo-white: /assets/images/sponsors/sponsor-agile-joinville-white.png
   url: https://www.instagram.com/agilejoinville/
   level: comunidade apoio
+
+- name: Pensando Agilidade
+  logo: /assets/images/sponsors/sponsor-pensando-agilidade.jpeg
+  url: https://www.instagram.com/pensandoagilidade/
+  level: comunidade apoio
+
+- name: Agile Minas
+  logo: /assets/images/sponsors/sponsor-agile-agile-minas.png
+  url: https://www.instagram.com/agileminas/
+  level: comunidade apoio
+
+- name: Agile Campinas
+  logo: /assets/images/sponsors/sponsor-agile-campinas.png
+  url: https://www.instagram.com/agilecampinas/
+  level: comunidade apoio
+
+- name: Agilistas em ação
+  logo: /assets/images/sponsors/sponsor-agilistas-em-acao.png
+  url: https://www.youtube.com/channel/UCq9x5UL5HJbQzFyv8aasKoA
+  level: comunidade apoio
+
+- name: Pipoca Agíl
+  logo: /assets/images/sponsors/sponsor-agile-pipoca-agil.png
+  url: https://www.instagram.com/pipocaagil/
+  level: comunidade apoio
+
+- name: Lean Coffee São Paulo
+  logo: /assets/images/sponsors/sponsor-lean-coffee-sao-paulo.jpeg
+  url: https://www.meetup.com/pt-BR/lean-coffee-sao-paulo/
+  level: comunidade apoio
+
+- name: Jornada colaborativa
+  logo: /assets/images/sponsors/sponsor-jornada-colaborativa.png
+  url: https://jornadacolaborativa.com.br/
+  level: comunidade apoio
+
+- name: Agenda do Scrum Master
+  logo: /assets/images/sponsors/sponsor-agenda-do-scrum-master.jpg
+  url: http://staging.agilebrazil.com/2023/
+  level: comunidade apoio
+  
