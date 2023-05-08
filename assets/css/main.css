@@ -4189,6 +4189,7 @@ input, select, textarea {
 	#footer .sponsorsInLevel {
 		display: flex;
 		align-items: center;
+		flex-direction: column;
 		gap: 2rem;
 		padding: 1rem;
 	}
