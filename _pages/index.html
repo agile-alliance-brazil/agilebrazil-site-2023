@@ -60,17 +60,43 @@ permalink: /
 {% endif %}
 
 <!-- Callouts -->
-<section class="wrapper style1">
+{% if site.data.toggles.initial_batch_call %}
+  <section class="wrapper style1">
+    <div class="inner">
+      <header class="heading">
+        <h2 class="regular-call-text">{% t texts.initial_batch_call %}</h2>
+        <p>{% t texts.secure_your_spot %}</p>
+      </header>
+      <ul class="actions special">
+        <li><a href="{{ site.sistemas.inscricoes }}" blank="_blank" class="button primary">{% t actions.want_my_ticket %}</a></li>
+      </ul>
+    </div>
+  </section>
+{% endif %}
+
+{% if site.data.toggles.keynotes %}
+<section id="keynotes" class="wrapper style1">
   <div class="inner">
-    <header class="heading">
-      <h2 class="regular-call-text">{% t texts.initial_batch_call %}</h2>
-      <p>{% t texts.secure_your_spot %}</p>
+    <header class="heading major">
+      <h2>{% t labels.keynotes %}</h2>
     </header>
-    <ul class="actions special">
-      <li><a href="{{ site.sistemas.inscricoes }}" blank="_blank" class="button primary">{% t actions.want_my_ticket %}</a></li>
-    </ul>
+
+    {% include keynotes.html %}
   </div>
 </section>
+{% endif %}
+
+{% if site.data.toggles.keynotes_shortly %}
+<section id="keynotes" class="wrapper">
+  <div class="inner">
+    <header class="heading major">
+      <h2>{% t labels.keynotes %}</h2>
+    </header>
+
+    <h3 class="regular-call-text">{% t texts.keynotes_shortly %}</h3>
+  </div>
+</section>
+{% endif %}
 
 {% if site.data.toggles.community_forms %}
   <section class="wrapper home-submissions">
@@ -110,31 +136,6 @@ permalink: /
     </div>
   </div>
 </section>
-
-
-{% if site.data.toggles.keynotes %}
-<section id="keynotes" class="wrapper">
-  <div class="inner">
-    <header class="heading major">
-      <h2>{% t labels.keynotes %}</h2>
-    </header>
-
-    {% include keynotes.html %}
-  </div>
-</section>
-{% endif %}
-
-{% if site.data.toggles.keynotes_shortly %}
-<section id="keynotes" class="wrapper">
-  <div class="inner">
-    <header class="heading major">
-      <h2>{% t labels.keynotes %}</h2>
-    </header>
-
-    <h3 class="regular-call-text">{% t texts.keynotes_shortly %}</h3>
-  </div>
-</section>
-{% endif %}
 
 <section id="protocolos" class="wrapper style1">
   <div class="inner">

@@ -17,8 +17,8 @@
     {% include favicon.html %}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl_root }}" />
-    <link rel="stylesheet" href="{{ "/assets/css/custom.css" | prepend: site.baseurl_root }}" />
+    <link rel="stylesheet" href="{{ "/assets/css/main.css#1.2" | prepend: site.baseurl_root }}" />
+    <link rel="stylesheet" href="{{ "/assets/css/custom.css#1.2" | prepend: site.baseurl_root }}" />
 
     {% seo %}
 	</head>
@@ -27,7 +27,10 @@
 		<!-- Header -->
 			<header id="header">
 				<a class="logo" href="{{ site.baseurl }}/">{{ site.title }}</a>
+				<span class="logo menu-responsivo">9, 10, 11 de outubro em São Paulo</span>
 				<nav>
+					<a href="{{ site.sistemas.inscricoes  }}" class="menu-responsivo" target="_blank" >Ingressos</a>
+					<a href="#footer" class="menu-responsivo">Patrocinadores</a>
 					<a href="#menu">{% t labels.menu %}</a>
 				</nav>
 			</header>
