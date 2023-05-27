@@ -43,10 +43,10 @@
   url: https://www.youtube.com/channel/UCq9x5UL5HJbQzFyv8aasKoA
   level: comunidade apoio
 
-#- name: Pipoca Agíl
-#  logo: /assets/images/sponsors/sponsor-agile-pipoca-agil.png
-#  url: https://www.instagram.com/pipocaagil/
-#  level: comunidade apoio
+- name: Pipoca Agíl
+  logo: /assets/images/sponsors/sponsor-agile-pipoca-agil.png
+  url: https://www.instagram.com/pipocaagil/
+  level: comunidade apoio
 
 #- name: Lean Coffee São Paulo
 #  logo: /assets/images/sponsors/sponsor-lean-coffee-sao-paulo.jpeg
@@ -62,4 +62,18 @@
 #  logo: /assets/images/sponsors/sponsor-agenda-do-scrum-master.jpg
 #  url: http://staging.agilebrazil.com/2023/
 #  level: comunidade apoio
-  
+
+- name: Agenda do Scrum Master
+  logo: /assets/images/sponsors/sponsor-the-Liberators-BR.png
+  url: https://theliberators.com/
+  level: comunidade apoio
+
+- name: Universo Ágil
+  logo: /assets/images/sponsors/sponsor-universo-agil.png
+  url: https://www.universoagilhub.com/
+  level: comunidade apoio
+
+- name: Open Kanban Community
+  logo: /assets/images/sponsors/sponsor-open-kaban.png
+  url: https://www.instagram.com/openkanbancommunity/
+  level: comunidade apoio
