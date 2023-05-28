@@ -3131,6 +3131,10 @@ input, select, textarea {
 
 		}
 
+	.hide-text {
+		opacity: 0;
+	}
+
 /* wrapper */
 
 	.wrapper {
@@ -3481,7 +3485,7 @@ input, select, textarea {
 			#header > nav > a[href="#menu"] {
 				text-decoration: none;
 				letter-spacing: 0.1rem;
-				padding-right: 3rem;
+				padding-right: 0rem;
 			}
 
 				#header > nav > a[href="#menu"]:before {
