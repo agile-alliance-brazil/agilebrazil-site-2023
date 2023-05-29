@@ -2,13 +2,9 @@
 
       {% for keynote in site.data.keynotes %}
       <div class="profile">
-        <div class="image">
+        <div class="image-keynotes">
           <img src="{{ keynote.photo | prepend: site.baseurl_root }}" alt="{% t labels.photo_of %} {{keynote.name}}" />
         </div>
-        <header class="heading">
-          <h3>{{ keynote.name }}</h3>
-          <p>{{ keynote.title }}</p>
-        </header>
         <p>{{ keynote.minibio }}</p>
         <ul class="icons">
           <li><a href="{{ keynote.linkedin }}" class="icon brands fa-linkedin-in" target="_blank"><span class="label">LinkedIn</span></a></li>
@@ -18,6 +14,7 @@
       </div>
       {% endfor %}
 
+    {% if site.data.toggles.event_schedule %}
       <div class="profile">
         <div class="image">
           <img src="{{ "/assets/images/community.svg" | prepend: site.baseurl_root }}" alt="{% t labels.community %}" />
@@ -30,5 +27,9 @@
 
         <a href="{% tl program %}" class="button primary icon solid far fa-list-alt">{% t labels.see_the_program %}</a>
       </div>
+    {% else %}
+        <h2 class="regular-call-text">{% t texts.keynotes_shortly %}</h2>
+      </div>
+    {% endif %}
 
     </div>

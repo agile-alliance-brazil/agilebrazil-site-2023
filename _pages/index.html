@@ -35,7 +35,7 @@ permalink: /
     </div>
   </section>
 {% else %}
-  <section class="wrapper ">
+  <section class="wrapper style1">
     <div class="inner">
       <div class="double-division">
         <div class="feature teaser-agilebrazil-2022">
@@ -60,57 +60,19 @@ permalink: /
 {% endif %}
 
 <!-- Callouts -->
-<section class="wrapper style1">
-  <div class="inner">
-    <header class="heading">
-      <h2 class="regular-call-text">{% t texts.initial_batch_call %}</h2>
-      <p>{% t texts.secure_your_spot %}</p>
-    </header>
-    <ul class="actions special">
-      <li><a href="{{ site.sistemas.inscricoes }}" blank="_blank" class="button primary">{% t actions.want_my_ticket %}</a></li>
-    </ul>
-  </div>
-</section>
-
-{% if site.data.toggles.community_forms %}
-  <section class="wrapper home-submissions">
+{% if site.data.toggles.initial_batch_call %}
+  <section class="wrapper">
     <div class="inner">
       <header class="heading">
-        <h2 class="regular-call-text">Fala, Comunidade!</h2>
-        <p style="color: #282828;">O que você gostaria de ver nos corredores da Agile, pode / quer nos contar? <br/> 
-          O que são corredores? <br/>
-          Literalmente corredores, espaços onde andamos trocando de salas para palestras e workshop. Onde aproveitamos para compartilhar ideias/ desafios porque colaborar está no nosso DNA.</p>
+        <h2 class="regular-call-text">{% t texts.initial_batch_call %}</h2>
+        <p>{% t texts.secure_your_spot %}</p>
       </header>
       <ul class="actions special">
-        <li><a href="{{ site.forms.community }}" blank="_blank" class="button primary">{% t actions.community_quiz %}</a></li>
+        <li><a href="{{ site.sistemas.inscricoes }}" blank="_blank" class="button primary">{% t actions.want_my_ticket %}</a></li>
       </ul>
     </div>
   </section>
 {% endif %}
-
-<!-- Callouts -->
-<section class="wrapper">
-  <div class="inner">
-    {% include interactive-program.html %}
-  </div>
-</section>
-
-<section class="wrapper style1">
-  <div class="inner">
-    <div class="be-a-sponsor feature">
-      <header class="heading">
-        <h2>{% t labels.be_a_sponsor %}</h2>
-        <p>{% t labels.your_brand_on_agilebrazil %}</p>
-      </header>
-      <p>{% t texts.your_brand_on_agilebrazil %}</p>
-      <ul class="actions special">
-        <li><a href="{% tl sponsorship %}" class="button primary">{% t actions.build_your_sponsorship %}</a></li>
-      </ul>
-    </div>
-    </div>
-  </div>
-</section>
-
 
 {% if site.data.toggles.keynotes %}
 <section id="keynotes" class="wrapper">
@@ -135,6 +97,45 @@ permalink: /
   </div>
 </section>
 {% endif %}
+
+{% if site.data.toggles.community_forms %}
+  <section class="wrapper home-submissions">
+    <div class="inner">
+      <header class="heading">
+        <h2 class="regular-call-text">Fala, Comunidade!</h2>
+        <p style="color: #282828;">O que você gostaria de ver nos corredores da Agile, pode / quer nos contar? <br/> 
+          O que são corredores? <br/>
+          Literalmente corredores, espaços onde andamos trocando de salas para palestras e workshop. Onde aproveitamos para compartilhar ideias/ desafios porque colaborar está no nosso DNA.</p>
+      </header>
+      <ul class="actions special">
+        <li><a href="{{ site.forms.community }}" blank="_blank" class="button primary">{% t actions.community_quiz %}</a></li>
+      </ul>
+    </div>
+  </section>
+{% endif %}
+
+<!-- Callouts -->
+<section class="wrapper style1">
+  <div class="inner">
+    {% include interactive-program.html %}
+  </div>
+</section>
+
+<section id="section-sponsor" class="wrapper">
+  <div class="inner">
+    <div class="be-a-sponsor feature">
+      <header class="heading">
+        <h2>{% t labels.be_a_sponsor %}</h2>
+        <p>{% t labels.your_brand_on_agilebrazil %}</p>
+      </header>
+      <p>{% t texts.your_brand_on_agilebrazil %}</p>
+      <ul class="actions special">
+        <li><a href="{% tl sponsorship %}" class="button primary">{% t actions.build_your_sponsorship %}</a></li>
+      </ul>
+    </div>
+    </div>
+  </div>
+</section>
 
 <section id="protocolos" class="wrapper style1">
   <div class="inner">

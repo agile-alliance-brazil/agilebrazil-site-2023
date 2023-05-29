@@ -38,6 +38,17 @@
 					border-radius: 100%;
 				}
 			}
+
+			.image-keynotes{
+				img {
+					height: 200px;
+				}	
+			} 
+
+		}
+		
+		.regular-call-text{
+			margin: auto;
 		}
 
 		@include breakpoint('>large') {

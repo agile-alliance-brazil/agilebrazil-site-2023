@@ -1,39 +1,15 @@
-- name: Rosanna Sibora
-  title: VP no Universal Music Group
-  minibio: Apaixonada empreendedora, criadora de mudanças e líder de produtos com uma mentalidade centrada no usuário. Lidera com o coração e se concentra em estabelecer uma cultura de equipe de baixa hierarquia baseada no empoderamento e na segurança psicológica.
-  photo: /assets/images/speakers/rosanna-sibora.jpeg
-  site: https://www.universalmusic.com/
-  linkedin: https://de.linkedin.com/in/rosannasibora
-  twitter: https://twitter.com/rosannasibora
+- name: RAfAEL CACERES
+  title: CEO e Cofundador da Taller
+  minibio: CEO e Cofundador da Taller, consultoria de desenvolvimento de produtos que leva agilidade para grandes empresas do Brasil. Cientista da Computação e especialista em Agilidade, cocriador do Fluxo unificado e Instrutor do Software Zen, conta com mais de 20 anos de experiência desenvolvendo software.
+  photo: /assets/images/speakers/rafael-carceres-branco.png
+  site: https://blog.taller.net.br/
+  linkedin: https://www.linkedin.com/in/rafaelcaceres/
+  twitter: https://twitter.com/rafaelcaceres
 
-- name: Cat Swetel
-  title: Director of Engineering no Nubank
-  minibio: Cat é líder de tecnologia profundamente interessada em explorar como a transformação digital da sociedade pode criar condições para instituições mais generativas. Além de seu papel como Director of Engineering no Nubank, Cat é mestranda em Política de Ciência e Tecnologia. Em seu tempo livre (praticamente inexistente), Cat aprecia cozinhar, caminhadas, fazer piadas sobre bitcoin e ler literatura feminista.
-  photo: /assets/images/speakers/cat-swetel.jpg
-  site: https://catswetel.com/
-  linkedin: https://www.linkedin.com/in/catswetel/
-  twitter: https://twitter.com/CatSwetel
-
-- name: Raphael Albino
-  title: Especialista em agilidade no Nubank
-  minibio: Autor do best-seller <em>Métricas Ágeis – obtenha melhores resultados em sua equipe</em> e com mais de 15 anos em experiência em produtos digitais, Rapha já fez de tudo um pouco e está atualmente no Nubank, levando novos modelos de gestão para diferentes estruturas da empresa.
-  photo: /assets/images/speakers/rapha-albino.png
-  site: https://rapha-albino.com.br
-  linkedin: https://www.linkedin.com/in/rapha-albino
-  twitter: https://twitter.com/rapha_albino
-
-- name: Lula Rodrigues
-  title: CTO na Escola 42 São Paulo
-  minibio: Apaixonado por tecnologia, educação e gestão, Lula é atuante em discussões abertas, palestrante e voluntário em grandes eventos de tecnologia e agilidade. Atuou por anos como consultor e professor disseminando melhores formas de gestão do trabalho criativo, e hoje é CTO da 42 São Paulo. 
-  photo: /assets/images/speakers/lula-rodrigues.png
-  site: https://www.42sp.org.br/
-  linkedin: https://www.linkedin.com/in/lpsrod/
-  twitter: https://twitter.com/lulacode
-
-- name: Natália Frighetto
-  title: Enóloga dona da marca @lotefrighetto
-  minibio: Produtora de vinhos e gringa cosmopolita. Acredita que o vinho é para todos os momentos, desde o (clichê) jantar harmonizado até a companhia do sábado de faxina.
-  photo: /assets/images/speakers/natalia-frighetto.jpg
-  site: https://www.instagram.com/lotefrighetto/
-  linkedin: https://www.linkedin.com/in/nat%C3%A1lia-frighetto-5bab18203/
-  twitter: https://twitter.com/natifrighetto
+- name: PIA MARIA
+  title: Inspiration Director and Agile People Coach
+  minibio: Ela foi talvez a primeira pessoa no mundo a associar os termos “Agile” e “HR”. Seu objetivo é fazer com que as pessoas trabalhem em direção a uma visão comum por meio do envolvimento dos funcionários com sua criatividade e motivação. <br/> Ela é autora de Agile People – A Radical Approach for HR and Managers (That Leads to Motivated Employees) e fundadora da rede global Agile People.
+  photo: /assets/images/speakers/pia-maria-branco.png
+  site: https://agilepeople.com/
+  linkedin: https://www.linkedin.com/in/piamia/
+  twitter: https://twitter.com/piamia2
