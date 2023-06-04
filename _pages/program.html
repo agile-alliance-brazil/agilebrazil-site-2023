@@ -4,16 +4,32 @@ namespace: program
 permalink: /programa
 permalink_en: /program
 ---
-<div id="main" class="wrapper">
+{% if site.data.toggles.keynotes %}
+<section id="keynotes" class="wrapper">
+  <div class="inner">
+    <header class="heading major">
+      <h2>{% t labels.keynotes %}</h2>
+    </header>
+
+    {% include keynotes.html %}
+  </div>
+</section>
+{% endif %}
+
+<div id="main" class="wrapper style1">
   <div class="inner">
     <header class="heading major">
       <h1>Programa</h1>
-      <p>O que vai rolar na Agile Brazil 2022</p>
+      <p>O que vai rolar na Agile Brazil 2023</p>
     </header>
 
-    <p class="left">A programação da Agile Brazil está saindo do forno e você já pode ver uma prévia do que vai rolar! Durante a conferência, a grade será mostrada em um app para que você acompanhe as mudanças <em>live</em>. Enquanto o app não fica pronto, você pode ver dia e horário das suas sessões favoritas <a href="assets/grade-ab2022-prelim.pdf" target="_blank">nesse pdf</a>.</p>
+    <!-- <p class="left">A programação da Agile Brazil está saindo do forno e você já pode ver uma prévia do que vai rolar! Durante a conferência, a grade será mostrada em um app para que você acompanhe as mudanças <em>live</em>. Enquanto o app não fica pronto, você pode ver dia e horário das suas sessões favoritas <a href="assets/grade-ab2022-prelim.pdf" target="_blank">nesse pdf</a>.</p>
 
-    <p>A Agile Brazil 2022 terá programação das 9am às 6pm nos 3 dias. Vale lembrar, também, que a grade pode ser alterada a qualquer momento, respondendo às mudanças que chegam até nós!</p>
+    <p>A Agile Brazil 2022 terá programação das 9am às 6pm nos 3 dias. Vale lembrar, também, que a grade pode ser alterada a qualquer momento, respondendo às mudanças que chegam até nós!</p> -->
+
+    <section id="program-intregration"  class="program">
+
+    </section>
 
     <section class="program">
       <h2>Mãos na Massa</h2>
@@ -34,10 +50,11 @@ permalink_en: /program
     </section>
 
     <hr>
-
+<!--
     <p>Para conhecer um pouco do conteúdo que recebemos na conferência, assista as palestras de outras edições da Agile Brazil no nosso canal no Youtube!</p>
         <ul class="actions special">
           <li><a href="https://www.youtube.com/channel/UCq45wLjEs9BRRreV02Fe8rw" class="button primary" target="_blank"><span class="fab fa-youtube"></span> Reveja conteúdo da AB</a></li>
         </ul>
+      -->
   </div>
 </div>
