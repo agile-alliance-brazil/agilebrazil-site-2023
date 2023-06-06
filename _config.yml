@@ -59,8 +59,8 @@ cotas:
 #  - prata
   - bronze
   - comunidade
-  - diversidade
   - comunidade apoio
+  - diversidade
 
 permalink: :slug
 theme: jekyll-theme-minimal
