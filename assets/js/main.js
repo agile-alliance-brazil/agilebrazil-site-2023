@@ -117,15 +117,12 @@
 				side: 'right'
 			});
 
-	
+	/*
 	$.ajax({
 		type: 'GET',
 		url: "https://www.even3.com.br/api/v1/session/getschedule",
-		/*beforeSend: function(request) {
-			request.setRequestHeader("Authority", 'ASAS');
-		},*/
 		headers: {
-			"Authorization-Token": "ASASA"
+			"Authorization-Token": "aa06cf49-29a6-46c6-8bd0-29bb9e9cdf4d"
 		},
 		success: function(result){
 			console.log('Successo', result);
@@ -562,7 +559,7 @@
 						<p>
 						`;
 					var speakers = [];
-					session.speakers.forEach( function (speaker) {
+					session.speakers.forEach(function (speaker) {
 						speakers.push(speaker.name);
 					});
 					programacao = programacao + speakers.join(' & ') + `</p>
@@ -581,5 +578,5 @@
 			// $("#program-intregration").html(programacao);
 		}
 	});
-
+*/
 })(jQuery);

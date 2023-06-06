@@ -59,7 +59,7 @@ cotas:
 #  - prata
   - bronze
   - comunidade
-#  - diversidade
+  - diversidade
   - comunidade apoio
 
 permalink: :slug
