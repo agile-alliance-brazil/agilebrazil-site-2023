@@ -1,4 +1,4 @@
-- name: RAfAEL CACERES
+- name: RAFAEL CACERES
   title: CEO e Cofundador da Taller
   minibio: CEO e Cofundador da Taller, consultoria de desenvolvimento de produtos que leva agilidade para grandes empresas do Brasil. Cientista da Computação e especialista em Agilidade, cocriador do Fluxo unificado e Instrutor do Software Zen, conta com mais de 20 anos de experiência desenvolvendo software.
   photo: /assets/images/speakers/rafael-carceres-branco.png
@@ -13,3 +13,11 @@
   site: https://agilepeople.com/
   linkedin: https://www.linkedin.com/in/piamia/
   twitter: https://twitter.com/piamia2
+
+- name: Mariana Graf
+  title: Inspiration Director and Agile People Coach
+  minibio: Ela é uma referência no mundo da agilidade. Sua paixão por transformar organizações e seu compromisso em empoderar equipes tornam suas palestras verdadeiras fontes de aprendizado e motivação, sua experiência e conhecimento nos trarão insights valiosos sobre a agilidade, liderança e  gestão.
+  photo: /assets/images/speakers/mariana-graf.png
+  # site: https://agilepeople.com/
+  linkedin: https://www.linkedin.com/in/marianagraf/
+  twitter: https://twitter.com/marianagraf
