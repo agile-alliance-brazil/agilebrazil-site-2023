@@ -6,7 +6,30 @@ permalink_en: /registrations
 ---
 {% assign now = "now" | date: "%Y-%m-%d" %}
 
-<div id="main" class="wrapper">
+<section id="banner">
+  <div class="inner">
+    <header>
+      <img src="{{ "/assets/images/logo.png" | prepend: site.baseurl_root }}" alt="{{ site.title }}" />
+
+    </header>
+    <div>
+      <p class="conference-dates">{% t conference.dates %}</p>
+      <p class="conference-city">{% t conference.city %} - {% t conference.state %}</p>
+      <p class="purchase-early">{% t texts.purchase_your_registration_early %}</p>
+      <a href="{{ site.sistemas.inscricoes  }}" target="_blank" class="button large primary">{% t actions.register %}</a>
+    </div>
+  </div>
+</section>
+
+<div id="main" class="wrapper style1">
+  <div class="inner registration">
+    <header style="text-align: center;">
+      <a href="{{ site.sistemas.inscricoes  }}" target="_blank" class="button large primary">{% t actions.register %}</a>
+    </header>
+    </div>
+    </div>
+
+<!-- <div id="main" class="wrapper">
   <div class="inner registration">
     <header class="heading major">
       <h1>Inscrições</h1>
@@ -52,4 +75,4 @@ permalink_en: /registrations
       {% endfor %}
     </dl>
   </div>
-</div>
+</div> -->
