@@ -11,7 +11,7 @@
 - name: nav.program
   namespace: program
   production: true
-  visible: false
+  visible: true
 
 - name: nav.sponsorship
   namespace: sponsorship

@@ -117,7 +117,7 @@
 				side: 'right'
 			});
 
-	/*
+	
 	$.ajax({
 		type: 'GET',
 		url: "https://agileminas.com.br/chamada_agile_brazil.php",
@@ -160,6 +160,6 @@
 			console.log('Error', result);
 			$("#program-intregration").html('Programação indisponivel no momento');
 		}
-	}); */
+	});
 
 })(jQuery);
