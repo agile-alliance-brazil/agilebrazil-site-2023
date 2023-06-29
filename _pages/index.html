@@ -35,6 +35,7 @@ permalink: /
     </div>
   </section>
 {% else %}
+<!-- 
   <section class="wrapper style1">
     <div class="inner">
       <div class="double-division">
@@ -48,16 +49,40 @@ permalink: /
             <h2>{% t labels.biggest_community_event %}</h2>
             <p>{% t texts.biggest_community_event_text %}</p>
           </div>
-          <!-- <h3 class="regular-call-text">{% t texts.check_agile_brazil_2022 %}</h3> -->
-          <h3>Conheça a programação da Agile Brazil 2023</h3>
+          <h3 class="regular-call-text">{% t texts.check_agile_brazil_2022 %}</h3>
           <ul class="actions special">
-            <!--
               <li><a href="https://drive.google.com/drive/folders/1TSVqO1Uoeh88KX6s83IIr7waX_tYXkCl" target="_blank" class="button primary">{% t actions.see_photos %}</a></li>
               <li><a href="https://www.youtube.com/channel/UCq45wLjEs9BRRreV02Fe8rw" target="_blank" class="button primary">{% t actions.see_videos %}</a></li>
-            -->
-            <li><a href="./programa" class="button primary">Conheça a programação</a></li>
           </ul>
         </div>
+      </div>
+    </div>
+  </section> -->
+
+  <section id="program-index" class="wrapper style1">
+    <div class="inner">
+      <div class="feature">
+        <div class="heading">
+          <h2 style="color: #fff;">Considerado o maior evento da comunidade de Agilidade, Produtos e Inovação da América Latina.</h2>
+        </div>
+        <h3>Em 2023 teremos</h3>
+        <ul class="actions special">
+          <li>
+            <h1>+73</h1>
+            <h3>Palestras</h3>
+          </li>
+          <li>
+            <h1>+120</h1>
+            <h3>Palestrantes</h3>
+          </li>
+          <li>
+            <h1>+18</h1>
+            <h3>Workshops</h3>
+          </li>
+        </ul>
+        <ul class="actions special">
+          <li><a href="./programa" class="button primary">Confira a programação</a></li>
+        </ul>
       </div>
     </div>
   </section>
@@ -102,9 +127,74 @@ permalink: /
 </section>
 {% endif %}
 
+<section id="home-trilhas" class="wrapper style1">
+  <div class="inner">
+    <header class="heading major">
+      <h2>TRILHAS</h2>
+    </header>
+    <div class="spotlights">
+      <div class="spotlight">
+        <article class="content trilha-raiz-agilidade">
+          <div class="header-trilha">
+            <h3>Raízes da Agilidade</h3>
+          </div>
+          <div class="body-trilha">
+            <p>É no desenvolvimento de software que a agilidade nasceu e até hoje se faz muito presente. Nessa trilhar vais encontrar em como usar a agilidade nos mais variados times a descobrir melhores maneiras de entregar valor.</p>
+          </div>
+        </article>
+      </div>
+      <div class="spotlight">
+        <article class="content trilha-lideranca">
+          <div class="header-trilha">
+            <h3>Liderança e Agilidade Estratégica</h3>
+          </div>
+          <div class="body-trilha">
+            <p>Esta trilha é dedicada a falar de agilidade como tema estratégico para as organizações e como as lideranças de hoje - em qualquer área de negócio - podem se beneficiar desse conhecimento.</p>
+          </div>
+        </article>
+      </div>
+      <div class="spotlight">
+        <article class="content trilha-metricas">
+          <div class="header-trilha">
+            <h3>Métricas e Inteligência com Dados</h3>
+          </div>
+          <div class="body-trilha">
+            <p>Aqui você encontra tudo sobre, como construir produtos orientados a necessidades, validar hipóteses, melhorar fluxos, aumentar eficiência e eficácia, priorizar um backlog...</p>
+          </div>
+        </article>
+      </div>
+      <div class="spotlight">
+        <article class="content trilha-foco-cliente">
+          <div class="header-trilha">
+            <h3>Produtos e Foco no Cliente</h3>
+          </div>
+          <div class="body-trilha">
+            <p>A capacidade de se adaptar rapidamente às necessidades e desejos dos clientes é fundamental dentro do mundo ágil. Bons produtos precisam de boas estratégias.</p>
+          </div>
+        </article>
+      </div>
+      <div class="spotlight">
+        <article class="content trilha-futuro">
+          <div class="header-trilha">
+            <h3>Métricas e Inteligência com Dados</h3>
+          </div>
+          <div class="body-trilha">
+            <p>Mas será que temos todas as respostas para o futuro emergente? Venha desvendar esses mistérios conosco! Queremos entender sobre os nossos problemas - os atuais e os próximos.</p>
+          </div>
+        </article>
+      </div>
+  </div>
+</section>
 <!---
   **************************
 -->
+
+<!-- Callouts -->
+<section class="wrapper">
+  <div class="inner">
+    {% include interactive-program.html %}
+  </div>
+</section>
 
 <section class="wrapper home-submissions style1">
   <div class="inner">
@@ -163,14 +253,7 @@ permalink: /
   </section>
 {% endif %}
 
-<!-- Callouts -->
-<section class="wrapper">
-  <div class="inner">
-    {% include interactive-program.html %}
-  </div>
-</section>
-
-<section id="section-sponsor" class="wrapper style1">
+<section id="section-sponsor" class="wrapper">
   <div class="inner">
     <div class="be-a-sponsor feature">
       <header class="heading">

@@ -86,6 +86,104 @@ input, select, textarea {
 	appearance: none;
 }
 
+#program-index {
+	background-color: var(--ab-logo-azul-escuro);
+	color: rgba(255, 255, 255, 0.5);	
+	background-image: url("../images/background_sessao_programacao.png");
+	background-position: bottom center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	cursor: default;
+	text-align: center;
+	min-height: 50vh;
+	width: 100%;
+}
+
+#home-trilhas .content {
+	border-radius: 20px !important;
+    padding: 0px !important;
+	outline-offset: -1px;
+}
+
+#home-trilhas .header-trilha {
+	border-radius: 20px !important;
+    padding: 0px;
+}
+
+#home-trilhas .spotlight {
+	margin: auto !important;
+}
+
+#home-trilhas .header-trilha h3 {
+    padding: 20px;
+	color: #fff !important;
+}
+
+#home-trilhas .body-trilha{
+	padding: 10px;
+}
+
+#home-trilhas .trilha-raiz-agilidade {
+    outline: 2px solid #147332;
+}
+
+#home-trilhas .trilha-raiz-agilidade .header-trilha {
+	background-color: #147332;
+}
+
+#home-trilhas .trilha-lideranca {
+    outline: 2px solid #FFA505;
+}
+
+#home-trilhas .trilha-lideranca .header-trilha {
+	background-color: #FFA505;
+}
+
+#home-trilhas .trilha-foco-cliente {
+    outline: 2px solid #2D87FF;
+}
+
+#home-trilhas .trilha-foco-cliente .header-trilha {
+	background-color: #2D87FF;
+}
+
+#home-trilhas .trilha-metricas {
+    outline: 2px solid #004AAD;
+}
+
+#home-trilhas .trilha-metricas .header-trilha {
+	background-color: #004AAD;
+}
+
+#home-trilhas .trilha-futuro {
+    outline: 2px solid #43AC4B;
+}
+
+#home-trilhas .trilha-futuro .header-trilha {
+	background-color: #43AC4B;
+}
+
+#program-index h3, #program-index h1 {
+	color: #ffa505 !important;
+	font-weight: bold;
+}
+
+#program-index h3, #program-index h1, #program-index h2 {
+	text-transform: inherit !important;
+}
+
+#program-index .button.primary {
+	background-color: #ffa505 !important;
+}
+
+#program-index li {
+	margin: auto;
+}
+
+#program-index ul {
+	margin:  40px auto;
+}
+
 /* Basic */
 
 	@-ms-viewport {
@@ -3764,7 +3862,6 @@ input, select, textarea {
 #banner {
 	background-color: var(--ab-logo-azul-escuro);
 	color: rgba(255, 255, 255, 0.5);
-	align-items
 	background-attachment: fixed;		
 	background-image: url("../images/banner-2023.png");
 	background-position: bottom center;
