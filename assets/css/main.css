@@ -35,6 +35,23 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+
+.modal-inscricao {
+	max-width: 80% !important;
+	width: 600px !important;
+	background-color: var(--ab-logo-azul-escuro) !important;
+	color: rgba(255, 255, 255, 0.5) !important;
+	background-attachment: fixed !important;		
+	background-image: url("../images/banner-2023.png") !important;
+	background-position: bottom center !important;
+	background-size: contain !important;
+	background-repeat: no-repeat !important;
+	cursor: default !important;
+	text-align: center !important;
+	min-height: 50vh !important;
+	width: 100% !important;
+}
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
