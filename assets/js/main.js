@@ -116,7 +116,7 @@
 				resetForms: true,
 				side: 'right'
 			});
-
+/*
 	
 	$.ajax({
 		type: 'GET',
@@ -161,5 +161,5 @@
 			$("#program-intregration").html('Programação indisponivel no momento');
 		}
 	});
-
+*/
 })(jQuery);
