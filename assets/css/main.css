@@ -35,6 +35,21 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+/*
+-----------------------------------------------------------------------
+---------------------------------- popup -------------------------------
+-----------------------------------------------------------------------
+*/
+.backgroud-modal {
+	top: 0px;
+	background-color: #ffffff78;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	display: flex;
+	z-index: 100101;
+}
+
 
 .modal-inscricao {
 	max-width: 80% !important;
@@ -50,7 +65,14 @@ section, summary, time, mark, audio, video {
 	text-align: center !important;
 	min-height: 50vh !important;
 	width: 100% !important;
+	margin: auto !important;
 }
+
+/*
+-----------------------------------------------------------------------
+---------------------------------- popup -------------------------------
+-----------------------------------------------------------------------
+*/
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
