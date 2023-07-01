@@ -101,6 +101,7 @@
 	// Banner.
 		if ($banner.length > 0)
 			$banner._parallax(0.25);
+		
 
 	// Menu.
 		$('#menu')
@@ -162,4 +163,14 @@
 		}
 	});
 */
+
+
+$(".backgroud-modal").animate({opacity:1},1000);
+
+$(".backgroud-modal").on( "click", function() {
+	$(".backgroud-modal").animate({opacity:0}, 1000, function() {
+		$(".backgroud-modal").hide();
+	});
+} );
+
 })(jQuery);
