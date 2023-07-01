@@ -165,10 +165,10 @@
 */
 
 
-$(".backgroud-modal").animate({opacity:1},1000);
+$(".backgroud-modal").animate({opacity:1},2500);
 
 $(".backgroud-modal").on( "click", function() {
-	$(".backgroud-modal").animate({opacity:0}, 1000, function() {
+	$(".backgroud-modal").animate({opacity:0}, 2500, function() {
 		$(".backgroud-modal").hide();
 	});
 } );
