@@ -70,7 +70,169 @@ section, summary, time, mark, audio, video {
 
 /*
 -----------------------------------------------------------------------
----------------------------------- popup -------------------------------
+---------------------------------- popup ------------------------------
+-----------------------------------------------------------------------
+*/
+
+/*
+-----------------------------------------------------------------------
+---------------------------------- programação ------------------------------
+-----------------------------------------------------------------------
+*/
+#program-intregration-v2 .dias ul {
+	margin-bottom: 20px;
+	justify-content: flex-start;
+}
+
+
+#program-intregration-v2 table td {
+	padding: 2px;
+	height: 1px;
+}
+
+#program-intregration-v2 table div.card-program {
+	border-radius: 10px !important;
+    text-align: center;
+    color: #FFFFFF !important;
+	padding: 5px 0px;
+	min-width: 50px;
+	font-weight: bold;
+	height: 100%;
+}
+
+#program-intregration-v2 div.local, #program-intregration-v2 div.time {	
+	background-color: var(--ab-logo-azul-escuro);
+}
+
+#program-intregration-v2 table tr {	
+	background-color: #f3f3f3 !important;
+	border-color: #f3f3f3 !important;
+}
+
+#program-intregration-v2 div.activity.full-space, #program-intregration-v2 div.activity.workspace {	
+	background-color: var(--ab-logo-azul-escuro);
+}
+
+#program-intregration-v2 div.activity.raizes {	
+	background-color: #147332;
+}
+
+#program-intregration-v2 div.activity.lideranca {	
+	background-color: #FFA505;
+}
+
+#program-intregration-v2 div.activity.metrica {	
+	background-color: #004AAD;
+}
+
+#program-intregration-v2 div.activity.cliente {	
+	background-color: #2D87FF;
+}
+
+#program-intregration-v2 div.activity.futuro {	
+	background-color: #43AC4B;
+}
+
+#program-intregration-v2 div.card-program.interval, #program-intregration-v2 div.card-program.keynote  {	
+	background-color: rgba(0, 0, 0, 0.075);
+	color:  var(--ab-logo-azul-escuro) !important;
+}
+
+
+
+/*
+----------------------------
+*/
+
+
+#program-intregration-v1{
+	position: relative;
+	padding-top: 120px;
+    color: #FFFFFF;
+}
+
+#program-intregration-v1 .dias {
+	position: absolute;
+	top: 0;
+}
+
+#program-intregration-v1 ul.actions.special{
+	justify-content: flex-start;
+}
+
+#program-intregration-v1 .local {
+	width: 12% !important;
+	display: inline-block;
+	border-radius: 10px !important;
+    padding: 0px;
+    text-align: center;
+    line-height: 40px;
+    font-weight: bold;
+}
+
+#program-intregration-v1 .locais .local {
+	background-color: var(--ab-logo-azul-escuro);
+    height: 40px;
+}
+
+#program-intregration-v1 .activity.full-space {
+	background-color: var(--ab-logo-azul-escuro);
+	height: 40px;
+	display: inline-block;
+	border-radius: 10px !important;
+    padding: 0px;
+    text-align: center;
+    line-height: 40px !important;
+    font-weight: bold;
+	width: 85.2%;
+}
+
+#program-intregration-v1 .activity {	
+	margin: 2px !important;
+	line-height: normal !important;
+	padding: 2px;
+}
+
+#program-intregration-v1 .locais {
+	position: absolute;
+	top: 70px;
+    width: 100%;
+}
+
+#program-intregration-v1 .local.auditorio {
+	margin-left: 10%;
+}
+
+#program-intregration-v1 p {
+	margin: 0 auto !important;
+}
+
+#program-intregration-v1 .time-30, #program-intregration-v1 .time-10, #program-intregration-v1 .time-50, #program-intregration-v1 .time-130 {
+	width: 10%;
+	display: inline-flex;
+	background-color: var(--ab-logo-azul-escuro);
+	border-radius: 10px !important;
+    text-align: center;
+    line-height: 40px;
+    font-weight: bold;
+	margin: 2px 0px!important;
+}
+
+#program-intregration-v1 .time-30.full-space {
+    height: 40px;
+}
+
+#program-intregration-v1 .time-30 {
+    height: 150px;
+}
+
+#program-intregration-v1 .time-130 {
+    height: 450px;
+}
+
+/*
+-----------------------------------------------------------------------
+---------------------------------- programação ------------------------------
 -----------------------------------------------------------------------
 */
 

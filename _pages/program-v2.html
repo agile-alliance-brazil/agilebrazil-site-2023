@@ -4,28 +4,119 @@ namespace: program-v2
 permalink: /programa-v2
 permalink_en: /program-v2
 ---
-{% if site.data.toggles.keynotes %}
-<section id="keynotes" class="wrapper">
-  <div class="inner">
-    <header class="heading major">
-      <h2>{% t labels.keynotes %}</h2>
-    </header>
-
-    {% include keynotes.html %}
-  </div>
-</section>
-{% endif %}
 
 <div id="main" class="wrapper style1">
   <div class="inner">
     <header class="heading major">
-      <h1>Programa</h1>
-      <p>O que vai rolar na Agile Brazil 2023</p>
+      <h1>Programação Agile Brazil 23</h1>
     </header>
 
-    <!-- <p class="left">A programação da Agile Brazil está saindo do forno e você já pode ver uma prévia do que vai rolar! Durante a conferência, a grade será mostrada em um app para que você acompanhe as mudanças <em>live</em>. Enquanto o app não fica pronto, você pode ver dia e horário das suas sessões favoritas <a href="assets/grade-ab2022-prelim.pdf" target="_blank">nesse pdf</a>.</p>
+    <div style="    margin: 100px;    height: 5px;     background-color: #000;">
+      <hr/>
+    </div>
 
-    <p>A Agile Brazil 2022 terá programação das 9am às 6pm nos 3 dias. Vale lembrar, também, que a grade pode ser alterada a qualquer momento, respondendo às mudanças que chegam até nós!</p> -->
+    <section id="program-intregration-v1"  class="program">
+      <div class="dias">
+        <ul  class="actions special">
+          <li><div class="button primary">Dia 09</div></li>
+          <li><div class="button primary">Dia 10</div></li>
+          <li><div class="button primary">Dia 11</div></li>
+        </ul>
+      </div>
+      <div class="locais">
+        <div class="local auditorio">
+          Auditório
+        </div>
+        <div class="local palestra">
+          Palestra 1
+        </div>
+        <div class="local palestra">
+          Palestra 2
+        </div>
+        <div class="local palestra">
+          Palestra 3
+        </div>
+        <div class="local workshop">
+          workshop 1
+        </div>
+        <div class="local workshop">
+          workshop 2
+        </div>
+        <div class="local workshop">
+          workshop 3
+        </div>
+      </div>
+
+      <div class="time-30 full-space">
+        <p>9:00</p>
+      </div>
+
+        <div class="activity full-space">
+          credenciamento
+        </div>
+
+
+      <div class="time-50 full-space">
+        <p>9:30</p>
+      </div>
+
+        <div class="activity full-space">
+          keynote - Pia Maria
+        </div>
+
+      <div class="time-30 full-space">
+        <p>10:20</p>
+      </div>
+
+        <div class="activity full-space">
+          welcome coffee
+        </div>
+
+      <div class="time-30">
+        <p>10:50</p>
+      </div>
+        
+        <div class="activity local time-30">
+          <p>Como utilizamos métricas de experiência para suportar uma jornada de descoberta contínua para produtos internos - Daniel Vitor Costa Ferreira e Eudes Raphael de Sá Santana</p>
+        </div>
+           
+        <div class="activity local time-30">
+          <p>A Maldição do Conhecimento e a Construção de Pontes na Agilidade - Gustavo Ayres Ferreira</p>
+        </div>
+           
+        <div class="activity local time-30">
+          <p>Como Migrar de Gerenciamento de Projetos Tradicionais para Fluxos de Valor - Mônica Fonseca</p>
+        </div>
+           
+        <div class="activity local time-30">
+          <p>Boas habilidades, precisam de bons facilitadores. - jailson barbosa de lima</p>
+        </div>
+           
+        <div class="activity local time-130">
+          <p>Jogo da Segurança Psicológica: Vamos aprender a avaliar os ambientes? - Daniela Gomes dos Santos</p>
+        </div>
+            
+        <div class="activity local time-130">
+          <p>XP Game - O desafio de tornar seu time de desenvolvimento mais ágil - Wagner Fusca Voltz e Pedro Luiz Martins Cruz</p>
+        </div>
+            
+        <div class="activity local time-130">
+          <p>JOGAM-SE CARTAS: poderoso baralho de tendências para trazer sua visão de futuro e traçar um mapa estratégico para sair da inércia em 130 minutos - Estefany Medici e Maíra do Vale Machado</p>
+        </div>
+
+      <div class="time-10">
+        11:20
+      </div>
+      <div class="interval time-10">
+        Intervalo
+      </div>
+    
+    </section>
+
+
+    <div style="    margin: 100px;    height: 5px;     background-color: #000;">
+      <hr/>
+    </div>
 
     <section id="program-intregration"  class="program">
 
@@ -35,84 +126,6 @@ permalink_en: /program-v2
       <hr/>
     </div>
 
-    <section id="program-intregration-v1"  class="program">
-      <table>
-        <tr  style="background-color: rgba(0, 0, 0, 0); text-align: center;">
-          <td></td>
-          <td>Palco 1</td>
-          <td>Palco 2</td>
-          <td>Workshops</td>
-          <td>Workshops 2</td>
-        </tr>
-        <tr  style="background-color: rgba(0, 0, 0, 0);">
-          <td>08:00</td>
-          <td  style="background-color: rgba(0, 0, 0, 0.075);" colspan="4">
-            <div style="
-            border-radius: 8px;
-            background-color: #063676;
-            max-width: 150px;
-            margin: auto;
-            font-size: 12px;
-            font-weight: bold;
-            color: #fff;
-            text-align: center;
-        ">ÁREA DE NETWORKING</div>
-            <div><h3 style="text-align: center;">Credenciamento</h3></div>
-          </td>
-        </tr>
-        <tr  style="background-color: rgba(0, 0, 0, 0);">
-          <td>09:00</td>
-          <td colspan="4" style="background-color: rgba(0, 0, 0, 0.075);">
-            <div style="
-            border-radius: 8px;
-            background-color: #063676;
-            max-width: 150px;
-            margin: auto;
-            font-size: 12px;
-            font-weight: bold;
-            color: #fff;
-            text-align: center;
-        ">PALCO CENTRAL</div>
-            <div><h3 style="text-align: center;">ABERTURA</h3></div>
-          </td>
-        </tr>
-        <tr  style="background-color: rgba(0, 0, 0, 0);">
-          <td>10:00</td>
-          <td  style="background-color: rgba(0, 0, 0, 0.075);  vertical-align: middle; text-align: center;">
-            Mão na massa - Como criar e manter um time ágil? <br/>
-            <b>Annelise Gripp</b>
-          </td>
-          <td  style="vertical-align: middle; text-align: center;">
-            Mão na massa - Teambuilding: Liderança, Confiança e Propósito <br/>
-            <b>Luiz Júnior</b>
-          </td>
-          <td rowspan="2"  style="background-color: rgba(0, 0, 0, 0.075); vertical-align: middle; text-align: center;">
-            Dedo de prosa - O chatgpt vai roubar o meu emprego de agilista? <br/>
-            <b>Pedro Colen</b>
-          </td>
-          <td rowspan="2"  style="vertical-align: middle; text-align: center;">
-            Dedo de prosa - O que é esse trem de Liderança ágil?<br/>
-            <b>Alexandre Marques</b>
-          </td>
-        </tr>
-        <tr  style="background-color: rgba(0, 0, 0, 0);">
-          <td>11:00</td>
-          <td  style="background-color: rgba(0, 0, 0, 0.075);  vertical-align: middle; text-align: center;">
-            Mão na massa - Quebrando as Barreiras da Comunicação Ágil: Como a Colaboração e Comunicação podem Transformar seus Projetos de TI. <br/>
-            <b>Fernanda Matos</b>
-          </td>
-          <td style="vertical-align: middle; text-align: center;">
-            Lean Coffee <br/>
-            <b>Nivaldo Silva</b>
-          </td>
-        </tr>
-      </table>
-    </section>
-
-
-    <div style="    margin: 100px;    height: 5px;     background-color: #000;">
-      <hr/>
-    </div>
     <header class="heading major">
       <h1>Palestrantes</h1>
       <p>O que vai rolar na Agile Brazil 2023</p>
