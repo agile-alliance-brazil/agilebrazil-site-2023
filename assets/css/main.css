@@ -102,6 +102,18 @@ section, summary, time, mark, audio, video {
 	background-color: var(--ab-logo-azul-escuro);
 }
 
+#program-intregration-v2 table th.horario {	
+	width: 9%;
+}
+
+#program-intregration-v2 table th.trilhas {	
+	width: 13%;
+}
+
+#program-intregration-v2 table {	
+	width: 100%;
+}
+
 #program-intregration-v2 table tr {	
 	background-color: #f3f3f3 !important;
 	border-color: #f3f3f3 !important;
