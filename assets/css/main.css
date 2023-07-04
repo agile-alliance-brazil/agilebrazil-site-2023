@@ -67,6 +67,7 @@ section, summary, time, mark, audio, video {
 }
 
 .modal-inscricao .fechar {
+    cursor: pointer !important;;
 	text-align: end;
 }
 
