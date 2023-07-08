@@ -201,7 +201,7 @@ table.response-version-screen {
 */
 
 .inner-full {
-	max-width: calc(100% - 4rem) !important;
+	max-width: calc(100% - 6rem) !important;
 	margin: auto;
 }
 
