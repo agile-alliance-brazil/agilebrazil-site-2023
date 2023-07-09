@@ -33,10 +33,10 @@
   url: https://www.instagram.com/pensandoagilidade/
   level: comunidade apoio
 
-#- name: Agile Minas
-#  logo: /assets/images/sponsors/sponsor-agile-agile-minas.png
-#  url: https://www.instagram.com/agileminas/
-#  level: comunidade apoio
+- name: Agile Minas
+  logo: /assets/images/sponsors/sponsor-agile-agile-minas.png
+  url: https://www.instagram.com/agileminas/
+  level: comunidade apoio
 
 #- name: Agile Campinas
 #  logo: /assets/images/sponsors/sponsor-agile-campinas.png
