@@ -128,8 +128,18 @@ section, summary, time, mark, audio, video {
     color: #FFFFFF !important;
 	font-weight: 400;
 	text-transform: initial;
-	font-size: 16px;
+	font-size: 18px;
     margin: 5px;
+}
+
+#program-intregration-v2 table div.time p{
+    font-weight: bold;
+}
+
+#program-intregration-v2 table div{
+	font-weight: 400;
+	text-transform: initial;
+	font-size: 18px;
 }
 
 #program-intregration-v2 div.local, #program-intregration-v2 div.time {	
