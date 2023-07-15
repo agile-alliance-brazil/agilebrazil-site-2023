@@ -504,13 +504,13 @@ input, select, textarea {
 /* Typography */
 
 	html {
-		font-size: 13pt;
+		font-size: 18px;
 	}
 
 		@media screen and (max-width: 1680px) {
 
 			html {
-				font-size: 11pt;
+				font-size: 18px;
 			}
 
 		}
@@ -518,7 +518,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			html {
-				font-size: 12pt;
+				font-size: 18px;
 			}
 
 		}
@@ -526,7 +526,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			html {
-				font-size: 11pt;
+				font-size: 18px;
 			}
 
 		}
@@ -540,7 +540,7 @@ input, select, textarea {
 	body, input, select, textarea {
 		font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
 		font-weight: 300;
-		font-size: 1rem;
+		font-size: 18px;
 		line-height: 1.65;
 	}
 
@@ -566,6 +566,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2rem 0;
+		font-size: 18px !important;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
