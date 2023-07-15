@@ -742,7 +742,7 @@ input, select, textarea {
 	}
 
 	header h2 + p, header h1 + p {
-		font-size: 1.5rem;
+		font-size: 1.5rem !important;
 	}
 
 	@media screen and (max-width: 980px) {
