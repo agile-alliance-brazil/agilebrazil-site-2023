@@ -165,10 +165,10 @@
 */
 
 setInterval(function () {
-	$(".backgroud-modal").animate({opacity:1},1500);
+	$(".backgroud-modal").animate({opacity:1},1000);
 
 	$(".backgroud-modal").on( "click", function() {
-		$(".backgroud-modal").animate({opacity:0}, 1500, function() {
+		$(".backgroud-modal").animate({opacity:0}, 500, function() {
 			$(".backgroud-modal").hide();
 		});
 	} );
