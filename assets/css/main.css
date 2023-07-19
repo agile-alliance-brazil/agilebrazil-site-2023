@@ -504,13 +504,14 @@ input, select, textarea {
 /* Typography */
 
 	html {
-		font-size: 13pt;
+		font-size: 18px;
+		font-weight: 400;
 	}
 
 		@media screen and (max-width: 1680px) {
 
 			html {
-				font-size: 11pt;
+				font-size: 18px;
 			}
 
 		}
@@ -518,7 +519,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			html {
-				font-size: 12pt;
+				font-size: 18px;
 			}
 
 		}
@@ -526,7 +527,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			html {
-				font-size: 11pt;
+				font-size: 18px;
 			}
 
 		}
@@ -539,8 +540,8 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
-		font-weight: 300;
-		font-size: 1rem;
+		font-weight: 400;
+		font-size: 18px;
 		line-height: 1.65;
 	}
 
@@ -557,7 +558,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		font-weight: 400;
+		font-weight: 900;
 	}
 
 	em, i {
@@ -566,6 +567,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2rem 0;
+		font-size: 18px !important;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -741,7 +743,7 @@ input, select, textarea {
 	}
 
 	header h2 + p, header h1 + p {
-		font-size: 1.5rem;
+		font-size: 1.5rem !important;
 	}
 
 	@media screen and (max-width: 980px) {
@@ -2606,7 +2608,7 @@ input, select, textarea {
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1rem;
-			font-weight: 300;
+			font-weight: 400;
 			padding-left: 2.825rem;
 			padding-right: 0.875rem;
 			position: relative;
