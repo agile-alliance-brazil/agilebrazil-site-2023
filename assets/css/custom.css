@@ -15,49 +15,41 @@
 /* Footer default sizes, desktop */
 
 #footer .sponsorsInLevel img.title {
-  width: 22vw;
   max-width: 335px;
   max-height: 335px;
 }
 
 #footer .sponsorsInLevel img.diamante {
-  width: 20vw;
   max-width: 305px;
   max-height: 305px;
 }
 
 #footer .sponsorsInLevel img.ouro {
-  width: 18vw;
   max-width: 275px;
   max-height: 275px;
 }
 
 #footer .sponsorsInLevel img.prata {
-  width: 16vw;
   max-width: 245px;
   max-height: 245px;
 }
 
 #footer .sponsorsInLevel img.bronze {
-  width: 14vw;
   max-width: 215px;
   max-height: 215px;
 }
 
 #footer .sponsorsInLevel img.comunidade:not(.apoio) {
-  width: 13vw;
   max-width: 185px;
   max-height: 185px;
 }
 
 #footer .sponsorsInLevel img.diversidade {
-  width: 11vw;
   max-width: 155px;
   max-height: 155px;
 }
 
 #footer .sponsorsInLevel img.comunidade.apoio {
-  width: 9vw;
   max-width: 125px;
   max-height: 125px;
 }
@@ -65,49 +57,41 @@
 @media screen and (max-width: 736px) {
   /* Footer default sizes, mobile */
   #footer .sponsorsInLevel img.title {
-    width: 70vw;
     max-width: 335px;
     max-height: 335px;
   }
 
   #footer .sponsorsInLevel img.diamante {
-    width: 65vw;
     max-width: 305px;
     max-height: 305px;
   }
 
   #footer .sponsorsInLevel img.ouro {
-    width: 60vw;
     max-width: 275px;
     max-height: 275px;
   }
 
   #footer .sponsorsInLevel img.prata {
-    width: 55vw;
     max-width: 245px;
     max-height: 245px;
   }
 
   #footer .sponsorsInLevel img.bronze {
-    width: 50vw;
     max-width: 215px;
     max-height: 215px;
   }
 
   #footer .sponsorsInLevel img.comunidade:not(.apoio) {
-    width: 45vw;
     max-width: 185px;
     max-height: 185px;
   }
   
   #footer .sponsorsInLevel img.diversidade {
-    width: 40vw;
     max-width: 155px;
     max-height: 155px;
   }
   
   #footer .sponsorsInLevel img.comunidade.apoio {
-    width: 35vw;
     max-width: 125px;
     max-height: 125px;
   }

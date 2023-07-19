@@ -12,10 +12,14 @@
     <div class="sponsorsInLevel {{cota}}">
       <div class="empresas">
         {% assign levelSponsors = site.data.sponsors | where: "level", cota %}
-        {% for sponsor in levelSponsors %}
-          <a href="{{sponsor.url}}" target="_blank">
+        {% for sponsor in levelSponsors %}         
+          {% if sponsor.url %}
+            <a href="{{sponsor.url}}" target="_blank">
+              <img class="{{sponsor.level}} {{sponsor.name}}" src="{{sponsor.logo | prepend: site.baseurl_root }}" alt="{{sponsor.name}}">
+            </a>
+          {% else %}
             <img class="{{sponsor.level}} {{sponsor.name}}" src="{{sponsor.logo | prepend: site.baseurl_root }}" alt="{{sponsor.name}}">
-          </a>
+          {% endif %}
         {% endfor %}
       </div>
     </div>
