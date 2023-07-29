@@ -97,6 +97,14 @@ section, summary, time, mark, audio, video {
 	justify-content: flex-start;
 }
 
+#program-intregration-v2 table thead {
+	border-bottom: none !important;
+}
+
+#identificacao-900 div, #identificacao-930 div, #identificacao-1020 div,
+#identificacao-1800 div, #identificacao-1710 div, #identificacao-1640 div {
+	text-transform: uppercase !important;
+}
 
 #program-intregration-v2 table td {
 	padding: 2px;
@@ -121,7 +129,11 @@ section, summary, time, mark, audio, video {
 }
 
 #program-intregration-v2 table div.card-program p.title{
-	font-weight: bold !important;
+	font-weight: bold !important;	
+}
+
+#program-intregration-v2 table div.card-program p.autor{
+    color: #000 !important;	
 }
 
 #program-intregration-v2 table div.card-program p{
@@ -197,7 +209,7 @@ section, summary, time, mark, audio, video {
 	}
 }
 
-table.response-version-screen {
+table.response-version-screen, table.full-screen .local-palestra {
 	display: none;
 }
 
