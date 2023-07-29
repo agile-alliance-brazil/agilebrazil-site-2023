@@ -117,52 +117,6 @@
 				resetForms: true,
 				side: 'right'
 			});
-/*
-	
-	$.ajax({
-		type: 'GET',
-		url: "https://agileminas.com.br/chamada_agile_brazil.php",
-		crossDomain:true,
-		success: function(result){
-			console.log('Successo', result);
-			window.program = JSON.parse(result);
-			var programacao = ' <ul class="workshops">';
-
-			  window.program.data.forEach( function (item) {
-				item.sessions.forEach( function (session) {
-					programacao = programacao + `<li class="session" id="session`+session.id_session+`">
-						<div class="row classifications">
-						<p class="track"><strong>Trilha:</strong>`+session.title_schedule+`</p>
-						<p class="level"><strong>Nível:</strong> `+session.venue+`</p>
-						<p class="type"><strong>Tipo:</strong> `+session.venue+`</p>
-						</div>
-						<h3>`+session.title+`</h3>
-						<p>
-						`;
-					var speakers = [];
-					session.speakers.forEach(function (speaker) {
-						speakers.push(speaker.name);
-					});
-					programacao = programacao + speakers.join(' & ') + `</p>
-						<details>
-						<summary>Saiba mais</summary>
-						`+session.description+`
-					
-						<hr>
-						<strong>Pré-requisitos: </strong> `+session.tags+`
-						</details>
-					</li>`
-				});
-			  });
-			programacao += '</ul>';
-			$("#program-intregration").html(programacao);
-		},
-		error: function(result){
-			console.log('Error', result);
-			$("#program-intregration").html('Programação indisponivel no momento');
-		}
-	});
-*/
 
 setInterval(function () {
 	$(".backgroud-modal").animate({opacity:1},750);
