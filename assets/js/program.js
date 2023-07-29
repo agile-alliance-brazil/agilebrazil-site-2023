@@ -36,11 +36,11 @@
 				</div>`,
 			'identificacao-1050-6': `<div class="activity workspace card-program">
 					<p class="title">XP Game - O desafio de tornar seu time de desenvolvimento mais ágil</p>
-					<p class="autor">Wagner Fusca Voltz e Pedro Luiz Martins Cruz</p>
+					<p class="autor">Wagner Fusca Voltz & Pedro Luiz Martins Cruz</p>
 				</div>`,
 			'identificacao-1050-7': `<div class="activity workspace card-program">
 					<p class="title">JOGAM-SE CARTAS: poderoso baralho de tendências para trazer sua visão de futuro e traçar um mapa estratégico para sair da inércia em 130 minutos</p>
-					<p class="autor">Estefany Medici e Maíra do Vale Machado</p>
+					<p class="autor">Estefany Medici & Maíra do Vale Machado</p>
 				</div>`,
 			'identificacao-1130-1': `<div class="activity workspace card-program">
 					<div class="local-palestra">Auditótio</div>

@@ -7,7 +7,11 @@
 
   {% for cota in site.cotas %}
     <div class="cota">
-      <h3 class="patrocinadoras" style="text-align: center;">Patrocínio {{cota}}</h3>
+      {% if cota == 'comunidade apoio' %}
+        <h3 class="patrocinadoras" style="text-align: center;">{{cota}}</h3>
+      {% else %}
+        <h3 class="patrocinadoras" style="text-align: center;">Patrocínio {{cota}}</h3>
+      {% endif %} 
     </div>
     <div class="sponsorsInLevel {{cota}}">
       <div class="empresas">
