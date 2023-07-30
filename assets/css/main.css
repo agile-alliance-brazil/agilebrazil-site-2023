@@ -111,7 +111,7 @@ section, summary, time, mark, audio, video {
 	height: 1px;
 }
 
-.local-palestra {
+.local-palestra, .trilha {
 	background-color: #000;
     width: 100px;
     margin: auto;
@@ -179,24 +179,28 @@ section, summary, time, mark, audio, video {
 	background-color: var(--ab-logo-azul-escuro);
 }
 
+#program-intregration-v2 div.activity.full-space, #program-intregration-v2 div.activity.default {	
+	background-color: var(--ab-logo-azul-escuro);
+}
+
 #program-intregration-v2 div.activity.raizes {	
-	background-color: #147332;
+	background-color: #147332 !important;
 }
 
 #program-intregration-v2 div.activity.lideranca {	
-	background-color: #FFA505;
+	background-color: #FFA505 !important;
 }
 
 #program-intregration-v2 div.activity.metrica {	
-	background-color: #004AAD;
+	background-color: #004AAD !important;
 }
 
 #program-intregration-v2 div.activity.cliente {	
-	background-color: #2D87FF;
+	background-color: #2D87FF !important;
 }
 
 #program-intregration-v2 div.activity.futuro {	
-	background-color: #43AC4B;
+	background-color: #43AC4B !important;
 }
 
 #program-intregration-v2 div.card-program.interval, #program-intregration-v2 div.card-program.keynote  {	
