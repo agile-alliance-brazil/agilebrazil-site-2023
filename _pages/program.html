@@ -26,7 +26,7 @@ permalink_en: /program
       <tbody>
       {% for session in site.data.sessions %}
         <tr>
-          <td>{{session.track | truncatewords: 3, "" | remove: ":"}}</td>
+          <td>{{session.track}}</td>
           <td>{{session.title}}</td>
           <td>
             {{session.author}}
