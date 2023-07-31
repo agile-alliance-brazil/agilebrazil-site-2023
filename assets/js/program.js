@@ -54,8 +54,8 @@
 				</div>`,
 			'identificacao-1130-3': `<div class="activity metrica card-program">
 					<div class="local-palestra">Palestra 2</div>
-					<p class="title">Duplicado ???? (Como utilizamos métricas de experiência para suportar uma jornada de descoberta contínua para produtos internos)</p>
-					<p class="autor">Daniel Vitor Costa Ferreira & Eudes Raphael de Sá Santana</p>
+					<p class="title">Vago????</p>
+					<p class="autor">---</p>
 				</div>`,
 			'identificacao-1130-4': `<div class="activity cliente card-program">
 					<div class="local-palestra">Palestra 3</div>
@@ -155,12 +155,12 @@
 					<p class="autor">Joaquim Torres</p>
 				</div>`,
 			'identificacao-1640': '<div class="activity full-space card-program">Coffee</div>',
-			'identificacao-1710': '<div class="activity full-space keynote card-program">keynote ????</div>',
+			'identificacao-1710': '<div class="activity full-space keynote card-program">Keynote - Fora da Caixa ????</div>',
 			'identificacao-1800': '<div class="activity full-space card-program">Encerramento</div>',
 		},
 		10: {
 			'identificacao-900': '<div class="activity full-space card-program">Credenciamento</div>',
-			'identificacao-930': '<div class="activity full-space keynote card-program">Keynote Fora da Caixa????</div>',
+			'identificacao-930': '<div class="activity full-space keynote card-program">Keynote - Mari Graf</div>',
 			'identificacao-1020': '<div class="activity full-space card-program">Welcome coffee</div>',
 			'identificacao-1050-1': `<div class="activity futuro card-program">
 					<div class="local-palestra">Auditótio</div>
@@ -345,7 +345,7 @@
 		11: {
 			
 			'identificacao-900': '<div class="activity full-space card-program">Credenciamento</div>',
-			'identificacao-930': '<div class="activity full-space keynote card-program">Keynote Fora da Caixa?</div>',
+			'identificacao-930': '<div class="activity full-space keynote card-program">Keynote - Arie</div>',
 			'identificacao-1020': '<div class="activity full-space card-program">Welcome coffee</div>',
 			'identificacao-1050-1': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Auditótio</div>
@@ -492,7 +492,7 @@
 					<p class="autor">Aline Roque Klein</p>
 				</div>`,
 			'identificacao-1640': '<div class="activity full-space card-program">Coffee</div>',
-			'identificacao-1710': '<div class="activity full-space keynote card-program">keynote ????</div>',
+			'identificacao-1710': '<div class="activity full-space keynote card-program">Keynote - Rafa Caceres</div>',
 			'identificacao-1800': '<div class="activity full-space card-program">Encerramento</div>',
 		}
 	};
