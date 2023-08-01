@@ -16,29 +16,32 @@
 					<p class="autor">Daniel Vitor Costa Ferreira & Eudes Raphael de Sá Santana</p>
 				</div>`,
 			'identificacao-1050-2': `<div class="activity raizes card-program">
-					<div class="local-palestra">Palestra1</div>
+					<div class="local-palestra">Palestra 1</div>
 					<p class="title">A Maldição do Conhecimento e a Construção de Pontes na Agilidade</p>
 					<p class="autor">Gustavo Ayres Ferreira</p>
 				</div>`,
 			'identificacao-1050-3': `<div class="activity cliente card-program">
-					<div class="local-palestra">Palestra2</div>
+					<div class="local-palestra">Palestra 2</div>
 					<p class="title">Como Migrar de Gerenciamento de Projetos Tradicionais para Fluxos de Valor</p> 
 					<p class="autor">Mônica Fonseca</p>
 				</div>`,
 			'identificacao-1050-4': `<div class="activity raizes card-program">
-					<div class="local-palestra">Palestra3</div>
+					<div class="local-palestra">Palestra 3</div>
 					<p class="title">Boas habilidades, precisam de bons facilitadores.</p>
 					<p class="autor">Jailson Barbosa de Lima</p>
 				</div>`,
 			'identificacao-1050-5': `<div class="activity futuro workspace card-program">
+					<div class="local-palestra">Workshop 1</div>
 					<p class="title">Jogo da Segurança Psicológica: Vamos aprender a avaliar os ambientes?</p>
 					<p class="autor">Daniela Gomes dos Santos</p>
 				</div>`,
 			'identificacao-1050-6': `<div class="activity raizes workspace card-program">
+			<div class="local-palestra">Workshop 2</div>
 					<p class="title">XP Game - O desafio de tornar seu time de desenvolvimento mais ágil</p>
 					<p class="autor">Wagner Fusca Voltz & Pedro Luiz Martins Cruz</p>
 				</div>`,
 			'identificacao-1050-7': `<div class="activity workspace lideranca card-program">
+			<div class="local-palestra">Workshop 3</div>
 					<p class="title">JOGAM-SE CARTAS: poderoso baralho de tendências para trazer sua visão de futuro e traçar um mapa estratégico para sair da inércia em 130 minutos</p>
 					<p class="autor">Estefany Medici & Maíra do Vale Machado</p>
 				</div>`,
@@ -54,8 +57,8 @@
 				</div>`,
 			'identificacao-1130-3': `<div class="activity metrica card-program">
 					<div class="local-palestra">Palestra 2</div>
-					<p class="title">Vago????</p>
-					<p class="autor">---</p>
+					<p class="title">Em definição</p>
+					<p class="autor"></p>
 				</div>`,
 			'identificacao-1130-4': `<div class="activity cliente card-program">
 					<div class="local-palestra">Palestra 3</div>
@@ -65,7 +68,7 @@
 			'identificacao-1210-1': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Auditótio</div>
 					<p class="title">Uso de Design Thinkign & Design Flow para acelerar entregas de Grupo e Trabalho para ações contra Violência Sexual na Petrobras</p>
-					<p class="autor">????Joelma Goncalves Damasceno Mota & Raquel Rodrigues Silva</p>
+					<p class="autor">Joelma Gonçalves Damasceno Mota & Raquel Rodrigues Silva</p>
 				</div>`,
 			'identificacao-1210-2': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Palestra 1</div>
@@ -75,7 +78,7 @@
 			'identificacao-1210-3': `<div class="activity raizes card-program">
 					<div class="local-palestra">Palestra 2</div>
 					<p class="title">DevOps = Automação + Colaboração e de quebra Conformidade</p>
-					<p class="autor">Estefany Medici e Maíra do Vale Machado</p>
+					<p class="autor">Estefany Medici & Maíra do Vale Machado</p>
 				</div>`,
 			'identificacao-1210-4': `<div class="activity metrica card-program">
 					<div class="local-palestra">Palestra 3</div>
@@ -88,29 +91,32 @@
 					<p class="autor">Natalia Manha</p>
 				</div>`,
 			'identificacao-1430-2': `<div class="activity raizes card-program">
-					<div class="local-palestra">Palestra1</div>
+					<div class="local-palestra">Palestra 1</div>
 					<p class="title">Case Banco Carrefour - Comunicação e Agilidade: como usar um podcast para disseminar a cultura ágil, cultura de dados e outros temas dentro de uma organização.</p>
 					<p class="autor">Thais Keiko & Nancy Vieira</p>
 				</div>`,
 			'identificacao-1430-3': `<div class="activity futuro card-program">
-					<div class="local-palestra">Palestra2</div>
+					<div class="local-palestra">Palestra 2</div>
 					<p class="title">AI Generativa: seu novo colega de trabalho ou seu futuro concorrente?</p> 
 					<p class="autor">Luiz Coelho</p>
 				</div>`,
 			'identificacao-1430-4': `<div class="activity lideranca card-program">
-					<div class="local-palestra">Palestra3</div>
+					<div class="local-palestra">Palestra 3</div>
 					<p class="title">Como criar OKRs efetivos e os principais erros na sua elaboração</p>
 					<p class="autor">Rhaissa Ferreira</p>
 				</div>`,
 			'identificacao-1430-5': `<div class="activity lideranca workspace card-program">
+					<div class="local-palestra">Workshop 1</div>
 					<p class="title">Destravando a LIDERANÇA ÁGIL com LEGO® SERIOUS PLAY®!</p>
 					<p class="autor">Marcelo Macedo</p>
 				</div>`,
 			'identificacao-1430-6': `<div class="activity metrica workspace card-program">
+					<div class="local-palestra">Workshop 2</div>
 					<p class="title">Maximizando o sucesso do seu time e empresa com o framework EBM: Aprenda a identificar as métricas mais relevantes para a sua organização</p>
 					<p class="autor">Fernando Oliveira & Luciana Macedo Cajaty</p>
 				</div>`,
 			'identificacao-1430-7': `<div class="activity cliente workspace card-program">
+					<div class="local-palestra">Workshop 3</div>
 					<p class="title">Workshop MVP Canvas a partir da Lean Inception</p>
 					<p class="autor">Daniel Nunes & Mayra de Souza</p>
 				</div>`,
@@ -120,42 +126,42 @@
 					<p class="autor">Juliano Ribeiro & Rodrigo Yoshima</p>
 				</div>`,
 			'identificacao-1510-2': `<div class="activity metrica card-program">
-					<div class="local-palestra">Palestra1</div>
+					<div class="local-palestra">Palestra 1</div>
 					<p class="title">Métricas, por onde começar? Segredos do campo de batalha que não te contam.</p>
 					<p class="autor">Juliano Granadeiro Teixeira</p>
 				</div>`,
 			'identificacao-1510-3': `<div class="activity lideranca card-program">
-					<div class="local-palestra">Palestra2</div>
+					<div class="local-palestra">Palestra 2</div>
 					<p class="title">Além da velocidade : Como a Gestão de Portfólio lean pode Impulsionar go-to-market</p> 
 					<p class="autor">Isabela Gayno</p>
 				</div>`,
 			'identificacao-1510-4': `<div class="activity cliente card-program">
-					<div class="local-palestra">Palestra3</div>
+					<div class="local-palestra">Palestra 3</div>
 					<p class="title">Agilidade + Product Ops: Como atingir o Go-to-market de forma eficiente e alavancar os resultados de negócio</p>
 					<p class="autor">Alan Kuhn</p>
 				</div>`,
 			'identificacao-1550-1': `<div class="activity default card-program">
 					<div class="local-palestra">Auditótio</div>
-					<p class="title">PAINEL AGILIDADE PRETA</p>
-					<p class="autor">Vai ficar Esse nome mesmo???? Quem é o Responsável/autor????</p>
+					<p class="title">Painel - em definição</p>
+					<p class="autor"></p>
 				</div>`,
 			'identificacao-1550-2': `<div class="activity lideranca card-program">
-					<div class="local-palestra">Palestra1</div>
+					<div class="local-palestra">Palestra 1</div>
 					<p class="title">Business Agility no mundo real com uma abordagem E2E 360</p>
 					<p class="autor">Marco Dubovski & Alex Franco</p>
 				</div>`,
 			'identificacao-1550-3': `<div class="activity metrica card-program">
-					<div class="local-palestra">Palestra2</div>
+					<div class="local-palestra">Palestra 2</div>
 					<p class="title">Como gamificar a melhoria contínua focado na experiência do cliente, segurança e eficiência financeira?</p> 
 					<p class="autor">Henrique Gonçalves & Andre Francisco Cipolini</p>
 				</div>`,
 			'identificacao-1550-4': `<div class="activity cliente card-program">
-					<div class="local-palestra">Palestra3</div>
+					<div class="local-palestra">Palestra 3</div>
 					<p class="title">Lições Aprendidas de uma Transformação Digital</p>
 					<p class="autor">Joaquim Torres</p>
 				</div>`,
 			'identificacao-1640': '<div class="activity full-space card-program">Coffee</div>',
-			'identificacao-1710': '<div class="activity full-space keynote card-program">Keynote - Fora da Caixa ????</div>',
+			'identificacao-1710': '<div class="activity full-space keynote card-program">Keynote - em definição</div>',
 			'identificacao-1800': '<div class="activity full-space card-program">Encerramento</div>',
 		},
 		10: {
@@ -169,29 +175,32 @@
 					<p class="autor">Juliana Oliveira de Menezes & Mylena de Souza Nascimento</p>
 				</div>`,
 			'identificacao-1050-2': `<div class="activity futuro card-program">
-					<div class="local-palestra">Palestra1</div>
+					<div class="local-palestra">Palestra 1</div>
 					<p class="title">A nova realidade: como usar Inteligência Artificial para otimizar processos e entregar valor de forma ágil?</p>
 					<p class="autor">Renata Monteiro & Rodrigo Cabrera Castaldoni</p>
 				</div>`,
 			'identificacao-1050-3': `<div class="activity lideranca card-program">
-					<div class="local-palestra">Palestra2</div>
+					<div class="local-palestra">Palestra 2</div>
 					<p class="title">Cultural Hacking! Erros e aprendizados para construir um ambiente mais pertencente</p> 
 					<p class="autor">Lucas de Barros Gomes</p>
 				</div>`,
 			'identificacao-1050-4': `<div class="activity lideranca card-program">
-					<div class="local-palestra">Palestra3</div>
+					<div class="local-palestra">Palestra 3</div>
 					<p class="title">Como o protagonismo de um chapter de agilidade muda o status quo de tecnologia com visão sistêmica</p>
 					<p class="autor">Gleica Reinert & Patrícia Ellen Pires Reinert</p>
 				</div>`,
 			'identificacao-1050-5': `<div class="activity raizes workspace card-program">
+					<div class="local-palestra">Workshop 1</div>
 					<p class="title">Mecanização de Statik (fábrica de statik) Como não fazer</p>
 					<p class="autor">Laura Consolmagno & Jéssica Borges Alves</p>
 				</div>`,
 			'identificacao-1050-6': `<div class="activity raizes workspace card-program">
+					<div class="local-palestra">Workshop 2</div>
 					<p class="title">Comunicação assíncrona: melhore suas habilidades de escrita</p>
 					<p class="autor">Carol Serpejante & Ceci Fernandes</p>
 				</div>`,
 			'identificacao-1050-7': `<div class="activity futuro workspace card-program">
+					<div class="local-palestra">Workshop 3</div>
 					<p class="title">Construa seu mapa estratégico individual: lidere a si mesmo e ganhe mais equilíbrio, foco e resultados sustentáveis</p>
 					<p class="autor">Amon Aidukaitis & Caco Mafra</p>
 				</div>`,
@@ -227,8 +236,8 @@
 				</div>`,
 			'identificacao-1210-3': `<div class="activity default card-program">
 					<div class="local-palestra">Palestra 2</div>
-					<p class="title">PAINEL PATROCÍNIO</p>
-					<p class="autor">Como ficaria isso na programação????</p>
+					<p class="title">Em definição</p>
+					<p class="autor"></p>
 				</div>`,
 			'identificacao-1210-4': `<div class="activity futuro card-program">
 					<div class="local-palestra">Palestra 3</div>
@@ -241,25 +250,27 @@
 					<p class="autor">Isabel Coutinho & Luciana Mara Neves Vogas</p>
 				</div>`,
 			'identificacao-1430-2': `<div class="activity lideranca card-program">
-					<div class="local-palestra">Palestra1</div>
+					<div class="local-palestra">Palestra 1</div>
 					<p class="title">Agilidade como habilitador de cultura e engajamento organizacional</p>
 					<p class="autor">Jorge Improissi & Michele Prieto</p>
 				</div>`,
 			'identificacao-1430-3': `<div class="activity metrica card-program">
-					<div class="local-palestra">Palestra2</div>
+					<div class="local-palestra">Palestra 2</div>
 					<p class="title">Métricas para evolução de um software</p> 
 					<p class="autor">Wagner Fusca Voltz</p>
 				</div>`,
 			'identificacao-1430-4': `<div class="activity lideranca card-program">
-					<div class="local-palestra">Palestra3</div>
+					<div class="local-palestra">Palestra 3</div>
 					<p class="title">Aplicando conceitos da agilidade para uma liderança humanizada</p>
 					<p class="autor">Janaina Lima Guimarães & Fabio Massa</p>
 				</div>`,
 			'identificacao-1430-5': `<div class="activity futuro workspace card-program">
+					<div class="local-palestra">Workshop 1</div>
 					<p class="title">Futures Thinking: criando cenários para o futuro da agilidade.</p>
 					<p class="autor">Antonio Gaspar Gerent Júnior & Mariana Vicente Oliveira</p>
 				</div>`,
 			'identificacao-1430-6': `<div class="activity cliente workspace card-program">
+					<div class="local-palestra">Workshop 2</div>
 					<p class="title">Acelerando o Desenvolvimento de Produto e Melhoria Contínua com a Estrutura Libertadora "Ecoclycle Planning"</p>
 					<p class="autor">Alan da Silva Mendes & Luciana Macedo Cajaty</p>
 				</div>`,
@@ -268,22 +279,23 @@
 					<p class="autor">Layse Vicente Ammirabile & Naomy Oliveira</p>
 				</div>`,
 			'identificacao-1510-1': `<div class="activity raizes card-program">
+					<div class="local-palestra">Workshop 3</div>
 					<div class="local-palestra">Auditótio</div>
 					<p class="title">Dados estratégicos: como líderes de produtos podem identificar oportunidades de negócios com Data Discovery</p>
 					<p class="autor">Rebeca Cunha</p>
 				</div>`,
 			'identificacao-1510-2': `<div class="activity metrica card-program">
-					<div class="local-palestra">Palestra1</div>
+					<div class="local-palestra">Palestra 1</div>
 					<p class="title">Say:Do - Métrica de Produtividade na Prática</p>
 					<p class="autor">Beatriz Senna & Stephanie Santos Benjamin</p>
 				</div>`,
 			'identificacao-1510-3': `<div class="activity raizes card-program">
-					<div class="local-palestra">Palestra2</div>
+					<div class="local-palestra">Palestra 2</div>
 					<p class="title">Ágil e Scrum - papéis, responsabilidade até os entregáveis</p> 
 					<p class="autor">Italo Oliveira</p>
 				</div>`,
 			'identificacao-1510-4': `<div class="activity lideranca card-program">
-					<div class="local-palestra">Palestra3</div>
+					<div class="local-palestra">Palestra 3</div>
 					<p class="title">Novos Desafios para o Outsourcing: Como levar conceitos de Business Agility para a estratégia de terceirização</p>
 					<p class="autor">Coaracy Gomes da Silva Junior & Juliana Dutra</p>
 				</div>`,
@@ -293,19 +305,19 @@
 					<p class="autor">Priscila Chagas</p>
 				</div>`,
 			'identificacao-1550-2': `<div class="activity default card-program">
-					<div class="local-palestra">Palestra1</div>
-					<p class="title">Vago????</p>
-					<p class="autor">---</p>
+					<div class="local-palestra">Palestra 1</div>
+					<p class="title">Em definição</p>
+					<p class="autor"></p>
 				</div>`,
 			'identificacao-1550-3': `<div class="activity futuro card-program">
-					<div class="local-palestra">Palestra2</div>
+					<div class="local-palestra">Palestra 2</div>
 					<p class="title">Repensando a Educação: skills de ontem, hoje e amanhã.</p> 
 					<p class="autor">Paula Viani</p>
 				</div>`,
 			'identificacao-1550-4': `<div class="activity default card-program">
-					<div class="local-palestra">Palestra3</div>
-					<p class="title">PAINEL DIVERSIDADE</p>
-					<p class="autor">Como ficaria aqui no site????</p>
+					<div class="local-palestra">Palestra 3</div>
+					<p class="title">Painel - em definição</p>
+					<p class="autor"></p>
 				</div>`,
 			'identificacao-1640': '<div class="activity full-space card-program">Coffee</div>',			
 			'identificacao-1710-1': `<div class="activity lideranca card-program">
@@ -314,31 +326,31 @@
 					<p class="autor">Ani Angelini</p>
 				</div>`,
 			'identificacao-1710-2': `<div class="activity lideranca card-program">
-					<div class="local-palestra">Palestra1</div>
+					<div class="local-palestra">Palestra 1</div>
 					<p class="title">O poder da facilitação e seu verdadeiro impacto na cultura das organizações</p>
 					<p class="autor">Diogo Riker & Vinicius Campos Silva</p>
 				</div>`,
 			'identificacao-1710-3': `<div class="activity lideranca card-program">
-					<div class="local-palestra">Palestra2</div>
+					<div class="local-palestra">Palestra 2</div>
 					<p class="title">Dual Operating System e Ambidestria Organizacional | O equilíbrio entre a baunilha e o sal</p> 
 					<p class="autor">Luiz Lima</p>
 				</div>`,
 			'identificacao-1710-4': `<div class="activity cliente card-program">
-					<div class="local-palestra">Palestra3</div>
+					<div class="local-palestra">Palestra 3</div>
 					<p class="title">Caos ou oportunidade? Como organizar um time para crescer em cenários turbulentos</p>
 					<p class="autor">Alessandra Vasco & Flavia Vargas</p>
 				</div>`,
 			'identificacao-1710-5': `<div class="activity default card-program">
-					<p class="title">PAINEL PATROCÍNIO</p>
-					<p class="autor">Como ficaria isso na programação????</p>
+					<p class="title">Painel - em definição</p>
+					<p class="autor"></p>
 				</div>`,
 			'identificacao-1710-6': `<div class="activity default card-program">
-					<p class="title">Open Space / Fishbowl</p>
-					<p class="autor">Pode ficar assim mesmo???</p>
+					<p class="title">Open Space</p>
+					<p class="autor"></p>
 				</div>`,
 			'identificacao-1710-7': `<div class="activity default card-program">
-					<p class="title">Open Space / Fishbowl</p>
-					<p class="autor">Pode ficar assim mesmo????</p>
+					<p class="title">Open Space</p>
+					<p class="autor"></p>
 				</div>`,
 			'identificacao-1800': '<div class="activity full-space card-program">Encerramento</div>',
 		},
@@ -353,29 +365,32 @@
 					<p class="autor">Foca - Luiz Felipe Sanches Gonçalves</p>
 				</div>`,
 			'identificacao-1050-2': `<div class="activity lideranca card-program">
-					<div class="local-palestra">Palestra1</div>
+					<div class="local-palestra">Palestra 1</div>
 					<p class="title">Liderança Servidora: Como criar um ambiente colaborativo e de alto desempenho na era digital.</p>
 					<p class="autor">Carlos Alexandre Marques Junior & Thalita Fabro</p>
 				</div>`,
 			'identificacao-1050-3': `<div class="activity raizes card-program">
-					<div class="local-palestra">Palestra2</div>
+					<div class="local-palestra">Palestra 2</div>
 					<p class="title">Como o Manifesto Ágil do Getninjas uniu os valores da agilidade e da organização e trouxe clareza sobre o papel dos agilistas</p> 
 					<p class="autor">Rhaissa Ferreira & Bruna Fernanda Salerno</p>
 				</div>`,
 			'identificacao-1050-4': `<div class="activity metrica card-program">
-					<div class="local-palestra">Palestra3</div>
+					<div class="local-palestra">Palestra 3</div>
 					<p class="title">Métricas automatizadas: Como utilizamos a inteligência de dados para impulsionar nossos times!</p>
 					<p class="autor">Antonio Flor Junior</p>
 				</div>`,
 			'identificacao-1050-5': `<div class="activity futuro workspace card-program">
+					<div class="local-palestra">Workshop 1</div>
 					<p class="title">Estruturas Libertadoras para Agilistas Workshop Pocket</p>
 					<p class="autor">Mayra de Souza & Deividy Ramires</p>
 				</div>`,
 			'identificacao-1050-6': `<div class="activity lideranca workspace card-program">
+					<div class="local-palestra">Workshop 2</div>
 					<p class="title">Strategic Mobilisation Canvas – Como facilitar mobilizações estratégicas efetivas</p>
 					<p class="autor">Manoel Pimentel Medeiros</p>
 				</div>`,
 			'identificacao-1050-7': `<div class="activity cliente workspace card-program">
+					<div class="local-palestra">Workshop 3</div>
 					<p class="title">Épicos que geram Valor para os Clientes: VPD eXperience</p>
 					<p class="autor">Fernando Souza</p>
 				</div>`,
@@ -416,8 +431,8 @@
 				</div>`,
 			'identificacao-1210-4': `<div class="activity default card-program">
 					<div class="local-palestra">Palestra 3</div>
-					<p class="title">PAINEL COMO É SER VOLUNTÁRIO NA AB</p>
-					<p class="autor">Como ficaria no site????</p>
+					<p class="title">Painel - em definição</p>
+					<p class="autor"></p>
 				</div>`,
 			'identificacao-1430-1': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Auditótio</div>
@@ -425,29 +440,32 @@
 					<p class="autor">Layse Vicente Ammirabile & Anna Claudia Vieira Santos</p>
 				</div>`,
 			'identificacao-1430-2': `<div class="activity futuro card-program">
-					<div class="local-palestra">Palestra1</div>
+					<div class="local-palestra">Palestra 1</div>
 					<p class="title">Os futuros da agilidade (se a arrogância nos permitir)</p>
 					<p class="autor">Antonio Gaspar Gerent Júnior & Raphael Donaire Albino</p>
 				</div>`,
 			'identificacao-1430-3': `<div class="activity cliente card-program">
-					<div class="local-palestra">Palestra2</div>
+					<div class="local-palestra">Palestra 2</div>
 					<p class="title">Product Ownership - Melhores práticas e desafios na gestão do produto</p> 
 					<p class="autor">Rafael Imhof</p>
 				</div>`,
 			'identificacao-1430-4': `<div class="activity futuro card-program">
-					<div class="local-palestra">Palestra3</div>
+					<div class="local-palestra">Palestra 3</div>
 					<p class="title">Não rufem os tambores: a produtividade voltou para salvar a agilidade</p>
 					<p class="autor">Bruno Zanutto</p>
 				</div>`,
 			'identificacao-1430-5': `<div class="activity metrica workspace card-program">
+					<div class="local-palestra">Workshop 1</div>
 					<p class="title">Aprendendo na Prática sobre Métricas de Fluxo</p>
 					<p class="autor">Gustavo Lopes de Miranda & João Grabosque</p>
 				</div>`,
 			'identificacao-1430-6': `<div class="activity metrica workspace card-program">
+					<div class="local-palestra">Workshop 2</div>
 					<p class="title">Workshop OKR Game Pocket</p>
 					<p class="autor">Daniela Gomes dos Santos & Jéssica Borges Alves</p>
 				</div>`,
 			'identificacao-1430-7': `<div class="activity futuro workspace card-program">
+					<div class="local-palestra">Workshop 3</div>
 					<p class="title">Aprimorando a Gestão Ágil e o Design Organizacional com ChatGPT e Inteligência Artificial</p>
 					<p class="autor">Davi Gabriel da Silva & Tami Lima</p>
 				</div>`,
@@ -457,17 +475,17 @@
 					<p class="autor">Joyce Teixeira</p>
 				</div>`,
 			'identificacao-1510-2': `<div class="activity raizes card-program">
-					<div class="local-palestra">Palestra1</div>
+					<div class="local-palestra">Palestra 1</div>
 					<p class="title">Raízes da Agilidade, O Poder da Arquitetura no Início</p>
 					<p class="autor">Julia Miloco Balduino</p>
 				</div>`,
 			'identificacao-1510-3': `<div class="activity cliente card-program">
-					<div class="local-palestra">Palestra2</div>
+					<div class="local-palestra">Palestra 2</div>
 					<p class="title">Maximizando o valor do Backlog de Produtos adaptando a técnica WSJF</p> 
 					<p class="autor">Fabio Henrique Fonseca de Sousa</p>
 				</div>`,
 			'identificacao-1510-4': `<div class="activity metrica card-program">
-					<div class="local-palestra">Palestra3</div>
+					<div class="local-palestra">Palestra 3</div>
 					<p class="title">Meu time tem medo do leadtime e agora?</p>
 					<p class="autor">Adriana Barros</p>
 				</div>`,
@@ -477,17 +495,17 @@
 					<p class="autor">Jéssica Ferrari</p>
 				</div>`,
 			'identificacao-1550-2': `<div class="activity metrica card-program">
-					<div class="local-palestra">Palestra1</div>
+					<div class="local-palestra">Palestra 1</div>
 					<p class="title">Domine o resultado do seu portfólio/roadmap - como unir as métricas de fluxo com o resultados de negócio</p>
 					<p class="autor">Alan Kuhn & Caco Mafra</p>
 				</div>`,
 			'identificacao-1550-3': `<div class="activity cliente card-program">
-					<div class="local-palestra">Palestra2</div>
+					<div class="local-palestra">Palestra 2</div>
 					<p class="title">E quando tudo sai do planejado? A arte de improvisar e entregar valor com os recursos disponíveis</p> 
 					<p class="autor">Renata Monteiro</p>
 				</div>`,
 			'identificacao-1550-4': `<div class="activity futuro card-program">
-					<div class="local-palestra">Palestra3</div>
+					<div class="local-palestra">Palestra 3</div>
 					<p class="title">Repensando a Carreira Agilista: Adaptabilidade e Competências para um Futuro em Transformação</p>
 					<p class="autor">Aline Roque Klein</p>
 				</div>`,
@@ -504,22 +522,32 @@
 		$("#program-9").css('background-color', '#063676');
 		$("#program-10").css('background-color', '#063676');
 		$("#program-11").css('background-color', '#063676');
+		/*
+		$(".activity-day-9").css('display', 'none');
+		$(".activity-day-10").css('display', 'none');
+		$(".activity-day-11").css('display', 'none');
+		*/
 		if (day == 10){
 			$(".linha-dia-padrao").css('display', 'none');
 			$(".dia-linha-10").css('display', 'contents');
 		} else {
 			$(".linha-dia-padrao").css('display', 'contents');
 			$(".dia-linha-10").css('display', 'none');
-		}				
+		}
+		/* $(".activity-day-"+day).css('display', 'contents'); */
+		$("#program-"+day).css('background-color', '#147332');
 		for (var index in dataProgram[day]) {
 			var program = dataProgram[day][index];
-			$("#program-"+day).css('background-color', '#147332');
 			$(".response-version-screen #"+index).html(program);
 			$(".full-screen #"+index).html(program);
-			console.log(program,day, index, ".full-screen #"+index, '!!!!!!!!!!!!!!!!');
 		};
 	}
 	
+	/*
+	separar paineis de produto
+	e de opén
+	*/
+
 	if ($("#program-9").length > 0 && window.initProgram == 0) {
 		window.program(9);
 	}
