@@ -209,6 +209,7 @@ section, summary, time, mark, audio, video {
     width: 25px;
     border-radius: 4px;
 	margin-right: 5px;
+	margin: auto 5px auto 0px;
 }
 
 .legend-trilha {
@@ -717,6 +718,10 @@ input, select, textarea {
 
 			hr.major {
 				margin: 3rem 0;
+			}
+
+			header.major h1 {
+				font-size: 2rem !important;
 			}
 
 		}
