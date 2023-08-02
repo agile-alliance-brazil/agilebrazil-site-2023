@@ -133,7 +133,8 @@ section, summary, time, mark, audio, video {
 }
 
 #program-intregration-v2 table div.card-program p.autor{
-    color: #000 !important;	
+    color: #000 !important;
+	font-weight: bold !important;	
 }
 
 #program-intregration-v2 table div.card-program p{
@@ -183,24 +184,40 @@ section, summary, time, mark, audio, video {
 	background-color: var(--ab-logo-azul-escuro);
 }
 
-#program-intregration-v2 div.activity.raizes {	
+#program-intregration-v2 div.activity.raizes, #program-intregration-v2 div.legend.raizes{	
 	background-color: #147332 !important;
 }
 
-#program-intregration-v2 div.activity.lideranca {	
+#program-intregration-v2 div.activity.lideranca, #program-intregration-v2 div.legend.lideranca {	
 	background-color: #FFA505 !important;
 }
 
-#program-intregration-v2 div.activity.metrica {	
+#program-intregration-v2 div.activity.metrica, #program-intregration-v2 div.legend.metrica {	
 	background-color: #004AAD !important;
 }
 
-#program-intregration-v2 div.activity.cliente {	
+#program-intregration-v2 div.activity.cliente, #program-intregration-v2 div.legend.cliente {	
 	background-color: #2D87FF !important;
 }
 
-#program-intregration-v2 div.activity.futuro {	
+#program-intregration-v2 div.activity.futuro, #program-intregration-v2 div.legend.futuro {	
 	background-color: #43AC4B !important;
+}
+
+#program-intregration-v2 div.legend {	
+	height: 25px;
+    width: 25px;
+    border-radius: 4px;
+	margin-right: 5px;
+}
+
+.legend-trilha {
+	display: block !important;
+	margin-bottom: 20px !important;
+}
+
+ul.legend-trilha li {
+	display: flex;
 }
 
 #program-intregration-v2 div.card-program.interval, #program-intregration-v2 div.card-program.keynote  {	
