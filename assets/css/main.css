@@ -134,7 +134,7 @@ section, summary, time, mark, audio, video {
 
 #program-intregration-v2 table div.card-program p.autor{
     color: #D9D9D9 !important;
-	font-weight: bold !important;	
+	/*font-weight: bold !important;	*/
 }
 
 #program-intregration-v2 table div.card-program p{
