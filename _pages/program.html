@@ -1,62 +1,349 @@
 ---
 title: nav.program
-namespace: program
-permalink: /programa
-permalink_en: /program
+namespace: program-v5
+permalink: /programa-v5
+permalink_en: /program-v5
 ---
 
-<div id="main" class="wrapper">
-  <div class="inner">
+<div id="main" class="wrapper style1">
+  <div class="inner-full">
     <header class="heading major">
-      <h1>Programa</h1>
-      <p>O que vai rolar na Agile Brazil 2023</p>
+      <h1>Programação Agile Brazil 23</h1>
     </header>
+   
+    <section id="program-intregration-v2"  class="program">
+      <h3>Trilhas:</h3>
+      <ul  class="legend-trilha">
+        <li><div class="legend raizes"></div><div>Raízes da Agilidade</div></li>
+        <li><div class="legend lideranca"></div><div>Liderança e Agilidade Estratégica</div></li>
+        <li><div class="legend metrica"></div><div>Métricas e Inteligência com Dados</div></li>
+        <li><div class="legend cliente"></div><div>Produtos e Foco no Cliente</div></li>
+        <li><div class="legend futuro"></div><div>Futuro da Agilidade</div></li>
+      </ul>
+      <hr/>
+      <div class="dias">
+        <ul  class="actions special">
+          <li><div class="button primary" id="program-9" onclick="program(9)">Dia 09</div></li>
+          <li><div class="button primary" id="program-10" onclick="program(10)">Dia 10</div></li>
+          <li><div class="button primary" id="program-11" onclick="program(11)">Dia 11</div></li>
+        </ul>
+      </div>
+      <table class="full-screen">
+        <thead>
+          <tr class="locais">
+            <th class="horario">
+              
+            </th>
+            <th class="trilhas">
+              <div  class="local auditorio card-program">Auditório</div>
+            </th>
+            <th class="trilhas">
+              <div class="local palestra card-program">Palestra 1</div>
+            </th>
+            <th class="trilhas">
+              <div class="local palestra card-program">Palestra 2</div>
+            </th>
+            <th class="trilhas">
+              <div class="local palestra card-program">Palestra 3</div>
+            </th>
+            <th class="trilhas">
+              <div class="local workshop card-program">workshop 1</div>
+            </th>
+            <th class="trilhas">
+              <div class="local workshop card-program">workshop 2</div>
+            </th>
+            <th class="trilhas">
+              <div class="local workshop card-program">workshop 3</div>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><div class="time card-program">9:00</div></td>
+            <td colspan="7" id="identificacao-900"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program">9:30</div></td>
+            <td colspan="7" id="identificacao-930"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program">10:20</div></td>
+            <td colspan="7" id="identificacao-1020"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program"><p>10:50</p></div></td>
+            <td id="identificacao-1050-1"></td>                
+            <td id="identificacao-1050-2"></td>                
+            <td id="identificacao-1050-3"></td>                
+            <td id="identificacao-1050-4"></td>
+            <td rowspan="5" id="identificacao-1050-5"></td>
+            <td rowspan="5" id="identificacao-1050-6"></td>
+            <td rowspan="5" id="identificacao-1050-7"></td>
+          </tr>
+          <tr>
+            <td class="time-10"><div class="time card-program">11:20</div></td>
+            <td colspan="4"><div  class="interval card-program">Intervalo</div></td>
+          </tr>
+          <tr>
+            <td class="time-30"><div class="time card-program"><p>11:30</p></div></td>
+            <td id="identificacao-1130-1"></td>                
+            <td id="identificacao-1130-2"></td>
+            <td id="identificacao-1130-3"></td>
+            <td id="identificacao-1130-4"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program">12:00</div></td>
+            <td colspan="4"><div class="interval card-program">Intervalo</div></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program"><p>12:10</p></div></td>
+            <td id="identificacao-1210-1"></td>
+            <td id="identificacao-1210-2"></td>
+            <td id="identificacao-1210-3"></td>
+            <td id="identificacao-1210-4"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program">13:00</div></td>
+            <td colspan="7"><div class="interval card-program">Almoço</div></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program"><p>14:30</p></div></td>
+            <td id="identificacao-1430-1"></td>                
+            <td id="identificacao-1430-2"></td>                
+            <td id="identificacao-1430-3"></td>                
+            <td id="identificacao-1430-4"></td>
+            <td rowspan="5" id="identificacao-1430-5"></td>
+            <td rowspan="5" id="identificacao-1430-6"></td>
+            <td rowspan="5" id="identificacao-1430-7"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program">15:00</div></td>
+            <td colspan="4"><div class="interval card-program">Intervalo</div></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program"><p>15:10</p></div></td>
+            <td id="identificacao-1510-1"></td>
+            <td id="identificacao-1510-2"></td>
+            <td id="identificacao-1510-3"></td>
+            <td id="identificacao-1510-4"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program">15:40</div></td>
+            <td colspan="4"><div class="interval card-program">Intervalo</div></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program"><p>15:50</p></div></td>
+            <td id="identificacao-1550-1"></td>
+            <td id="identificacao-1550-2"></td>
+            <td id="identificacao-1550-3"></td>
+            <td id="identificacao-1550-4"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program">16:40</div></td>
+            <td colspan="7" id="identificacao-1640"></td>
+          </tr>
+          <tr class="linha-dia-padrao">
+            <td><div class="time card-program">17:10</div></td>
+            <td colspan="7" id="identificacao-1710"></td>
+          </tr>
+          <tr class="dia-linha-10">
+            <td><div class="time card-program"><p>17:10</p></div></td>
+            <td id="identificacao-1710-1"></td>
+            <td id="identificacao-1710-2"></td>
+            <td id="identificacao-1710-3"></td>
+            <td id="identificacao-1710-4"></td>
+            <td id="identificacao-1710-5"></td>
+            <td id="identificacao-1710-6"></td>
+            <td id="identificacao-1710-7"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program">18:00</div></td>
+            <td colspan="7" id="identificacao-1800"></td>
+          </tr>
+        </tbody>
+      </table>  
 
-    <p>A programação da Agile Brazil está saindo do forno e, como valorizamos entrega desde cedo e com frequência de valor, você já pode ver uma prévia do que vai rolar.</p>
 
-    <table class="sessions">
-      <thead>
-        <tr>
-          <td>Trilha</td>
-          <td>Nome da sessão</td>
-          <td>Palestrantes</td>
-          <td>Horário</td>
-        </tr>
-      </thead>
-      <tbody>
-      {% for session in site.data.sessions %}
-        <tr>
-          <td>{{session.track}}</td>
-          <td>{{session.title}}</td>
+
+        <table class="response-version-screen">
+          <tr>
+            <td><div class="time card-program">9:00</div></td>
+            <td id="identificacao-900"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program">9:30</div></td>
+            <td id="identificacao-930"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program">10:20</div></td>
+            <td id="identificacao-1020"></td>
+          </tr>
+          <tr>
+            <td rowspan="4"><div class="time card-program"><p>10:50</p></div></td>
+            <td id="identificacao-1050-1"></td>                
+          </tr>
+          <tr>
+            <td id="identificacao-1050-2"></td>               
+          </tr>
+          <tr>
+            <td id="identificacao-1050-3"></td>                
+          </tr>
+          <tr>
+            <td id="identificacao-1050-4"></td>
+          </tr>
+          <tr>
+            <td class="time-10"><div class="time card-program">11:20</div></td>
+            <td><div  class="interval card-program">Intervalo</div></td>
+          </tr>
+          <tr>
+            <td rowspan="4" class="time-30"><div class="time card-program"><p>11:30</p></div></td>
+            <td id="identificacao-1130-1"></td>                
+          </tr>
+          <tr>
+            <td id="identificacao-1130-2"></td>
+          </tr>
+          <tr>
+            <td id="identificacao-1130-3"></td>
+          </tr>
+          <tr>
+            <td id="identificacao-1130-4"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program">12:00</div></td>
+            <td><div class="interval card-program">Intervalo</div></td>
+          </tr>
+          <tr>
+            <td rowspan="4"><div class="time card-program"><p>12:10</p></div></td>
+            <td id="identificacao-1210-1"></td>
+          </tr>
+          <tr>
+            <td id="identificacao-1210-2"></td>
+          </tr>
+          <tr>
+            <td id="identificacao-1210-3"></td>
+          </tr>
+          <tr>
+            <td id="identificacao-1210-4"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program">13:00</div></td>
+            <td><div class="interval card-program">Almoço</div></td>
+          </tr>
+          <tr>
+            <td rowspan="4"><div class="time card-program"><p>14:30</p></div></td>
+            <td id="identificacao-1430-1"></td> 
+          </tr>
+          <tr>               
+            <td id="identificacao-1430-2"></td>  
+          </tr>
+          <tr>              
+            <td id="identificacao-1430-3"></td> 
+          </tr>
+          <tr>               
+            <td id="identificacao-1430-4"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program">15:00</div></td>
+            <td><div class="interval card-program">Intervalo</div></td>
+          </tr>
+          <tr>
+            <td rowspan="4"><div class="time card-program"><p>15:10</p></div></td>
+            <td id="identificacao-1510-1"></td>
+          </tr>
+          <tr>
+            <td id="identificacao-1510-2"></td>
+          </tr>
+          <tr>
+            <td id="identificacao-1510-3"></td>
+          </tr>
+          <tr>
+            <td id="identificacao-1510-4"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program">15:40</div></td>
+            <td><div class="interval card-program">Intervalo</div></td>
+          </tr>
+          <tr>
+            <td rowspan="4"><div class="time card-program"><p>15:50</p></div></td>
+            <td id="identificacao-1550-1"></td>
+          </tr>
+          <tr>
+            <td id="identificacao-1550-2"></td>
+          </tr>
+          <tr>
+            <td id="identificacao-1550-3"></td>
+          </tr>
+          <tr>
+            <td id="identificacao-1550-4"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program">16:40</div></td>
+            <td id="identificacao-1640"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program">17:10</div></td>
+            <td id="identificacao-1710"></td>
+          </tr>
+          <tr>
+            <td rowspan="7"><div class="time card-program"><p>17:10</p></div></td>
+            <td id="identificacao-1710-1"></td>
+          </tr>
+          <tr>
+            <td id="identificacao-1710-2"></td>
+          </tr>
+          <tr>
+            <td id="identificacao-1710-3"></td>
+          </tr>
+          <tr>
+            <td id="identificacao-1710-4"></td>
+          </tr>
+          <tr>
+            <td id="identificacao-1710-5"></td>
+          </tr>
+          <tr>
+            <td id="identificacao-1710-6"></td>
+          </tr>
+          <tr>
+            <td id="identificacao-1710-7"></td>
+          </tr>
+          <tr>
+            <td><div class="time card-program">18:00</div></td>
+            <td id="identificacao-1800"></td>
+          </tr>
+        </tbody>
+      </table> 
+
+      <table class="response-version-screen">
+        <tr >
           <td>
-            {{session.author}}
-            {% if session.coAuthor %}
-              & {{session.coAuthor}}
-            {% endif %}
           </td>
-          <td>{{session.date}}</td>
+          <td>
+            <div class="activity workspace card-program">Workshops</div>
+          </td>       
         </tr>
-      {% endfor %}
-      </tbody>
-    </table>
+        <tr >
+          <td rowspan="3"><div class="time card-program"> <p>10:50 <br/> - <br/>13:00</p></div></td>
+          <td id="identificacao-1050-5"></td>   
+        </tr>
+        <tr>   
+          <td id="identificacao-1050-6"></td>      
+        </tr>
+        <tr>   
+          <td id="identificacao-1050-7"></td>
+        </tr>
+        <tr >
+          <td rowspan="3"><div class="time card-program"> <p>14:30 <br/> - <br/>16:40</p></div></td>
+          <td id="identificacao-1430-5"></td>   
+        </tr>
+        <tr>   
+          <td id="identificacao-1430-6"></td>     
+        </tr>
+        <tr>   
+          <td id="identificacao-1430-7"></td>
+        </tr>
+      </table>
+    </section>
 
-    <p>Para conhecer um pouco do conteúdo que recebemos na conferência, assista as palestras de outras edições da Agile Brazil no nosso canal no Youtube!</p>
 
-    <ul class="actions special">
-      <li><a href="https://www.youtube.com/channel/UCq45wLjEs9BRRreV02Fe8rw" class="button primary" target="_blank"><span class="fab fa-youtube"></span> Reveja conteúdo da AB</a></li>
-    </ul>
   </div>
 </div>
-<!--
-{% if site.data.toggles.keynotes %}
-<section id="keynotes" class="wrapper style1">
-  <div class="inner">
-    <header class="heading major">
-      <h2>{% t labels.keynotes %}</h2>
-    </header>
-
-    {% include keynotes.html %}
-  </div>
-</section>
-{% endif %}
--->
