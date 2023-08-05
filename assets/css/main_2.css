@@ -133,8 +133,8 @@ section, summary, time, mark, audio, video {
 }
 
 #program-intregration-v2 table div.card-program p.autor{
-    color: #000 !important;
-	font-weight: bold !important;	
+    color: #D9D9D9 !important;
+	/*font-weight: bold !important;	*/
 }
 
 #program-intregration-v2 table div.card-program p{
@@ -209,11 +209,13 @@ section, summary, time, mark, audio, video {
     width: 25px;
     border-radius: 4px;
 	margin-right: 5px;
+	margin: auto 5px auto 0px;
 }
 
 .legend-trilha {
-	display: block !important;
+	/*display: block !important;*/
 	margin-bottom: 20px !important;
+	justify-content: flex-start !important;
 }
 
 ul.legend-trilha li {
@@ -717,6 +719,10 @@ input, select, textarea {
 
 			hr.major {
 				margin: 3rem 0;
+			}
+
+			header.major h1 {
+				font-size: 2rem !important;
 			}
 
 		}
