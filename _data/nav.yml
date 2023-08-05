@@ -42,3 +42,8 @@
   namespace: faq
   production: true
   visible: true
+
+- name: nav.faq_speakers
+  namespace: faq_speakers
+  production: true
+  visible: true
