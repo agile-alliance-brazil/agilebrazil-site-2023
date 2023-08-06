@@ -343,7 +343,58 @@ permalink_en: /program
         </tr>
       </table>
     </section>
+  </div>
+</div>
 
+<section id="keynotes" class="wrapper  style1">
+  <div class="inner speakers">
+    <header class="heading major">
+      <h2>Palestrantes</h2>
+    </header>
+  
+  <div class="profiles session-speakers">
+
+    {% for speaker in site.data.speakers %}
+    <div class="profile">
+      <div class="image-keynotes">
+        <img class="image-speaker" src="{{ speaker.photo | prepend: site.baseurl_root }}" alt="{% t labels.photo_of %} {{speaker.name}}" />
+      </div>
+      <p><b>{{ speaker.name }}</b></p>
+      <p>{{ speaker.minibio }}</p>
+      <ul class="icons hastag">
+        {% if speaker.raizes %}
+          <li><span class="hastag-speakers raizes">#Raízes da Agilidade</span></li>
+        {% endif %}
+        {% if speaker.lideranca %}
+          <li><span class="hastag-speakers lideranca">#Liderança e Agilidade Estratégica</span></li>
+        {% endif %}
+        {% if speaker.metricas %}
+          <li><span class="hastag-speakers metrica">#Métricas e Inteligência com Dados</span></li>
+        {% endif %}
+        {% if speaker.cliente %}
+          <li><span class="hastag-speakers cliente">#Produtos e Foco no Cliente</span></li>
+        {% endif %}
+        {% if speaker.futuro %}
+          <li><span  class="hastag-speakers futuro">#Futuro da Agilidade</span></li>
+        {% endif %}
+      </ul>
+      <ul class="icons">
+        {% if speaker.linkedin %}
+          <li><a href="{{ speaker.linkedin }}" class="icon brands fa-linkedin-in" target="_blank"><span class="label">LinkedIn</span></a></li>
+        {% endif %}
+        {% if speaker.twitter %}
+          <li><a href="{{ speaker.twitter }}" class="icon brands fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+        {% endif %}
+        {% if speaker.site %}
+          <li><a href="{{ speaker.site }}" class="icon solid fas fa-link" target="_blank"><span class="label">Website</span></a></li>
+        {% endif %}
+        {% if speaker.spotify %}
+          <li><a href="{{ speaker.spotify }}" class="icon brands fa-spotify" target="_blank"><span class="label">Podcast</span></a></li>
+        {% endif %}
+      </ul>
+    </div>
+    {% endfor %}
 
   </div>
 </div>
+</section>

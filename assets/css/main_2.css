@@ -88,6 +88,65 @@ section, summary, time, mark, audio, video {
 */
 
 /*
+------------------------------------------------------------------------
+-------------------------------- Palestrantes --------------------------
+------------------------------------------------------------------------
+*/
+
+.image-speaker{
+	max-width: 125px !important;
+    max-height: 125px !important;
+    height: auto !important;
+	border-radius: 50% !important;
+}
+
+.session-speakers p {
+	margin: 0px !important;
+}
+
+ul.icons.hastag {
+	margin-bottom: 5px !important;
+}
+
+.hastag-speakers {
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+	font-size: 12px;
+    margin: auto;
+}
+
+.hastag-speakers.raizes{	
+	background-color: #147332 !important;
+}
+
+.hastag-speakers.lideranca {	
+	background-color: #FFA505 !important;
+}
+
+.hastag-speakers.metrica {	
+	background-color: #004AAD !important;
+}
+
+.hastag-speakers.cliente {	
+	background-color: #2D87FF !important;
+}
+
+.hastag-speakers.futuro {	
+	background-color: #43AC4B !important;
+}
+
+.inner.speakers {
+	max-width: calc(100% - 5rem) !important;
+    width: 90rem !important;
+}
+
+.profiles > * {
+	max-width: 250px !important;
+	padding: 1rem !important;
+}
+
+/*
 -----------------------------------------------------------------------
 ---------------------------------- programação ------------------------------
 -----------------------------------------------------------------------
