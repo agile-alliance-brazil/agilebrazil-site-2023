@@ -4602,7 +4602,8 @@ input, select, textarea {
 	}
 
 	#footer a {
-		color: var(--ab-logo-azul-escuro);
+		/*color: var(--ab-logo-azul-escuro);*/
+		color: #FFFFFF;
 		display: block;
 	}
 
