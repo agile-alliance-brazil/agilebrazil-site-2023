@@ -51,7 +51,7 @@
   session: faq-speakers
 
 - question: 14. Qual é minha sala, dia e horário da palestra? Onde consulto essa informação?
-  answer: Você pode consultar o dia e horário da sua palestra na nossa grade pelo site <a href="http://www.agilebrazil.com/2023/programa">http://www.agilebrazil.com/2023/programa</a>, e, em breve, vamos disponibilizar um <i>bot</i>, para que você possa consultar as salas e horários mais atualizados, visto que podemos ter mudanças, devido a imprevistos. 
+  answer: Você pode consultar o dia e horário da sua palestra na nossa grade pelo site <a href="http://www.agilebrazil.com/2023/programa">http://www.agilebrazil.com/2023/programa</a> ou pelo <a target="_blank" href="https://api.whatsapp.com/send/?phone=5511916443750&text&type=phone_number&app_absent=0"><i>bot</i> do whatsapp(+55 11 91644-3750)</a>, para que você possa consultar as salas e horários mais atualizados, visto que podemos ter mudanças, devido a imprevistos. 
   session: faq-speakers
 
 - question: 15. Posso usar a camisa da empresa na minha palestra?
@@ -63,7 +63,7 @@
   session: faq-speakers
 
 - question: 17. Tem algum grupo de whatsapp para me comunicar com vocês antes do evento e tirar outras dúvidas?
-  answer: Por enquanto pode nos procurar pelo e-mail <a href="mailto:programa@agilebrazil.com">programa@agilebrazil.com</a>, em breve vamos disponibilizar um bot para agilizar essa comunicação entre pessoas palestrantes e organização.
+  answer: Por enquanto pode nos procurar pelo e-mail <a href="mailto:programa@agilebrazil.com">programa@agilebrazil.com</a> ou pelo <a target="_blank" href="https://api.whatsapp.com/send/?phone=5511916443750&text&type=phone_number&app_absent=0"><i>bot</i> do whatsapp(+55 11 91644-3750)</a>
   session: faq-speakers
 
 - question: 1. No <i>workshop</i> vou poder usar o <i>notebook</i> próprio para apresentar?
@@ -107,7 +107,7 @@
   session: faq-workshop
 
 - question: 11. Qual é minha sala, dia  e horário do meu <i>workshop</i>? Onde posso consultar essa informação?
-  answer: Você pode consultar o dia e horário na nossa grade pelo site <a href="http://www.agilebrazil.com/2023/programa">http://www.agilebrazil.com/2023/programa</a>, e, em breve, vamos disponibilizar um <i>bot</i>, para que você possa consultar as salas e horários mais atualizados, visto que podemos ter mudanças, devido a imprevistos.
+  answer: Você pode consultar o dia e horário na nossa grade pelo site <a href="http://www.agilebrazil.com/2023/programa">http://www.agilebrazil.com/2023/programa</a> ou pelo <a target="_blank" href="https://api.whatsapp.com/send/?phone=5511916443750&text&type=phone_number&app_absent=0"><i>bot</i> do whatsapp(+55 11 91644-3750)</a>, para que você possa consultar as salas e horários mais atualizados, visto que podemos ter mudanças, devido a imprevistos.
   session: faq-workshop
 
 - question: 12. Posso usar a camisa da empresa no meu workshop?
@@ -119,7 +119,7 @@
   session: faq-workshop
 
 - question: 14. Tem algum grupo de <i>whatsapp</i> para se comunicar com vocês antes do evento e tirar outras dúvidas?
-  answer: Por enquanto pode nos procurar pelo e-mail <a href="mailto:programa@agilebrazil.com">programa@agilebrazil.com</a>, em breve vamos disponibilizar um bot para agilizar essa comunicação entre pessoas facilitadoras e organização do evento.
+  answer: Por enquanto pode nos procurar pelo e-mail <a href="mailto:programa@agilebrazil.com">programa@agilebrazil.com</a> ou pelo <a target="_blank" href="https://api.whatsapp.com/send/?phone=5511916443750&text&type=phone_number&app_absent=0"><i>bot</i> do whatsapp(+55 11 91644-3750)</a>
   session: faq-workshop
 
 - question: 1. Como pessoa palestrante ou facilitadora, preciso fazer inscrição para o Agile Brazil?
