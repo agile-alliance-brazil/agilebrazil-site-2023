@@ -92,7 +92,7 @@ section, summary, time, mark, audio, video {
 -------------------------------- Palestrantes --------------------------
 ------------------------------------------------------------------------
 */
-/*
+
 .image-speaker{
 	max-width: 125px !important;
     max-height: 125px !important;
@@ -141,11 +141,11 @@ ul.icons.hastag {
     width: 90rem !important;
 }
 
-.profiles > * {
+.session-speakers .profiles > * {
 	max-width: 250px !important;
 	padding: 1rem !important;
 }
-*/
+
 /*
 -----------------------------------------------------------------------
 ---------------------------------- programação ------------------------------
@@ -192,8 +192,8 @@ ul.icons.hastag {
 }
 
 #program-intregration-v2 table div.card-program p.autor{
-    color: #D9D9D9 !important;
-	/*font-weight: bold !important;	*/
+    /*color: #D9D9D9 !important;
+	font-weight: bold !important;	*/
 }
 
 #program-intregration-v2 table div.card-program p{
