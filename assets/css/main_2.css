@@ -141,7 +141,7 @@ ul.icons.hastag {
     width: 90rem !important;
 }
 
-.session-speakers .profiles > * {
+.session-speakers .profile {
 	max-width: 250px !important;
 	padding: 1rem !important;
 }

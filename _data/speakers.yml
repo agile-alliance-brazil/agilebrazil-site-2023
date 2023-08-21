@@ -1,45 +1,598 @@
+- name: Adriana Barros
+  title: Agilista na Vitat
+  photo: /assets/images/speakers/adriana-barros.jpeg
+  linkedin: https://www.linkedin.com/in/adriana-sbarros/
+  metricas: 1
+
+- name: Alaíde Nepomuceno
+  title: Agilista
+  photo: /assets/images/speakers/alaide-nepomuceno.jpeg
+  linkedin: https://www.linkedin.com/in/alaidenepomuceno
+  raizes: 1
+
+- name: Alan da Silva Mendes
+  title: Technical Product Manager / Product Owner - Claro/Embratel
+  photo: /assets/images/speakers/alan-da-silva-mendes.jpeg
+  linkedin: https://www.linkedin.com/in/alanmendes/
+  cliente: 1
+
+- name: Alan Kuhn
+  title: Agile Coach / RD Station
+  photo: /assets/images/speakers/alan-kuhn.jpeg
+  linkedin: https://www.linkedin.com/in/alandasilvakuhn/
+  cliente: 1
+  metricas: 1
+
+- name: Alceu Bravo
+  title: Sócio e Consultor na Bravo&Co
+  photo: /assets/images/speakers/alceu-bravo.jpeg
+  linkedin: https://www.linkedin.com/in/alceubravo/
+  futuro: 1
+
+- name: Alessandra Vasco
+  title: Product Manager - Catho| Grupo SEEK
+  photo: /assets/images/speakers/alessandra-vasco.jpeg
+  linkedin: https://www.linkedin.com/in/alessandravasco/
+  cliente: 1
+
+- name: Alex Chastinet
+  title: Executive Group Product Manager - Via
+  linkedin: https://www.linkedin.com/in/alex-chastinet-037a919/
+  cliente: 1
+
+- name: Alex Franco
+  title: Diretor de Serviços de Crédito e Inovação na Serasa Experian
+  linkedin: https://www.linkedin.com/in/alexrechefranco/
+  lideranca: 1
+
+- name: Alexandre Realino Alves
+  title: Agilista na Solfácil
+  linkedin: https://www.linkedin.com/in/alexandrerealinoalves/
+  raizes: 1
+  
+- name: Aline Furtado Oliveira
+  title: Assessora da Diretoria Executiva de Operações do IPT
+  linkedin: https://www.linkedin.com/in/oliveirafaline/
+  futuro: 1
+
+- name: Aline Roque Klein
+  title: Agile Chapter Lead e Head da Escola de UX & Design - Alura
+  linkedin: https://www.linkedin.com/in/alineroquemkt/
+  futuro: 1
+
+- name: Amanda Carvalho
+  title: Head of Ombudsman no Nubank
+  linkedin: https://www.linkedin.com/in/amandasantanacarvalho/
+  futuro: 1
+
+- name: Amon Aidukaitis
+  title: Especialista em Agilidade
+  linkedin: https://www.linkedin.com/in/amonaidukaitis/
+  futuro: 1
+
+- name: Analia Irigoyen
+  title: Diretora Executiva da ProMove Soluções
+  linkedin: https://www.linkedin.com/in/analiairigoyen/
+  raizes: 1
+
+- name: Andre Francisco Cipolini
+  title: Coordenador de Agilidade - Banco BV
+  linkedin: https://www.linkedin.com/in/andrecipolini/
+  metricas: 1
+
+- name: Andressa Chiara
+  title: Consultora e Trainer na K21
+  linkedin: https://www.linkedin.com/in/andressachiara/
+  lideranca: 1
+  
+- name: Ani Angelini
+  title: Studio Partner (VP) of Agile Organizations Studio at Globant
+  linkedin: https://www.linkedin.com/in/alangelini/
+  lideranca: 1
+
+- name: Anna Claudia Vieira Santos
+  title: Analista de contratos Senior - IBM Brasil
+  linkedin: https://www.linkedin.com/in/nenisvieira/
+  lideranca: 1
+
+- name: Antonio Flor Junior
+  title: Coordenador de Agilidade - ViaHub
+  linkedin: https://www.linkedin.com/in/juniorxs/
+  metricas: 1
+
+- name: Antonio Gaspar Gerent Júnior
+  title: Agile Specialist no Nubank
+  linkedin: https://www.linkedin.com/in/antoniogerent/
+  futuro: 1
+
+- name: Ari do Amaral Torres Filho
+  title: Agile Expert/Adaptideas
+  linkedin: https://www.linkedin.com/in/ari-amaral/
+  futuro: 1
+
+- name: Beatriz Senna
+  title: Agilista no Nubank
+  linkedin: https://www.linkedin.com/in/beatrizsena/
+  metricas: 1
+
+- name: Bruna Fernanda Salerno
+  title: Agile Master - Getninjas
+  linkedin: https://www.linkedin.com/in/bruna-salerno-19059237
+  raizes: 1
+
+- name: Bruno Zanutto
+  title: Lead Agile Specialist @ Nubank
+  linkedin: https://www.linkedin.com/in/bruno-zanutto/
+  futuro: 1
+  
+- name: Caco Mafra
+  title: kanban Expert | Mentor
+  linkedin: https://www.linkedin.com/in/cleitonmafra/
+  futuro: 1
+  metricas: 1
+
+- name: Carlos Alexandre Marques Junior
+  title: Agile Lead | Banco Carrefour
+  linkedin: https://www.linkedin.com/in/carlos-alexandre-marques-junior/
+  lideranca: 1
+
+- name: Carol Serpejante
+  title: Cultura&Agilidade no Saúde iD
+  linkedin: https://www.linkedin.com/in/carolserpejante/
+  raizes: 1
+
+- name: Ceci Fernandes
+  title: Nubank
+  linkedin: https://www.linkedin.com/in/cecifernandes/
+  raizes: 1
+
+- name: Coaracy Gomes da Silva Junior
+  title: Consultor da DB (Design + Build)
+  linkedin: https://www.linkedin.com/in/coaracy-junior/
+  lideranca: 1
+
+- name: Cristina Moriguchi
+  title: Head de Agilidade na Solfácil
+  linkedin: https://www.linkedin.com/in/cristina-moriguchi/
+  raizes: 1
+
+- name: Daniel Nunes
+  title: Gerente de Agilidade
+  linkedin: https://www.linkedin.com/in/danieljfnunes/
+  cliente: 1
+
+- name: Daniel Vitor Costa Ferreira
+  title: Especialista em Produtos Digitais na Petrobras
+  linkedin: https://www.linkedin.com/in/danielvitor
+  metricas: 1
+
+- name: Daniela Gomes dos Santos
+  title: Einstein | Agile Coach
+  linkedin: https://www.linkedin.com/in/daniela-gomes-dos-santos
+  futuro: 1
+  metricas: 1
+
+- name: Davi Gabriel da Silva
+  title: Consultor na Target Teal
+  linkedin: https://www.linkedin.com/in/davigbr
+  futuro: 1
+
+- name: Deividy Ramires
+  title: Facilitador e Trainer de Estruturas Libertadores | Coletivo Ação
+  linkedin: https://www.linkedin.com/in/deividyr/
+  futuro: 1
+
+- name: Diogo Riker
+  title: Agile Specialista - Zé Delivery
+  linkedin: https://www.linkedin.com/in/diogoriker/
+  lideranca: 1
+
+- name: Durval Ramos Júnior
+  title: "Agile Coach, F1rst - Banco Santander"
+  linkedin: https://www.linkedin.com/in/durvalramos/
+  cliente: 1
+
+- name: Eduardo Reus Souza
+  title: Coordenador de Agilidade / Agile Coach
+  linkedin: https://www.linkedin.com/in/eduardo-reus-souza/
+  raizes: 1
+
+- name: Estefany Medici
+  title: Líder de Inovação e Estratégia na Fortes Engenharia Ltda
+  linkedin: https://www.linkedin.com/in/estefanycastro/
+  lideranca: 1
+
+- name: Eudes Raphael de Sá Santana
+  title: Consultor em Produtização na Petrobras
+  linkedin: https://www.linkedin.com/in/eudes-santana/
+  metricas: 1
+
+- name: Fabio Henrique Fonseca de Sousa
+  title: Agile Master - Compass.UOL
+  linkedin: https://www.linkedin.com/in/fabiohfs/
+  cliente: 1
+
+- name: Fabio Massa
+  title: Pagbank Pagseguro
+  linkedin: https://www.linkedin.com/in/fabmassa/
+  lideranca: 1
+
+- name: Felipe da Rocha Lopes
+  title: Desenvolvedor - Furnas
+  raizes: 1
+
 - name: Fernando Oliveira
-  title: CEO e Cofundador da Taller
-  minibio: Delivery Manager no Itaú Unibanco
+  title: Delivery Manager no Itaú Unibanco
+  photo: /assets/images/speakers/fernando-oliveira.jpeg
+  linkedin: https://www.linkedin.com/in/fernando-julio-oliveira/
+  cliente: 1
+  metricas: 1
+
+- name: Fernando Souza
+  title: PUC Minas Coordenador de Agilidade
+  linkedin: https://www.linkedin.com/in/fernandohsouza/
+  cliente: 1
+
+- name: Flavia Vargas
+  title: Coordenadora de Branding e Conteúdo | PM3
+  linkedin: https://www.linkedin.com/in/flavia-vargas/
+  cliente: 1
+
+- name: Foca - Luiz Felipe Sanches Gonçalves
+  title: Agile Master - Scania Latin America
+  linkedin: https://www.linkedin.com/in/luizofoca/
+  lideranca: 1
+
+- name: Giovanna Corte
+  title: Founder and CEO na eHeadset | Inglês da vida real
+  linkedin: https://www.linkedin.com/in/giovanna-claro-18129231
+  cliente: 1
+
+- name: Gleica Reinert
+  title: Agile Manager - unico IDtech
+  linkedin: https://www.linkedin.com/in/gleica/
+  lideranca: 1
+
+- name: Gustavo Ayres Ferreira
+  title: CIO @ ZBRA
+  linkedin: https://www.linkedin.com/in/gustavoayres/
+  raizes: 1
+
+- name: Gustavo De Angelo Andrade
+  title: Agile Specialist - GFT Brasil
+  linkedin: https://www.linkedin.com/in/gusdeangelo/?locale=pt_BR
+  lideranca: 1
+
+- name: Gustavo Lopes de Miranda
+  title: "Agile Coach, BRQ"
+  linkedin: https://www.linkedin.com/in/gustavo-miranda-b8361023/
+  metricas: 1
+
+- name: Henrique Gonçalves
+  title: Agile Coach no Banco BV
+  linkedin: https://www.linkedin.com/in/henriquefernandesgoncalves/
   metricas: 1
   cliente: 1
-  photo: /assets/images/speakers/fernando-oliveira.jpeg
-  linkedin: https://www.linkedin.com/in/fernando-julio-oliveira/
 
-- name: Fernando Oliveira
-  title: CEO e Cofundador da Taller
-  minibio: Delivery Manager no Itaú Unibanco
+- name: Isabel Coutinho
+  title: Agile Expert
+  linkedin: https://www.linkedin.com/in/ircoutinho
   lideranca: 1
+
+- name: Isabela Gayno
+  title: gerente
+  linkedin: https://www.linkedin.com/in/isabelagayno/
+  lideranca: 1
+
+- name: Italo Oliveira
+  title: CEO
+  linkedin: https://www.linkedin.com/in/italo-oliveira-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-67172624/
   raizes: 1
-  photo: /assets/images/speakers/fernando-oliveira.jpeg
-  linkedin: https://www.linkedin.com/in/fernando-julio-oliveira/
 
-- name: Fernando Oliveira
-  title: CEO e Cofundador da Taller
-  minibio: Delivery Manager no Itaú Unibanco
-  futuro: 1
-  photo: /assets/images/speakers/fernando-oliveira.jpeg
-  linkedin: https://www.linkedin.com/in/fernando-julio-oliveira/
+- name: jailson barbosa de lima
+  title: Agile Master / Compass UOL
+  linkedin: https://www.linkedin.com/in/jailson-barbosa/
+  raizes: 1
 
-- name: Fernando Oliveira
-  title: CEO e Cofundador da Taller
-  minibio: Delivery Manager no Itaú Unibanco
+- name: Janaina Lima Guimarães
+  title: Agile Master
+  linkedin: https://www.linkedin.com/in/janaina-lima-guimaraes
+  lideranca: 1
+
+- name: Jéssica Borges Alves
+  title: Agile Coach | Open to Work
+  linkedin: https://www.linkedin.com/in/jessicaalvesagilista/
+  raizes: 1
   metricas: 1
-  cliente: 1
-  photo: /assets/images/speakers/fernando-oliveira.jpeg
-  linkedin: https://www.linkedin.com/in/fernando-julio-oliveira/
 
-- name: Fernando Oliveira
-  title: CEO e Cofundador da Taller
-  minibio: Delivery Manager no Itaú Unibanco
+- name: Jéssica Ferrari
+  title: Agile Coach
+  linkedin: https://www.linkedin.com/in/jessica7ferrari/
+  raizes: 1
+  lideranca: 1
+
+- name: Jiba Waghetti
+  title: Lead Development Consultant - Thoughtworks
+  linkedin: https://br.linkedin.com/in/jiba-waghetti
+  raizes: 1
+
+- name: João Grabosque
+  title: "Agile Coach, BRQ"
+  linkedin: https://www.linkedin.com/in/joaograbosque/
+  metricas: 1
+
+- name: Joaquim Torres
+  title: Founder and Principal Advisor - Gyaco
+  linkedin: https://www.linkedin.com/in/jocatorres
+  cliente: 1
+  
+- name: JOELMA GONCALVES DAMASCENO MOTA
+  title: "Gerente Corporativa de Segurança, Meio ambiente e saúde ligada a Transformação Digital na Petrobras"
+  linkedin: https://www.linkedin.com/in/joelma-damasceno-mota-4b12b874
+  lideranca: 1
+
+- name: Jorge Improissi
+  title: Agile Coach / GFT CONSULTING
+  linkedin: https://www.linkedin.com/in/improissi/
+  lideranca: 1
+
+- name: Jose JR
+  title: Trainer
+  linkedin: https://www.linkedin.com/in/realjosejr/
+  lideranca: 1
+
+- name: Joyce Teixeira
+  title: Agilista
+  linkedin: https://www.linkedin.com/in/joycerodriguesteixeira/
+  raizes: 1
+
+- name: JULIA MILOCO BALDUINO
+  title: "Specialist, TikTok"
+  linkedin: https://www.linkedin.com/in/julia-miloco-balduino/
+  raizes: 1
+
+- name: Juliana Dutra
+  title: People e Business Manager na DB (Design + Build)
+  linkedin: https://www.linkedin.com/in/juliana-dutra-ela-dela-043a7528/
+  lideranca: 1
+
+- name: Juliana Oliveira de Menezes
+  title: Coordenadora de Agilidade
+  linkedin: https://www.linkedin.com/in/julianamzes/
+  futuro: 1
+
+- name: Juliano Granadeiro Teixeira
+  title: Agile Coach - GFT
+  linkedin: https://www.linkedin.com/in/julianogranadeiro/
+  metricas: 1
+
+- name: Juliano Ribeiro
+  title: AKT e AKC na Aspercom Educação Corporativa
+  linkedin: https://www.linkedin.com/in/julianopauloribeiro/
+  raizes: 1
+
+- name: Laura Consolmagno
+  title: GERENTE DE PROJETOS - BAYER
+  linkedin: https://www.linkedin.com/in/lauraconsolmagno
+  raizes: 1
+
+- name: Layse Vicente Ammirabile
+  title: Consultora de Diversidade e Inclusão - Consultoria Mais Diversidade
+  linkedin: https://www.linkedin.com/in/laysevicente/
+  lideranca: 1
+
+- name: Lucas de Barros Gomes
+  title: Agile Business Consultant & Org Designer - NTTData Brasil
+  linkedin: https://www.linkedin.com/in/lgomesam/
+  lideranca: 1
+
+- name: Luciana Macedo Cajaty
+  title: Agile Master - Universidade Federal do Ceará
+  linkedin: https://www.linkedin.com/in/lucianacajaty/
+  cliente: 1
+  metricas: 1
+
+- name: Luciana Mara Neves Vogas
+  title: Agile Manager
+  linkedin: https://www.linkedin.com/in/luciana-vogas/
+  lideranca: 1
+
+- name: Luiz Coelho
+  title: Consultor de Inovação
+  linkedin: https://www.linkedin.com/in/luizcoelhome/
+  futuro: 1
+
+- name: Luiz Lima
+  title: Business Advisor | e-Core
+  linkedin: https://www.linkedin.com/in/lhtlima/
+  lideranca: 1
+
+- name: Maíra do Vale Machado
+  title: Fundadora da Consultoria Maíra do Vale Inovação e Estratégia
+  linkedin: https://www.linkedin.com/in/mairadovale/
+  lideranca: 1
+
+- name: Manoel Pimentel Medeiros
+  title: Diretor de Business Agility  para Américas do Grupo GFT
+  linkedin: https://www.linkedin.com/in/manoelp/
+  lideranca: 1
+
+- name: Marcelo Macedo
+  title: Agile Coach - Sicredi
+  linkedin: https://www.linkedin.com/in/marcelo-macedo-1b778531/
+  lideranca: 1
+
+- name: Marco Dubovski
+  title: Gerente Executivo de Produtos na Serasa Experian
+  linkedin: https://www.linkedin.com/in/dubovski
+  lideranca: 1
+
+- name: Marcos Garrido
+  title: Founder K21
+  linkedin: https://www.linkedin.com/in/mgarridobr/
+  raizes: 1
+
+- name: Mariana Vicente Oliveira
+  title: Ux Designer na wBrain
+  linkedin: https://www.linkedin.com/in/marianavioli/
+  futuro: 1
+
+- name: Mariana Zaparolli Martins
+  title: Expert Associate Partner na Bain & Company
+  linkedin: https://www.linkedin.com/in/mariana-zaparolli-martins/
+  futuro: 1
+
+- name: Mayra de Souza
+  title: "Transformation Digital, Lean & Agile Expert | Coletivo Ação"
+  linkedin: https://br.linkedin.com/in/mayrarodriguesdesouza
+  futuro: 1
+  cliente: 1
+
+- name: MELINA DOS SANTOS
+  title: Head of Technology na SWAP
+  linkedin: https://www.linkedin.com/in/melderaldo/
+  raizes: 1
+
+- name: Michele Prieto
+  title: Especialista em Agilidade de Negócios
+  linkedin: https://www.linkedin.com/in/michele-reis-prieto-0767101b2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bv76V1ZbdTNCVFmJt%2FgpGXQ%3D%3D
+  lideranca: 1
+
+- name: Mônica Fonseca
+  title: "Enterprise Agile Coach, TCS"
+  linkedin: https://www.linkedin.com/in/monicafonsecabr/
+  cliente: 1
+
+- name: Mylena de Souza Nascimento
+  title: Especialista de Agilidade
+  linkedin: https://www.linkedin.com/in/mylena-souza06/
+  futuro: 1
+
+- name: nancy vieira
+  title: Analista de Cultura de Dados
+  linkedin: https://www.linkedin.com/in/nancy-vieira/
+  raizes: 1
+
+- name: Naomy Oliveira
+  title: Diretora - Governo do Estado do Rio Grande do Sul
+  linkedin: https://www.linkedin.com/in/naomyoliveira
+  lideranca: 1
+
+- name: Natalia Manha
+  title: Gerente de Inovação
+  linkedin: https://www.linkedin.com/in/nataliamanha
+  lideranca: 1
+
+- name: Patrícia Ellen Pires Reinert
+  title: #OpenToWork
+  linkedin: https://www.linkedin.com/in/patriciaendres/
+  lideranca: 1
+
+- name: Paula Viani
+  title: Fundadora - Agile for Teachers
+  linkedin: https://www.linkedin.com/in/paulaviani/
+  futuro: 1
+
+- name: Pedro Luiz Martins Cruz
+  title: Agile Coach - Synergyc
+  linkedin: https://www.linkedin.com/in/pedro-luiz-m-cruz/
+  raizes: 1
+
+- name: Priscila Chagas
+  title: "Agile & Product Expert, Bain & Company"
+  linkedin: https://www.linkedin.com/in/aprichagas/
+  futuro: 1
+
+- name: rafael imhof
+  title: Product Owner na Central Ailos
+  linkedin: https://www.linkedin.com/in/rafaimhof/
+  cliente: 1
+
+- name: Raphael Donaire Albino
+  title: Gerente de RH no Nubank
+  linkedin: https://www.linkedin.com/in/rapha-albino/
+  futuro: 1
+
+- name: RAQUEL RODRIGUES SILVA
+  title: "Consultora de Metodologias de Colaboração, Descoberta e Design na PETROBRAS"
+  linkedin: https://www.linkedin.com/in/raquel-rodrigues-silva-99842347
+  lideranca: 1
+
+- name: Rebeca Cunha
+  title: Agile coach- CompassUol
+  linkedin: https://www.linkedin.com/in/rebecamcunha/
+  metricas: 1
+
+- name: Renata Monteiro
+  title: Co-fundadora e Head de operações
+  linkedin: https://www.linkedin.com/in/renata-luciria-monteiro-49b6b3140/
+  futuro: 1
+  cliente: 1
+
+- name: Rhaissa Ferreira
+  title: Agile Master - getninjas
+  linkedin: https://www.linkedin.com/in/rhaissa-ferreira/
   lideranca: 1
   raizes: 1
-  photo: /assets/images/speakers/fernando-oliveira.jpeg
-  linkedin: https://www.linkedin.com/in/fernando-julio-oliveira/
 
-- name: Fernando Oliveira
-  title: CEO e Cofundador da Taller
-  minibio: Delivery Manager no Itaú Unibanco
+- name: Rodrigo Cabrera Castaldoni
+  title: Consultor Agile Health Tech
+  linkedin: https://www.linkedin.com/in/rodrigo-cabrera-castaldoni-575630181/
   futuro: 1
-  photo: /assets/images/speakers/fernando-oliveira.jpeg
-  linkedin: https://www.linkedin.com/in/fernando-julio-oliveira/
+
+- name: Rodrigo Yoshima
+  title: "CEO, AKT e AKC na Aspercom"
+  linkedin: https://www.linkedin.com/in/rodrigoy/
+  raizes: 1
+
+- name: Samuel Moro Bergamo Cavalcante
+  title: Partner and Trainer
+  linkedin: https://www.linkedin.com/in/samuelmbc/
+  lideranca: 1
+
+- name: Stephanie Santos Benjamin
+  title: Agilista no Nubank
+  linkedin: https://www.linkedin.com/in/stephanie-s-benjamin/
+  metricas: 1
+
+- name: Tami Lima
+  title: Consultora na Target Teal
+  linkedin: https://www.linkedin.com/in/tamilima/
+  futuro: 1
+
+- name: Thais Keiko
+  title: APMO - Banco Carrefour
+  linkedin: https://www.linkedin.com/in/tkarakaki/
+  raizes: 1
+  
+- name: Thalita Fabro
+  title: Head de Estratégia e Agilidade no Banco Carrefour
+  linkedin: https://www.linkedin.com/in/thalita-n-fabro-5b3a9953
+  lideranca: 1
+
+- name: Uedson Carlos
+  title: Agile Coach Banco Carrefour
+  linkedin: https://www.linkedin.com/in/uedsoncarlos/
+  metricas: 1
+
+- name: Victor Vidal
+  title: Head de Gestão de Portfólio e Métodos Ágeis
+  linkedin: https://www.linkedin.com/in/victor-vidal-agile/
+  metricas: 1
+
+- name: Vinicius Campos Silva
+  title: Agente de Transformação - Itaú Unibanco
+  linkedin: https://www.linkedin.com/in/viniciuscampossilva/
+  lideranca: 1
+
+- name: Wagner Fusca Voltz
+  title: Objective
+  linkedin: https://www.linkedin.com/in/wagnerfusca/
+  metricas: 1
+  raizes: 1
+
+- name: Yóris Linhares de Souza
+  title: orgganica
+  linkedin: https://www.linkedin.com/in/yorisls/
+  lideranca: 1
+  
