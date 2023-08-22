@@ -346,7 +346,7 @@ permalink_en: /program
   </div>
 </div>
 
-<section id="keynotes" class="wrapper  style1">
+<section id="keynotes" class="wrapper">
   <div class="inner speakers">
     <header class="heading major">
       <h2>Palestrantes</h2>
@@ -356,8 +356,15 @@ permalink_en: /program
 
     {% for speaker in site.data.speakers %}
     <div class="profile">
-      <div class="image-keynotes">
-        <img class="image-speaker" src="{{ speaker.photo | prepend: site.baseurl_root }}" alt="{% t labels.photo_of %} {{speaker.name}}" />
+      <!-- <div class="image-keynotes">
+        <img class="image-speaker" src="{{speaker.photo}}" alt="{% t labels.photo_of %} {{speaker.name}}" />
+      </div> -->
+      <div class="image-keynotes" style="width: 125px !important;
+      height: 125px !important;
+      border-radius: 50% !important;
+      margin: auto;
+      background-image: url({{speaker.photo}});
+      background-size: cover;" alt="{% t labels.photo_of %} {{speaker.name}}">
       </div>
       <p><b>{{ speaker.name }}</b></p>
       <p>{{ speaker.minibio }}</p>
@@ -399,3 +406,8 @@ permalink_en: /program
 </div>
 
 </section>
+<style>
+  .patrocinadoras {
+    display: none;
+  }
+</style>
