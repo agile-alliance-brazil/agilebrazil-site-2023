@@ -40,11 +40,11 @@
 					<p class="title">XP Game - O desafio de tornar seu time de desenvolvimento mais ágil</p>
 					<p class="autor">Wagner Fusca Voltz & Pedro Luiz Martins Cruz</p>
 				</div>`,
-			'identificacao-1050-7': `<div class="activity workspace lideranca card-program">
-			<div class="local-palestra">Workshop 3</div>
-					<p class="title">JOGAM-SE CARTAS: poderoso baralho de tendências para trazer sua visão de futuro e traçar um mapa estratégico para sair da inércia em 130 minutos</p>
-					<p class="autor">Estefany Medici & Maíra do Vale Machado</p>
-				</div>`,
+			'identificacao-1050-7': `<div class="activity cliente workspace card-program">
+				<div class="local-palestra">Workshop 3</div>
+				<p class="title">Épicos que geram Valor para os Clientes: VPD eXperience</p>
+				<p class="autor">Fernando Souza</p>
+			</div>`,
 			'identificacao-1130-1': `<div class="activity raizes card-program">
 					<div class="local-palestra">Auditótio</div>
 					<p class="title">Volta às origens do Manifesto Ágil: como pensamos e fazemos Agilidade em times de Produto e Tecnologia na Solfácil</p>
@@ -55,10 +55,10 @@
 					<p class="title">Mas o que foi que aconteceu com a Agilidade?</p>
 					<p class="autor">Marcos Garrido</p>
 				</div>`,
-			'identificacao-1130-3': `<div class="activity metrica card-program">
-					<div class="local-palestra">Palestra 2</div>
-					<p class="title">Em definição</p>
-					<p class="autor"></p>
+			'identificacao-1130-3': `<div class="activity futuro card-program">
+					<div class="local-palestra">Palestra 3</div>
+					<p class="title">Não rufem os tambores: a produtividade voltou para salvar a agilidade</p>
+					<p class="autor">Bruno Zanutto</p>
 				</div>`,
 			'identificacao-1130-4': `<div class="activity cliente card-program">
 					<div class="local-palestra">Palestra 3</div>
@@ -161,7 +161,7 @@
 					<p class="autor">Joaquim Torres</p>
 				</div>`,
 			'identificacao-1640': '<div class="activity full-space card-program">Coffee</div>',
-			'identificacao-1710': '<div class="activity full-space keynote card-program">Keynote - em definição</div>',
+			'identificacao-1710': '<div class="activity full-space keynote card-program">Keynote - Melina Teixeira</div>',
 			'identificacao-1800': '<div class="activity full-space card-program">Encerramento</div>',
 		},
 		10: {
@@ -357,7 +357,7 @@
 		11: {
 			
 			'identificacao-900': '<div class="activity full-space card-program">Credenciamento</div>',
-			'identificacao-930': '<div class="activity full-space keynote card-program">Keynote - Arie</div>',
+			'identificacao-930': '<div class="activity full-space keynote card-program">Keynote -  Arie Bennekum</div>',
 			'identificacao-1020': '<div class="activity full-space card-program">Welcome coffee</div>',
 			'identificacao-1050-1': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Auditótio</div>
@@ -389,10 +389,10 @@
 					<p class="title">Strategic Mobilisation Canvas – Como facilitar mobilizações estratégicas efetivas</p>
 					<p class="autor">Manoel Pimentel Medeiros</p>
 				</div>`,
-			'identificacao-1050-7': `<div class="activity cliente workspace card-program">
-					<div class="local-palestra">Workshop 3</div>
-					<p class="title">Épicos que geram Valor para os Clientes: VPD eXperience</p>
-					<p class="autor">Fernando Souza</p>
+			'identificacao-1050-7': `<div class="activity workspace lideranca card-program">
+				<div class="local-palestra">Workshop 3</div>
+					<p class="title">JOGAM-SE CARTAS: poderoso baralho de tendências para trazer sua visão de futuro e traçar um mapa estratégico para sair da inércia em 130 minutos</p>
+					<p class="autor">Estefany Medici & Maíra do Vale Machado</p>
 				</div>`,
 			'identificacao-1130-1': `<div class="activity raizes card-program">
 					<div class="local-palestra">Auditótio</div>
@@ -449,10 +449,10 @@
 					<p class="title">Product Ownership - Melhores práticas e desafios na gestão do produto</p> 
 					<p class="autor">Rafael Imhof</p>
 				</div>`,
-			'identificacao-1430-4': `<div class="activity futuro card-program">
-					<div class="local-palestra">Palestra 3</div>
-					<p class="title">Não rufem os tambores: a produtividade voltou para salvar a agilidade</p>
-					<p class="autor">Bruno Zanutto</p>
+			'identificacao-1430-4': `<div class="activity metrica card-program">
+					<div class="local-palestra">Palestra 2</div>
+					<p class="title">Em definição</p>
+					<p class="autor"></p>
 				</div>`,
 			'identificacao-1430-5': `<div class="activity metrica workspace card-program">
 					<div class="local-palestra">Workshop 1</div>
