@@ -75,11 +75,6 @@
 					<p class="title">Heróis, vilões ou vítimas, o que realmente está acontecendo na sua empresa? E qual o impacto disso.</p>
 					<p class="autor">Samuel Moro Bergamo Cavalcante & Jose JR</p>
 				</div>`,
-			/* 'identificacao-1210-3': `<div class="activity raizes card-program">
-					<div class="local-palestra">Palestra 2</div>
-					<p class="title">DevOps = Automação + Colaboração e de quebra Conformidade</p>
-					<p class="autor">Estefany Medici & Maíra do Vale Machado</p>
-				</div>`,*/
 			'identificacao-1210-3': `<div class="activity raizes card-program">
 					<div class="local-palestra">Palestra 2</div>
 					<p class="title">DevOps = Automação + Colaboração e de quebra Conformidade</p>
