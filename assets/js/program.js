@@ -78,7 +78,7 @@
 			'identificacao-1210-3': `<div class="activity raizes card-program">
 					<div class="local-palestra">Palestra 2</div>
 					<p class="title">DevOps = Automação + Colaboração e de quebra Conformidade</p>
-					<p class="autor">Estefany Medici & Maíra do Vale Machado</p>
+					<p class="autor">Felipe da Rocha Lopes & Analia Irigoyen</p>
 				</div>`,
 			'identificacao-1210-4': `<div class="activity metrica card-program">
 					<div class="local-palestra">Palestra 3</div>
