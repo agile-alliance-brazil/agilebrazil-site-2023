@@ -187,7 +187,8 @@
 			'identificacao-1050-4': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Palestra 3</div>
 					<p class="title">Como o protagonismo de um chapter de agilidade muda o status quo de tecnologia com visão sistêmica</p>
-					<p class="autor">Gleica Reinert & Patrícia Ellen Pires Reinert</p>
+					<!-- <p class="autor">Gleica Reinert & Patrícia Ellen Pires Reinert</p> -->
+					<p class="autor">Gleica Reinert</p>
 				</div>`,
 			'identificacao-1050-5': `<div class="activity raizes workspace card-program">
 					<div class="local-palestra">Workshop 1</div>
