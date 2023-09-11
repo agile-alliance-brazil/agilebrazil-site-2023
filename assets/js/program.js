@@ -305,10 +305,10 @@
 					<p class="title">Product Ops: A nova agilidade?</p>
 					<p class="autor">Priscila Chagas</p>
 				</div>`,
-			'identificacao-1550-2': `<div class="activity default card-program">
+			'identificacao-1550-2': `<div class="activity metrica card-program">
 					<div class="local-palestra">Palestra 1</div>
-					<p class="title">Em definição</p>
-					<p class="autor"></p>
+					<p class="title">Domine o resultado do seu portfólio/roadmap - como unir as métricas de fluxo com o resultados de negócio</p>
+					<p class="autor">Alan Kuhn & Caco Mafra</p>
 				</div>`,
 			'identificacao-1550-3': `<div class="activity futuro card-program">
 					<div class="local-palestra">Palestra 2</div>
@@ -495,10 +495,10 @@
 					<p class="title">Trazendo a Diversidade através da Estratégica e Agilidade! Como trazer na sua organização?</p>
 					<p class="autor">Jéssica Ferrari</p>
 				</div>`,
-			'identificacao-1550-2': `<div class="activity metrica card-program">
+			'identificacao-1550-2': `<div class="activity default card-program">
 					<div class="local-palestra">Palestra 1</div>
-					<p class="title">Domine o resultado do seu portfólio/roadmap - como unir as métricas de fluxo com o resultados de negócio</p>
-					<p class="autor">Alan Kuhn & Caco Mafra</p>
+					<p class="title">Em definição</p>
+					<p class="autor"></p>
 				</div>`,
 			'identificacao-1550-3': `<div class="activity cliente card-program">
 					<div class="local-palestra">Palestra 2</div>
