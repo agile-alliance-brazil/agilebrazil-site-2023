@@ -248,7 +248,7 @@
 			'identificacao-1430-1': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Auditótio</div>
 					<p class="title">Construindo Pontes para o Flight Level 3: Como Promover a Agilidade Estratégica e influenciar mudanças sem acesso direto ao Nível Estratégico</p>
-					<p class="autor">Isabel Coutinho & Luciana Mara Neves Vogas</p>
+					<p class="autor">Isabel Coutinho & Luciana Vogas</p>
 				</div>`,
 			'identificacao-1430-2': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Palestra 1</div>
