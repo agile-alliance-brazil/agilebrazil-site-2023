@@ -148,7 +148,7 @@
 			'identificacao-1550-2': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Palestra 1</div>
 					<p class="title">Business Agility no mundo real com uma abordagem E2E 360</p>
-					<p class="autor">Marco Dubovski & Alex Franco</p>
+					<p class="autor">Marco Dubovski</p>
 				</div>`,
 			'identificacao-1550-3': `<div class="activity metrica card-program">
 					<div class="local-palestra">Palestra 2</div>
