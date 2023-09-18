@@ -67,7 +67,7 @@
 				</div>`,
 			'identificacao-1210-1': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Auditótio</div>
-					<p class="title">Uso de Design Thinkign & Design Flow para acelerar entregas de Grupo e Trabalho para ações contra Violência Sexual na Petrobras</p>
+					<p class="title">Uso de Design Thinking & Design Flow para acelerar entregas de Grupo e Trabalho para ações contra Violência Sexual na Petrobras</p>
 					<p class="autor">Joelma Gonçalves Damasceno Mota & Raquel Rodrigues Silva</p>
 				</div>`,
 			'identificacao-1210-2': `<div class="activity lideranca card-program">
@@ -172,7 +172,7 @@
 					<div class="local-palestra">Auditótio</div>
 					<!-- <div class="trilha">Futuro da Agilidade</div> -->
 					<p class="title">KMM, a bússola da evolução do Kanban na Logística Via</p>
-					<p class="autor">Juliana Oliveira de Menezes & Mylena de Souza Nascimento</p>
+					<p class="autor">Juliana Oliveira de Menezes</p>
 				</div>`,
 			'identificacao-1050-2': `<div class="activity futuro card-program">
 					<div class="local-palestra">Palestra 1</div>
