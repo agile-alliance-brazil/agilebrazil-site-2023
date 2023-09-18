@@ -546,11 +546,11 @@
   linkedin: https://www.linkedin.com/in/monicafonsecabr/
   cliente: 1
 
-- name: Mylena de Souza Nascimento
-  title: Especialista de Agilidade
-  photo: https://even3.blob.core.windows.net/formulario-inscricao/58773f1b-4669-46ee-a80e-722a942766e1.68b96ca327974b9fa23c.jpg
-  linkedin: https://www.linkedin.com/in/mylena-souza06/
-  futuro: 1
+#- name: Mylena de Souza Nascimento
+#  title: Especialista de Agilidade
+#  photo: https://even3.blob.core.windows.net/formulario-inscricao/58773f1b-4669-46ee-a80e-722a942766e1.68b96ca327974b9fa23c.jpg
+#  linkedin: https://www.linkedin.com/in/mylena-souza06/
+#  futuro: 1
 
 - name: Nancy Vieira
   title: Analista de Cultura de Dados
