@@ -7,8 +7,7 @@
 (function($) {
 	window.dataProgram = {
 		9: {
-			'identificacao-900': '<div class="activity full-space card-program">Credenciamento</div>',
-			'identificacao-930': '<div class="activity full-space keynote card-program">keynote - Pia Maria</div>',
+			'identificacao-900': '<div class="activity full-space keynote card-program">keynote - Pia Maria</div>',
 			'identificacao-1020': '<div class="activity full-space card-program">Welcome coffee</div>',
 			'identificacao-1050-1': `<div class="activity metrica card-program">
 					<div class="local-palestra">Auditótio</div>
@@ -165,8 +164,7 @@
 			'identificacao-1800': '<div class="activity full-space card-program">Encerramento</div>',
 		},
 		10: {
-			'identificacao-900': '<div class="activity full-space card-program">Credenciamento</div>',
-			'identificacao-930': '<div class="activity full-space keynote card-program">Keynote - Mari Graf</div>',
+			'identificacao-900': '<div class="activity full-space keynote card-program">Keynote - Mari Graf</div>',
 			'identificacao-1020': '<div class="activity full-space card-program">Welcome coffee</div>',
 			'identificacao-1050-1': `<div class="activity futuro card-program">
 					<div class="local-palestra">Auditótio</div>
@@ -355,10 +353,8 @@
 				</div>`,
 			'identificacao-1800': '<div class="activity full-space card-program">Encerramento</div>',
 		},
-		11: {
-			
-			'identificacao-900': '<div class="activity full-space card-program">Credenciamento</div>',
-			'identificacao-930': '<div class="activity full-space keynote card-program">Keynote -  Arie Bennekum</div>',
+		11: {			
+			'identificacao-900': '<div class="activity full-space keynote card-program">Keynote -  Arie Bennekum</div>',
 			'identificacao-1020': '<div class="activity full-space card-program">Welcome coffee</div>',
 			'identificacao-1050-1': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Auditótio</div>
