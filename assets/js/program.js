@@ -169,7 +169,7 @@
 			'identificacao-1050-1': `<div class="activity futuro card-program">
 					<div class="local-palestra">Auditótio</div>
 					<!-- <div class="trilha">Futuro da Agilidade</div> -->
-					<p class="title">KMM, a bússola da evolução do Kanban na Logística Via</p>
+					<p class="title">KMM, a bússola da evolução do Kanban na Logística do  Grupo Casas Bahia</p>
 					<p class="autor">Juliana Oliveira de Menezes</p>
 				</div>`,
 			'identificacao-1050-2': `<div class="activity futuro card-program">
@@ -488,7 +488,7 @@
 				</div>`,
 			'identificacao-1550-1': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Auditótio</div>
-					<p class="title">Trazendo a Diversidade através da Estratégica e Agilidade! Como trazer na sua organização?</p>
+					<p class="title">Diversidade através de Estratégia e Agilidade! Como trazer na sua organização?</p>
 					<p class="autor">Jéssica Ferrari</p>
 				</div>`,
 			'identificacao-1550-2': `<div class="activity default card-program">
