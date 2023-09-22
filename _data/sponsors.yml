@@ -3,6 +3,11 @@
   url: https://www.b3.com.br/
   level: title
 
+- name: DB
+  logo: /assets/images/sponsors/sponsor-logo-bd.png
+  url: https://db.tec.br/
+  level: prata
+
 - name: Suzano
   logo: /assets/images/sponsors/sponsor-logo-suzano.png
   url: https://www.suzano.com.br
