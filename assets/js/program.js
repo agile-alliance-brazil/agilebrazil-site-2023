@@ -114,11 +114,11 @@
 					<p class="title">Maximizando o sucesso do seu time e empresa com o framework EBM: Aprenda a identificar as métricas mais relevantes para a sua organização</p>
 					<p class="autor">Fernando Oliveira & Luciana Macedo Cajaty</p>
 				</div>`,
-			'identificacao-1430-7': `<div class="activity cliente workspace card-program">
-					<div class="local-palestra">Workshop 3</div>
-					<p class="title">Workshop MVP Canvas a partir da Lean Inception</p>
-					<p class="autor">Daniel Nunes & Mayra de Souza</p>
-				</div>`,
+			'identificacao-1430-7': `<div class="activity futuro workspace card-program">
+				<div class="local-palestra">Workshop 1</div>
+				<p class="title">Estruturas Libertadoras para Agilistas Workshop Pocket</p>
+				<p class="autor">Mayra de Souza & Deividy Ramires</p>
+			</div>`,
 			'identificacao-1510-1': `<div class="activity raizes card-program">
 					<div class="local-palestra">Auditótio</div>
 					<p class="title">12 coisas para melhorar no Scrum (sem tirar Sprints)</p>
@@ -376,11 +376,11 @@
 					<p class="title">Métricas automatizadas: Como utilizamos a inteligência de dados para impulsionar nossos times!</p>
 					<p class="autor">Antonio Flor Junior</p>
 				</div>`,
-			'identificacao-1050-5': `<div class="activity futuro workspace card-program">
-					<div class="local-palestra">Workshop 1</div>
-					<p class="title">Estruturas Libertadoras para Agilistas Workshop Pocket</p>
-					<p class="autor">Mayra de Souza & Deividy Ramires</p>
-				</div>`,
+			'identificacao-1050-5': `<div class="activity cliente workspace card-program">
+				<div class="local-palestra">Workshop 3</div>
+				<p class="title">Workshop MVP Canvas a partir da Lean Inception</p>
+				<p class="autor">Daniel Nunes & Mayra de Souza</p>
+			</div>`,
 			'identificacao-1050-6': `<div class="activity lideranca workspace card-program">
 					<div class="local-palestra">Workshop 2</div>
 					<p class="title">Strategic Mobilisation Canvas – Como facilitar mobilizações estratégicas efetivas</p>
