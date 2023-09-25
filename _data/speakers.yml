@@ -199,11 +199,11 @@
   futuro: 1
   metricas: 1
 
-- name: Davi Gabriel da Silva
-  title: Consultor na Target Teal
-  photo: https://even3.blob.core.windows.net/formulario-inscricao/perfil-linkedin-1000.e645aef754174371aa69.jpg
-  linkedin: https://www.linkedin.com/in/davigbr
-  futuro: 1
+#- name: Davi Gabriel da Silva
+#  title: Consultor na Target Teal
+#  photo: https://even3.blob.core.windows.net/formulario-inscricao/perfil-linkedin-1000.e645aef754174371aa69.jpg
+#  linkedin: https://www.linkedin.com/in/davigbr
+#  futuro: 1
 
 - name: Deividy Ramires
   title: Facilitador e Trainer de Estruturas Libertadores | Coletivo Ação
@@ -631,6 +631,12 @@
   linkedin: https://www.linkedin.com/in/rhaissa-ferreira/
   lideranca: 1
   raizes: 1
+
+- name: Rodrigo Bastos da Silva
+  title: Org Designer
+  photo: /2023/assets/images/speakers/rodrigo-bastos.jpg
+  linkedin: https://www.linkedin.com/in/rodbastos/
+  futuro: 1
 
 - name: Rodrigo Cabrera Castaldoni
   title: Consultor Agile Health Tech
