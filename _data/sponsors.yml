@@ -3,6 +3,11 @@
   url: https://www.b3.com.br/
   level: title
 
+- name: Thoughtworks
+  logo: /assets/images/sponsors/sponsor-thoughtworks.png
+  url: https://www.thoughtworks.com/pt-br
+  level: diamante
+
 - name: DB
   logo: /assets/images/sponsors/sponsor-logo-bd.png
   url: https://db.tec.br/
