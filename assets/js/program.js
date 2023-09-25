@@ -463,8 +463,8 @@
 				</div>`,
 			'identificacao-1430-7': `<div class="activity futuro workspace card-program">
 					<div class="local-palestra">Workshop 3</div>
-					<p class="title">Aprimorando a Gestão Ágil e o Design Organizacional com ChatGPT e Inteligência Artificial</p>
-					<p class="autor">Davi Gabriel da Silva & Tami Lima</p>
+					<p class="title">Dinâmicas de Poder - Liderança e Design Organizacional</p>
+					<p class="autor">Rodrigo Bastos da Silva & Tami Lima</p>
 				</div>`,
 			'identificacao-1510-1': `<div class="activity raizes card-program">
 					<div class="local-palestra">Auditótio</div>
