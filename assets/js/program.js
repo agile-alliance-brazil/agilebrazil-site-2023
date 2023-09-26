@@ -337,7 +337,7 @@
 			'identificacao-1710-4': `<div class="activity cliente card-program">
 					<div class="local-palestra">Palestra 3</div>
 					<p class="title">Caos ou oportunidade? Como organizar um time para crescer em cenários turbulentos</p>
-					<p class="autor">Alessandra Vasco & Flavia Vargas</p>
+					<p class="autor">Alessandra Vasco</p>
 				</div>`,
 			'identificacao-1710-5': `<div class="activity default card-program">
 					<p class="title">Painel - em definição</p>
