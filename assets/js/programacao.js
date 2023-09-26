@@ -7,8 +7,9 @@
 (function($) {
 	window.dataProgram = {
 		9: {
+			'identificacao-800': '<div class="activity full-space card-program">Credenciamento</div>',
 			'identificacao-900': '<div class="activity full-space keynote card-program">keynote - Pia Maria</div>',
-			'identificacao-1020': '<div class="activity full-space card-program">Welcome coffee</div>',
+			'identificacao-1020': '<div class="activity full-space card-program">Coffe Break</div>',
 			'identificacao-1050-1': `<div class="activity metrica card-program">
 					<div class="local-palestra">Auditótio</div>
 					<p class="title">Como utilizamos métricas de experiência para suportar uma jornada de descoberta contínua para produtos internos</p>
@@ -164,8 +165,9 @@
 			'identificacao-1800': '<div class="activity full-space card-program">Encerramento</div>',
 		},
 		10: {
+			'identificacao-800': '<div class="activity full-space card-program">Credenciamento</div>',
 			'identificacao-900': '<div class="activity full-space keynote card-program">Keynote - Mari Graf</div>',
-			'identificacao-1020': '<div class="activity full-space card-program">Welcome coffee</div>',
+			'identificacao-1020': '<div class="activity full-space card-program">Coffe Break</div>',
 			'identificacao-1050-1': `<div class="activity futuro card-program">
 					<div class="local-palestra">Auditótio</div>
 					<!-- <div class="trilha">Futuro da Agilidade</div> -->
@@ -353,9 +355,10 @@
 				</div>`,
 			'identificacao-1800': '<div class="activity full-space card-program">Encerramento</div>',
 		},
-		11: {			
+		11: {	
+			'identificacao-800': '<div class="activity full-space card-program">Credenciamento</div>',		
 			'identificacao-900': '<div class="activity full-space keynote card-program">Keynote -  Arie Bennekum</div>',
-			'identificacao-1020': '<div class="activity full-space card-program">Welcome coffee</div>',
+			'identificacao-1020': '<div class="activity full-space card-program">Coffe Break</div>',
 			'identificacao-1050-1': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Auditótio</div>
 					<p class="title">O Que Aprendi Quando Métricas Moldam Comportamentos Indesejaveis</p>
