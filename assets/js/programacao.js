@@ -160,7 +160,7 @@
 					<p class="title">Lições Aprendidas de uma Transformação Digital</p>
 					<p class="autor">Joaquim Torres</p>
 				</div>`,
-			'identificacao-1640': '<div class="activity full-space card-program"Coffee Break/div>',
+			'identificacao-1640': '<div class="activity full-space card-program">Coffee Break</div>',
 			'identificacao-1710': '<div class="activity full-space keynote card-program">Keynote - Melina Teixeira</div>',
 			'identificacao-1800': '<div class="activity full-space card-program">Encerramento</div>',
 		},
@@ -320,7 +320,7 @@
 					<p class="title">Painel - em definição</p>
 					<p class="autor"></p>
 				</div>`,
-			'identificacao-1640': '<div class="activity full-space card-program"Coffee Break/div>',			
+			'identificacao-1640': '<div class="activity full-space card-program">Coffee Break</div>',			
 			'identificacao-1710-1': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Auditótio</div>
 					<p class="title">Scaffolding your way into Organizational Agility</p>
@@ -509,7 +509,7 @@
 					<p class="title">Repensando a Carreira Agilista: Adaptabilidade e Competências para um Futuro em Transformação</p>
 					<p class="autor">Aline Roque Klein</p>
 				</div>`,
-			'identificacao-1640': '<div class="activity full-space card-program"Coffee Break/div>',
+			'identificacao-1640': '<div class="activity full-space card-program">Coffee Break</div>',
 			'identificacao-1710': '<div class="activity full-space keynote card-program">Keynote - Rafa Caceres</div>',
 			'identificacao-1800': '<div class="activity full-space card-program">Encerramento</div>',
 		}
