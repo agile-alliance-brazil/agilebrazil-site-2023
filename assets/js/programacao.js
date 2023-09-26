@@ -7,8 +7,9 @@
 (function($) {
 	window.dataProgram = {
 		9: {
+			'identificacao-800': '<div class="activity full-space card-program">Credenciamento</div>',
 			'identificacao-900': '<div class="activity full-space keynote card-program">keynote - Pia Maria</div>',
-			'identificacao-1020': '<div class="activity full-space card-program">Welcome coffee</div>',
+			'identificacao-1020': '<div class="activity full-space card-program">Coffee Break</div>',
 			'identificacao-1050-1': `<div class="activity metrica card-program">
 					<div class="local-palestra">Auditótio</div>
 					<p class="title">Como utilizamos métricas de experiência para suportar uma jornada de descoberta contínua para produtos internos</p>
@@ -159,13 +160,14 @@
 					<p class="title">Lições Aprendidas de uma Transformação Digital</p>
 					<p class="autor">Joaquim Torres</p>
 				</div>`,
-			'identificacao-1640': '<div class="activity full-space card-program">Coffee</div>',
+			'identificacao-1640': '<div class="activity full-space card-program">Coffee Break</div>',
 			'identificacao-1710': '<div class="activity full-space keynote card-program">Keynote - Melina Teixeira</div>',
 			'identificacao-1800': '<div class="activity full-space card-program">Encerramento</div>',
 		},
 		10: {
+			'identificacao-800': '<div class="activity full-space card-program">Credenciamento</div>',
 			'identificacao-900': '<div class="activity full-space keynote card-program">Keynote - Mari Graf</div>',
-			'identificacao-1020': '<div class="activity full-space card-program">Welcome coffee</div>',
+			'identificacao-1020': '<div class="activity full-space card-program">Coffee Break</div>',
 			'identificacao-1050-1': `<div class="activity futuro card-program">
 					<div class="local-palestra">Auditótio</div>
 					<!-- <div class="trilha">Futuro da Agilidade</div> -->
@@ -318,7 +320,7 @@
 					<p class="title">Painel - em definição</p>
 					<p class="autor"></p>
 				</div>`,
-			'identificacao-1640': '<div class="activity full-space card-program">Coffee</div>',			
+			'identificacao-1640': '<div class="activity full-space card-program">Coffee Break</div>',			
 			'identificacao-1710-1': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Auditótio</div>
 					<p class="title">Scaffolding your way into Organizational Agility</p>
@@ -353,9 +355,10 @@
 				</div>`,
 			'identificacao-1800': '<div class="activity full-space card-program">Encerramento</div>',
 		},
-		11: {			
+		11: {	
+			'identificacao-800': '<div class="activity full-space card-program">Credenciamento</div>',		
 			'identificacao-900': '<div class="activity full-space keynote card-program">Keynote -  Arie Bennekum</div>',
-			'identificacao-1020': '<div class="activity full-space card-program">Welcome coffee</div>',
+			'identificacao-1020': '<div class="activity full-space card-program">Coffee Break</div>',
 			'identificacao-1050-1': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Auditótio</div>
 					<p class="title">O Que Aprendi Quando Métricas Moldam Comportamentos Indesejaveis</p>
@@ -506,7 +509,7 @@
 					<p class="title">Repensando a Carreira Agilista: Adaptabilidade e Competências para um Futuro em Transformação</p>
 					<p class="autor">Aline Roque Klein</p>
 				</div>`,
-			'identificacao-1640': '<div class="activity full-space card-program">Coffee</div>',
+			'identificacao-1640': '<div class="activity full-space card-program">Coffee Break</div>',
 			'identificacao-1710': '<div class="activity full-space keynote card-program">Keynote - Rafa Caceres</div>',
 			'identificacao-1800': '<div class="activity full-space card-program">Encerramento</div>',
 		}
