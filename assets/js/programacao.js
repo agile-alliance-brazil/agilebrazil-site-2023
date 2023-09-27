@@ -208,7 +208,7 @@
 			'identificacao-1130-1': `<div class="activity raizes card-program">
 					<div class="local-palestra">Auditótio</div>
 					<p class="title">Como operacionalizar o Modelo de Tuckman e fugir da harmonia artificial?</p>
-					<p class="autor">Jéssica Ferrari & Alaíde Nepomuceno</p>
+					<p class="autor">Jéssica Ferrari</p>
 				</div>`,
 			'identificacao-1130-2': `<div class="activity cliente card-program">
 					<div class="local-palestra">Palestra 1</div>
@@ -492,7 +492,7 @@
 			'identificacao-1550-1': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Auditótio</div>
 					<p class="title">Diversidade através de Estratégia e Agilidade! Como trazer na sua organização?</p>
-					<p class="autor">Jéssica Ferrari</p>
+					<p class="autor">Jéssica Ferrari & Alaíde Nepomuceno</p>
 				</div>`,
 			'identificacao-1550-2': `<div class="activity default card-program">
 					<div class="local-palestra">Palestra 1</div>
