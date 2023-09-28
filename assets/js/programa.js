@@ -353,7 +353,8 @@
 					<p class="title">Open Space</p>
 					<p class="autor"></p>
 				</div>`,
-			'identificacao-1800': '<div class="activity full-space card-program">Encerramento</div>',
+			'identificacao-1800': '<div class="activity full-space card-program">Lançamento Agilidade Preta</div>',
+			'identificacao-1830': '<div class="activity full-space card-program">Encerramento</div>',
 		},
 		11: {	
 			'identificacao-800': '<div class="activity full-space card-program">Credenciamento</div>',		
