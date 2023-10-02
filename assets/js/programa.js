@@ -328,8 +328,8 @@
 				</div>`,
 			'identificacao-1710-2': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Palestra 1</div>
-					<p class="title">O poder da facilitação e seu verdadeiro impacto na cultura das organizações</p>
-					<p class="autor">Diogo Riker & Vinicius Campos Silva</p>
+					<p class="title"> Escalando a Transformação Digital usando agilidade como habilitadora</p>
+					<p class="autor">Rodrigo Nardoni & Eduardo Lopes Farias</p>
 				</div>`,
 			'identificacao-1710-3': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Palestra 2</div>
@@ -430,10 +430,10 @@
 					<p class="title">Agile RPG: Uma jornada inesperada para se ensinar sobre agilidade</p>
 					<p class="autor">Eduardo Reus Souza</p>
 				</div>`,
-			'identificacao-1210-4': `<div class="activity default card-program">
+			'identificacao-1210-4': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Palestra 3</div>
-					<p class="title">Painel - em definição</p>
-					<p class="autor"></p>
+					<p class="title">O poder da facilitação e seu verdadeiro impacto na cultura das organizações</p>
+					<p class="autor">Diogo Riker & Vinicius Campos Silva</p>
 				</div>`,
 			'identificacao-1430-1': `<div class="activity lideranca card-program">
 					<div class="local-palestra">Auditótio</div>
