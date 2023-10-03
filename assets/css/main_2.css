@@ -189,6 +189,8 @@ ul.icons.hastag {
 	min-width: 50px;
 	font-weight: bold;
 	height: 100%;
+	display: inline-table;
+	width: 100%;
 }
 
 #program-intregration-v2 table div.card-program p.title{
