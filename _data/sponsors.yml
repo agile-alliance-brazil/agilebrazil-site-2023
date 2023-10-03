@@ -8,6 +8,11 @@
   url: https://www.thoughtworks.com/pt-br
   level: diamante
 
+- name: Businessmap
+  logo: /assets/images/sponsors/sponsor-businessmap.png
+  url: https://businessmap.io/pt
+  level: ouro
+
 - name: DB
   logo: /assets/images/sponsors/sponsor-logo-bd.png
   url: https://db.tec.br/
