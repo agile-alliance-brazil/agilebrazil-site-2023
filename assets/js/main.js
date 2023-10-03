@@ -117,7 +117,7 @@
 				resetForms: true,
 				side: 'right'
 			});
-
+/*
 setInterval(function () {
 	$(".backgroud-modal").animate({opacity:1},750);
 
@@ -127,6 +127,6 @@ setInterval(function () {
 		});
 	} );
 }, 2000);
-
+*/
 
 })(jQuery);
